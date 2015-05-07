@@ -14,15 +14,17 @@ Community-Driven
 Marketing at [Torque](http://torque.digital/)
 
 - [River North Point](http://rivernorthpoint.com)
-- [311 W Monroe, Chicago – in progress]
-- [555 12th Street, Washington, DC - in progress]
+- 311 W Monroe, Chicago – in progress
+- 555 12th Street, Washington, DC - in progress
 
 
 Product
+
 - [Pivvot](http://pivvotgame.com/)
 - [Tetrapulse](http://tetrapulse.com/)
 
 
 Small Business
+
 - [Spoke & Wheel Strategy](http://spokeandwheelstrategy.com/)
 - [The Amiable](http://theamiable.com)
