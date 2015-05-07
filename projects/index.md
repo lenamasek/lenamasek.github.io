@@ -3,12 +3,26 @@ layout: page
 title: Projects
 ---
 
-Just a sample of another page that you could include for some purpose in the primary navigation.
+I work on all sorts of projects from multi-page print layout design to front-end web development. Here's a list of some of the projects I've worked on lately. 
 
-This could be a great place to list your own projects. But to get you started, here's some handy links:
+Community-Driven
 
-- [List of Jekyll-powered websites](https://github.com/jekyll/jekyll/wiki/Sites)
-- [Octopress, a Jekyll based blog framework](https://github.com/octopress/)
-- [Jekyll documentation](http://jekyllrb.com/)
-- [Jekyll source on GitHub](https://github.com/jekyll/jekyll)
-- [Available plugins](http://jekyllrb.com/docs/plugins/#available_plugins)
+- [The Truth About You and Me](http://thetruthaboutyouand.me)
+- [Bit Bash Chicago](http://bitbashchicago.com/)
+
+
+Marketing at [Torque](http://torque.digital/)
+
+- [River North Point](http://rivernorthpoint.com)
+- [311 W Monroe, Chicago – in progress]
+- [555 12th Street, Washington, DC - in progress]
+
+
+Product
+- [Pivvot](http://pivvotgame.com/)
+- [Tetrapulse](http://tetrapulse.com/)
+
+
+Small Business
+- [Spoke & Wheel Strategy](http://spokeandwheelstrategy.com/)
+- [The Amiable](http://theamiable.com)
