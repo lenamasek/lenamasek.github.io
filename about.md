@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 feature-img: "img/polarbears3-bystevenkazlowski.jpg"
 ---
