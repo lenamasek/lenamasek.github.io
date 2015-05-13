@@ -12,11 +12,10 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>i'm <span>lena masek</span>. i split my time between web design & development and print design & production. i split these skills at a marketing agency and as a freelancer. i'd love to work on your project with you.
-
+     <p>i'm <span>lena masek</span>. i do both web design & development and print design & production – i'd love to work on your project with you.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   <small>Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>. &copy; 2015 lena masek.</small> 
 
   # Icons
   rss: false
