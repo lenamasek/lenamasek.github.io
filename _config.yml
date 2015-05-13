@@ -1,109 +1,69 @@
-### GENERAL SETTINGS ###
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://example.com" # the base hostname & protocol for your site
 
-# Site settings
-title: lena masek
-description: "i'm lena masek. i do web + print design/development at a marketing agency and as a freelancer. i also design and build small sites for people, products, and small businesses."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://lenamasek.github.io"
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Type Theme
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "A website with blog posts and pages" # used by search engines
 
-# Build settings
+  # Header and footer text
+  header_text: >
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "rohanchandra/type-theme"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "twitter"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
 markdown: kramdown
-permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-
-colors:  #in hex code if not noted else
-  primary: "#1ec4bc" #"#F70031" 
-  primary_rgb: "30,196,188" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#1c3f5e" #"#33004D"
-  link: "#666666"
-  link_hover: "#888888"
-  footer_heading: "#ffffff"
-  footer_content: "#1ec4bc"
-  
-  
-### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-#  - title: dribbble
-#    url:
-#  - title: facebook
-#    url:
-  - title: twitter
-    url: http://twitter.com/lenamasek
-  - title: instagram
-    url: http://instagram.com/lenamasek
-  - title: tumblr
-    url: http://animatemyveins.tumblr.com/
-    
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: lena.masek@gmail.com
-# tel:
-
-
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
-# Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:lena.masek@gmail.com
-      - title: twitter
-        url: http://twitter.com/lenamasek
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/lenamasek
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/lenamasek
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/lenamasek
-    
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "i'm lena masek. i work on web + print projects at torque from concepting/ideation to front-end web development to print production. i also freelance the same for people, products, and small businesses"
-
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
