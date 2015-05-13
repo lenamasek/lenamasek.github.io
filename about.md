@@ -12,4 +12,4 @@ at torque, i apply strategic concepts to a variety of media. i do everything fro
 i also freelance on the side and would love to work with you on your next project. find me using one of the following internet locations and we'll get started.
 
 <!-- Social icons from Font Awesome, if enabled -->
-{% include icons.html %}
+			{% include icons.html %}
