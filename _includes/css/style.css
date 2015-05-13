@@ -151,7 +151,8 @@ a:focus {
 .btn-theme {
   color: #fff;
   background-color: {{ site.colors.secondary }};
-  border-color: {{ site.colors.secondary }};
+  border-color: {{ site.colors.primary }};
+  border: 2px solid;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -162,6 +163,7 @@ a:focus {
   color: #fff;
   background-color: {{ site.colors.primary }};
   border-color: {{ site.colors.primary }};
+  border: 2px solid;
 }
 
 .dmbutton:hover,
