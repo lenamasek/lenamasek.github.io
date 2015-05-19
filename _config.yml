@@ -1,67 +1,41 @@
-# SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lenamasek.com" # the base hostname & protocol for your site
+# Title of your blog; shows in the header
+name: "hikari"
 
-# THEME-SPECIFIC CONFIGURATION
-theme:
-  # Meta
-  title: lena masek
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "print + web design & development" # used by search engines
+# Description of your content (will only be used on Google Search)
+description: "Fluid, responsive blog theme for Jekyll"
 
-  # Header and footer text
-  header_text: >
-     <p>i'm <span>lena masek</span>. i do both web design & development and print design & production – i'd love to work on your project with you.</p>
-  header_text_feature_image:
-  footer_text: >
-   <small>Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>. &copy; 2015 lena masek.</small> 
+# Your name. Will show in your footer + sidebar 
+author: "John Doge"
 
-  # Icons
-  rss: false
-  email_address: "lena.masek@gmail.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "lenamasek"
-  google_plus:
-  instagram: "lenamasek"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr: "animatemyveins"
-  twitter: "lenamasek"
-  wordpress:
-  youtube:
+url: "http://m3xm.github.io"
+baseurl: "/hikari-for-Jekyll"
 
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "I'm a dog. I develop things. This is my blog so why don't you close this damn side panel (cursed by most UX Designers but I don't care, I do whatever I want) and start reading my awesome stuff?"
 
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+# Social Accounts (mine, as placeholders)
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
+twitter: mx3m
+github: m3xm
+dribbble: m3xm
+instagram: m3xm
 
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+# Google Analytics (you may want to changes these with yours or even delete :)
 
-# BUILD SETTINGS
+ga_domain: m3xm.github.io
+ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
 markdown: kramdown
+permalink: pretty
 highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
 sass:
-  sass_dir: _sass
+  sass_dir: _scss
   style: :compressed
