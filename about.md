@@ -5,6 +5,8 @@ permalink: /about/
 feature-img: "img/polarbear4.png"
 ---
 
+![Lena with her desk cactus, Kyle](http://lenamasek.github.io/img/lena-cactus.png)
+
 i'm lena masek. i work at [torque](http://torque.digital), a small digital marketing and branding agency in the west loop of chicago. 
 
 at torque, i do everything from print design and production to web design and development. i also design app interfaces and program emails.
