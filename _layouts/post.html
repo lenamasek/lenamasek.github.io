@@ -4,6 +4,9 @@ layout: default
 
 <section class="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+
     <div class="feat">
       <h5 class="page-date">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -11,7 +14,7 @@ layout: default
         </time>
       </h5>
     </div>
-    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    
     <div itemprop="articleBody">
       {{ content }}
     </div>
