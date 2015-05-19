@@ -8,16 +8,16 @@ date:   2014-01-28 16:57:51
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget mattis quam. Nullam non porttitor lorem. Quisque sit amet mi non magna pellentesque efficitur quis ut risus. Fusce sit amet ullamcorper metus.  
 
-<img src="{{ site.baseurl }}/assets/img/pa-2.png">
+<img src="{{ site.baseurl }}/assets/img/pa-2.jpg">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget mattis quam. Nullam non porttitor lorem. Quisque sit amet mi non magna pellentesque efficitur quis ut risus. Fusce sit amet ullamcorper metus. 
 
-<img src="{{ site.baseurl }}/assets/img/pa-4.png">
+<img src="{{ site.baseurl }}/assets/img/pa-4.jpg">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget mattis quam. Nullam non porttitor lorem. Quisque sit amet mi non magna pellentesque efficitur quis ut risus. Fusce sit amet ullamcorper metus. 
 
-<img src="{{ site.baseurl }}/assets/img/pa-5-screens.png">
+<img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget mattis quam. Nullam non porttitor lorem. Quisque sit amet mi non magna pellentesque efficitur quis ut risus. Fusce sit amet ullamcorper metus. 
 
-<img src="{{ site.baseurl }}/assets/img/pa-6-screen.png">
+<img src="{{ site.baseurl }}/assets/img/pa-6-screen.jpg">
