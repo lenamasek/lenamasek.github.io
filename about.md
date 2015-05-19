@@ -2,7 +2,7 @@
 layout: page
 title: about
 permalink: /about/
-feature-img: "img/polarbear4.png"
+feature-img: ""
 ---
 
 ![Lena with her desk cactus, Kyle](http://lenamasek.github.io/img/lena-cactus.png)
