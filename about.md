@@ -5,9 +5,9 @@ permalink: /about/
 feature-img: "img/polarbear4.png"
 ---
 
-i'm frank, but my name is lena. i work at [torque](http://torque.digital), a small digital marketing and branding agency in the west loop of chicago. 
+i'm lena masek. i work at [torque](http://torque.digital), a small digital marketing and branding agency in the west loop of chicago. 
 
-at torque, i apply strategic concepts to a variety of media. i do everything from print design and production to web design and development. i also program emails and design app interfaces.
+at torque, i do everything from print design and production to web design and development. i also design app interfaces and program emails.
 
 i freelance on the side and would love to work with you on your next project. i have a lot of experience specifically making small websites to promote products and small businesses. however, i'm up for anything, so let's [get in touch](mailto:lena.masek@gmail.com).
 
