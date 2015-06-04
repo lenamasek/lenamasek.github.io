@@ -10,7 +10,7 @@
     }
 
     .p-wrap {
-      padding: $spacing-ml $spacing-m;
+      padding: 0px; // $spacing-ml $spacing-m;
       background: $main-color;
       transition: all .15s ease-in;
 
