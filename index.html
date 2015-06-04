@@ -18,7 +18,8 @@ title: Homepage
 
           <time datetime="{{ post.date | date_to_xmlschema }}"
               itemprop="datePublished">
-            {{ post.date | date_to_string }}
+              {{ post.location }}
+            <!-- {{ post.date | date_to_string }} -->
           </time> 
           <p itemprop="name headline">{{ post.title }}</p>
         </div>
