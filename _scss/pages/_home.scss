@@ -13,6 +13,11 @@
       padding: $spacing-ml $spacing-m;
       background: $main-color;
       transition: all .15s ease-in;
+
+      img {
+        max-width:100px;
+      }
+
       &:active {
         background: darken($main-color, 3%);
       }
