@@ -15,7 +15,9 @@
       transition: all .15s ease-in;
 
       img {
-        max-width:100px;
+        height:100%;
+        width: auto;
+        max-width:200px;
       }
 
       &:active {
