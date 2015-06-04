@@ -7,13 +7,14 @@ title: Homepage
   <ul class="posts">
     {% for post in paginator.posts %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
-    <img src="{{ site.baseurl }}/assets/img/{{ post.image }}">
       <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
         <div class="p-wrap">
-          <time datetime="{{ post.date | date_to_xmlschema }}"
+          <img src="{{ site.baseurl }}/assets/img/{{ post.image }}">
+
+          <!--<time datetime="{{ post.date | date_to_xmlschema }}"
               itemprop="datePublished">
             {{ post.date | date_to_string }}
-          </time>
+          </time> -->
           <p itemprop="name headline">{{ post.title }}</p>
         </div>
       </a>
