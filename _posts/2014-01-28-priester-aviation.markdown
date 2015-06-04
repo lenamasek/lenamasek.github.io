@@ -2,7 +2,7 @@
 layout: post
 title:  "Priester Aviation"
 date:   2014-01-28 16:57:51
-image: pa-1b-phone.png
+image: pa-2.jpg
 ---
 
 <img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
