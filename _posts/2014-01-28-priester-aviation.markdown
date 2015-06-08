@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Priester Aviation"
-date:   2014-01-28 16:57:51
-location: portfolio
+date:   2014-01-28
 ---
 
 <img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
