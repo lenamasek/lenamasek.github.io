@@ -9,52 +9,29 @@ title: Homepage
      <h1 class="page-title" itemprop="name headline">Portfolio</h1>
 </section>
 
-  <ul class="posts">
-    {% for post in paginator.posts %}
-    <li itemscope itemtype="http://schema.org/BlogPosting">
-      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-        <div class="p-wrap">
-        
-
-          <time datetime="{{ post.date | date_to_xmlschema }}"
-              itemprop="datePublished">
-              {{ post.location }}
-            <!-- {{ post.date | date_to_string }} -->
-          </time> 
-          <p itemprop="name headline">{{ post.title }}</p>
-        </div>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+  
+      
+<div class="section group">
+  <div class="col span_1_of_3">
+    <img src="/assets/img/img1.jpg">
+  </div>
+  <div class="col span_2_of_3">
+    <img src="/assets/img/img1.jpg">
+  </div>
+  
 </div>
 
 
-<section class="single-wrap">
-     <h1 class="page-title" itemprop="name headline">Blog</h1>
-</section>
 
- <ul class="posts">
-    {% for post in paginator.posts %}
-    <li itemscope itemtype="http://schema.org/BlogPosting">
-      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-        <div class="p-wrap">
-       
 
-          <time datetime="{{ post.date | date_to_xmlschema }}"
-              itemprop="datePublished">
-              {{ post.location }}
-            <!-- {{ post.date | date_to_string }} -->
-          </time> 
-          <p itemprop="name headline">{{ post.title }}</p>
-        </div>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+
+
+
+
+
 </div>
 
-
+<!--
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.next_page %}
@@ -73,3 +50,4 @@ title: Homepage
   {% endif %}
 </div>
 {% endif %}
+-->
