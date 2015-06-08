@@ -113,14 +113,15 @@ img { width:100%; }
 .col:first-child { margin-left: 0; }
 
 .col img {
-  margin-bottom: 1%;
+
   clear: both;
 }
 
 div.caption {
   width: 100%;
-  background: #eee;
-  padding: 10px;
+  padding: 10px 15px;
+  margin-bottom:2%;
+  border-bottom:2px #ccc; 
 }
 
 
