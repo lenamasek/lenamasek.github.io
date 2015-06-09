@@ -63,6 +63,28 @@ header {
   &:hover {
     opacity: 1;
   }
+
+  .menu-icon-blog {
+  @extend %padding-large;
+  position: absolute;
+  top: 0;
+  right: 50;
+  cursor: pointer;
+  z-index: 200;
+  &:hover {
+    opacity: 1;
+  }
+
+  .menu-icon-portfolio {
+  @extend %padding-large;
+  position: absolute;
+  top: 0;
+  right: 100;
+  cursor: pointer;
+  z-index: 200;
+  &:hover {
+    opacity: 1;
+  }
   
   .lines {
     display: inline-block;
