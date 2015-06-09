@@ -63,6 +63,7 @@ header {
   &:hover {
     opacity: 1;
   }
+  }
 
   .menu-icon_blog {
   @extend %padding-large;
@@ -74,6 +75,7 @@ header {
   &:hover {
     opacity: 1;
   }
+  }
 
   .menu-icon_portfolio {
   @extend %padding-large;
@@ -84,6 +86,7 @@ header {
   z-index: 200;
   &:hover {
     opacity: 1;
+  }
   }
   
   .lines {
