@@ -99,65 +99,70 @@ img {
   width:100%; 
 }
 
-/*  SECTIONS  ================================= */
 
+/* ================================================================== 
+*     
+*     Grid
+*
+================================================================== */
+
+
+/*  SECTIONS  */
 .section {
   clear: both;
   padding: 0px;
   margin: 0px;
 }
 
-
-/*  COLUMN SETUP  ================================= */
-
+/*  COLUMN SETUP  */
 .col {
   display: block;
   float:left;
-  background-color:#eee;
   margin: 1% 0 1% 2%;
 }
 .col:first-child { margin-left: 0; }
 
-.col img {
-
-  clear: both;
-}
-
-div.caption {
-  width: 100%;
-  padding: 7px 0 10px 7px ;
-  background:#eee; 
-  margin-bottom:1.5em;
-
-}
-
-
-/*  GROUPING   ================================= */
-
+/*  GROUPING  */
 .group:before,
 .group:after { content:""; display:table; }
 .group:after { clear:both;}
 .group { zoom:1; /* For IE 6/7 */ }
-
-
-/*  GRID OF THREE   ================================= */
-.span_3_of_3 { width: 100%; }
-.span_2_of_3 { width: 66%; }
-.span_1_of_3 { width: 32%; }
-
-
-/*  GO FULL WIDTH BELOW 480 PIXELS  ================================= */
-
-@media only screen and (max-width: 480px) {
-  .col {  margin: 1% 0 1% 0%; }
-  .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+/*  GRID OF SIX  */
+.span_6_of_6 {
+  width: 100%;
 }
 
-/* 
+.span_5_of_6 {
+    width: 83%;
+}
+
+.span_4_of_6 {
+    width: 66%;
+}
+
+.span_3_of_6 {
+    width: 49%;
+}
+
+.span_2_of_6 {
+    width: 32%;
+}
+
+.span_1_of_6 {
+    width: 15%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+  .col {  margin: 1% 0 1% 0%; }
+  .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { width: 100%; }
+}
+
+/* ================================================================== 
+*     
 *     Animate.css
 *
-*
-*/
+================================================================== */
 
 @charset "UTF-8";
 
