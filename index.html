@@ -8,6 +8,7 @@ title: Homepage
 <section class="single-wrap">
      <h1 class="page-title" itemprop="name headline">Lots of Words</h1>
 </section>
+<section class="single-wrap">
 
   <ul class="posts">
     {% for post in paginator.posts %}
@@ -27,7 +28,7 @@ title: Homepage
     {% endfor %}
   </ul>
 </div>
-
+</section>
 
 
 {% if paginator.total_pages > 1 %}
