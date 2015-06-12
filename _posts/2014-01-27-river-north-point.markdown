@@ -1,20 +1,28 @@
 ---
 layout: post
-title:  "Styling guide for Hikari: best practices"
-date:   2014-01-27 16:57:51
+title:  "Explaining the Role of Digital Designer"
+date:   2015-06-12 10:53:00
 ---
 
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
+My current job title is listed as Digital Designer, but at a marketing agency of about 10 people, I do a lot more than design. However, even the 'digital designer' part wasn't making sense. 
+
+'Digital Designer' is not wrong - I do design for digital media - but I also work on print pieces, prepare them for production, and later work on the front-end web development for the 3 websites I'm working on right now. 
+
 
 >Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don't understand them. 
 
-No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.
 
-* Bullet points are so fancy
-* Easy to read, they make you look like a pro
-* Even when completely random 
+*Responsibilities*
+* Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work
+* Manage and prioritize multiple projects and tasks simultaneously
+* Prepare concepts, layouts, and web interface designs
+* Present concepts and design to clients (either with or without Account Executive)
+* Proof final work for accurate alignment and placement of elements, check color, copy, fonts, hi-res photos, etc.
+* Work with company processes, resources, and collaboration tools
+* Ensure delivery of work on time, on budget, and that meets agency quality standards
 
-In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.
+*Skills*
+
 
 1. Ooh, and with numbers, it's even fancier
 2. It's like 1, 2, 3, did you see?
