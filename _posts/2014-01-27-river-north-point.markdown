@@ -12,7 +12,7 @@ My current job title is listed as Digital Designer, but at a marketing agency of
 >Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don't understand them. 
 
 
-*Responsibilities*
+### Responsibilites
 
 * Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work
 * Manage and prioritize multiple projects and tasks simultaneously
@@ -22,52 +22,19 @@ My current job title is listed as Digital Designer, but at a marketing agency of
 * Work with company processes, resources, and collaboration tools
 * Ensure delivery of work on time, on budget, and that meets agency quality standards
 
-*Skills*
+
+### Skills
+
+* Strong knowledge of Adobe Photoshop, Illustrator and proficient in the entire Adobe Creative Suite
+* Understanding of responsive, UI/UX, mobile app, touch screen, and interactive design techniques
+* Experience designing and building production websites with HTML5, CSS3, jQuery, Javascript, and PHP, as well as content management systems Wordpress and/or Drupal
+* Experience migrating code between local and remote servers using FTP/SFTP
+* Working knowledge of version control methods using Git or Subversion via SSH or GitHub
+* Working knowledge of back-end web development standards (htaccess, Google Analytics, SEO, cookies, and caching)
+* Ability to identify and communicate browser and platform limitations
+* Strong organizational skills and excellent written and verbal communication skills
+* Working knowledge of preparing files for print and web - create different file formats for production and client use
 
 
-1. Ooh, and with numbers, it's even fancier
-2. It's like 1, 2, 3, did you see?
-3. Crazy stuff all around us; scary
 
-There's nothing like a good block of code! Especially when picked randomly out of Github ([styledocco.js](https://github.com/jacobrask/styledocco/blob/master/styledocco.js)).  
 
-{% highlight js %}
-var separate = function(css) {
-  var lines = css.split('\n');
-  var docs, code, line, blocks = [];
-  while (lines.length) {
-    docs = code = '';
-
-    while (lines.length && checkType(lines[0]) === 'single') {
-      docs += formatDocs(lines.shift());
-    }
-
-    if (lines.length && checkType(lines[0]) === 'multistart') {
-      while (lines.length) {
-        line = lines.shift();
-        docs += formatDocs(line);
-        if (checkType(line) === 'multiend') break;
-      }
-    }
-    while (lines.length && (checkType(lines[0]) === 'code' || checkType(lines[0]) === 'multiend')) {
-      code += formatCode(lines.shift());
-    }
-    blocks.push({ docs: docs, code: code });
-  }
-  return blocks;
-};
-{% endhighlight %}
-
-<img src="{{ site.baseurl }}/assets/img/pa-4.jpg">
-
-# Heading 1
-Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.
-
-## Heading 2
-But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
-
-### Heading 3
-In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.
-
-#### Heading 4
-But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.
