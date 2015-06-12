@@ -13,6 +13,7 @@ My current job title is listed as Digital Designer, but at a marketing agency of
 
 
 *Responsibilities*
+
 * Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work
 * Manage and prioritize multiple projects and tasks simultaneously
 * Prepare concepts, layouts, and web interface designs
