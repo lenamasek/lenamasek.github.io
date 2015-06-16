@@ -2,7 +2,7 @@
 name: "lena masek"
 
 # Description of your content (will only be used on Google Search)
-description: "front-end design, dev, and print"
+description: "front-end design, development, and print"
 
 # Your name. Will show in your footer + sidebar 
 author: "lena masek"
@@ -33,7 +33,7 @@ permalink: pretty
 highlighter: pygments
 
 paginate: 10
-paginate_path: "/page/words/page:num"
+paginate_path: "/words/page:num/"
 
 # SCSS
 
