@@ -104,16 +104,23 @@ img {
 *
 ================================================================== */
 
-.words {
+.frontpg {
   height:800px;
   width:50%;
+  margin-bottom:40px;
+  padding:2em;
+}
+
+.frontpg h1 {
+  color:#fff;
+}
+
+.words {
   float:left;
   background:#634ceb;
 }
 
 .work {
-  height:800px;
-  width:50%;
   float:right;
   background:#7b68ee;
 }
