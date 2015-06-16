@@ -98,6 +98,25 @@ a {
 img { 
   width:100%; 
 }
+/* ================================================================== 
+*     
+*     Front Page
+*
+================================================================== */
+
+.words {
+  height:100%;
+  width:50%;
+  float:left;
+  background:#634ceb;
+}
+
+.work {
+  height:100%;
+  width:50%;
+  float:right;
+  background:#7b68ee;
+}
 
 
 /* ================================================================== 
@@ -127,6 +146,7 @@ img {
 .group:after { content:""; display:table; }
 .group:after { clear:both;}
 .group { zoom:1; /* For IE 6/7 */ }
+
 /*  GRID OF SIX  */
 .span_6_of_6 {
   width: 100%;

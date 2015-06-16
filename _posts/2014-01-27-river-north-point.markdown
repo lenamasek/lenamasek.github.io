@@ -4,7 +4,7 @@ title:  "Explaining the Role of Digital Designer"
 date:   2015-06-12 10:53:00
 ---
 
-My current job title is listed as Digital Designer, but at a marketing agency of about 10 people, I do a lot more than design. However, even the 'digital designer' part wasn't making sense. 
+My current job title is listed as Digital Designer, but at a marketing agency of about 10 people, I do a lot more than design. When it came down to answering the, "So what do you do?" question, I was still struggling to translate what the 
 
 'Digital Designer' is not wrong - I do design for digital media - but I also work on print pieces, prepare them for production, and later work on the front-end web development for the 3 websites I'm working on right now. 
 
