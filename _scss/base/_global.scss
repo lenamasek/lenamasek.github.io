@@ -150,7 +150,14 @@ button {
   background:#634ceb;
 }
 
-
+@media screen and (max-width:600px) {
+  
+  .frongpg {
+    width:100%;
+    clear:both;
+    height:300px;
+  }
+}
 
 
 /* ================================================================== 
