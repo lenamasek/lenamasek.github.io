@@ -243,6 +243,8 @@ button {
 .work-bg {
   background-size:cover;
   height:300px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #priester {
