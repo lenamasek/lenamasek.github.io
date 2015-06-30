@@ -192,6 +192,10 @@ button {
 }
 .col:first-child { margin-left: 0; }
 
+.last {
+  margin-left: 0;
+}
+
 /*  GROUPING  */
 .group:before,
 .group:after { content:""; display:table; }
