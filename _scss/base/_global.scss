@@ -261,11 +261,6 @@ button {
   background-repeat: no-repeat, repeat;
   }
 
-  #priester:hover,
-  #truth:hover,
-  #bitbash:hover {
-    opacity:.8;
-  }
 
 #truth {
   background:url('http://lenamasek.github.io/assets/img/portfolio-2.png');
@@ -281,6 +276,23 @@ button {
   background-repeat: no-repeat, repeat;
   color:#fff;
   }
+
+
+
+
+.overlay {
+  background: rgba(0, 0, 0, .75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease;
+}
+
+#priester:hover .overlay {
+  opacity: 1;
+}
+
 
 
 
