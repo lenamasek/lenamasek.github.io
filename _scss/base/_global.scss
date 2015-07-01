@@ -271,6 +271,11 @@ button {
   }
 
 
+@media only screen and (max-width: 600px) {
+  #bitbash, #truth, #priester {
+    background-position:right center;
+  }
+}
 
 
 
