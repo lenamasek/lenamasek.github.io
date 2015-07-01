@@ -246,9 +246,9 @@ button {
 
 }
 
-.work-bg h3 {
+/*.work-bg h3 {
    color:#fff !important;
-}
+}*/
 
 #priester {
   background:url('http://lenamasek.github.io/assets/img/portfolio-1.png') no-repeat;
@@ -257,6 +257,11 @@ button {
 
 #truth {
   background:url('http://lenamasek.github.io/assets/img/portfolio-2.png') no-repeat;
+  background-size: cover !important;
+  }
+
+#bitbash {
+  background:url('http://lenamasek.github.io/assets/img/portfolio-3.png') no-repeat;
   background-size: cover !important;
   }
 
