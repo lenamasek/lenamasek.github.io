@@ -251,18 +251,24 @@ button {
 }*/
 
 #priester {
-  background:url('http://lenamasek.github.io/assets/img/portfolio-1.png') no-repeat;
+  background:url('http://lenamasek.github.io/assets/img/portfolio-1.png');
   background-size: cover !important;
+  background-position: center center;
+  background-repeat: no-repeat, repeat;
   }
 
 #truth {
-  background:url('http://lenamasek.github.io/assets/img/portfolio-2.png') no-repeat;
+  background:url('http://lenamasek.github.io/assets/img/portfolio-2.png');
   background-size: cover !important;
+  background-position: center center;
+  background-repeat: no-repeat, repeat;
   }
 
 #bitbash {
-  background:url('http://lenamasek.github.io/assets/img/portfolio-3.png') no-repeat;
+  background:url('http://lenamasek.github.io/assets/img/portfolio-3.png');
   background-size: cover !important;
+  background-position: center center;
+  background-repeat: no-repeat, repeat;
   }
 
 
