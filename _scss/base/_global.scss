@@ -285,10 +285,26 @@ button {
   }
 
   .mobile-title {
-    display:inline;
-    text-align:center;
-    margin: 10px 0 40px 0;
+      display: block;
+      text-align: center;
+      margin-bottom: 40px;
+      margin-top: 0;
+      padding: 30px 0;
   }
+
+  .mobile-title.priester {
+    background:#003F87;
+  }
+
+  .mobile-title.truth {
+    background:#7917b9;
+  
+  }
+
+  .mobile-title.bitbash {
+    background:##10D3DD;
+  }
+
 }
 
 
