@@ -280,9 +280,9 @@ button {
     background-position:right center;
   }
 
-  #priester:before, 
-  #truth:before, 
-  #bitbash:before {
+  #priester:after, 
+  #truth:after, 
+  #bitbash:after {
       content: '';
       position: absolute;
       top: 0;
