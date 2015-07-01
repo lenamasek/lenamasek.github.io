@@ -261,8 +261,10 @@ button {
   background-repeat: no-repeat, repeat;
   }
 
-  #priester:hover {
-    opacity:.5;
+  #priester:hover,
+  #truth:hover,
+  #bitbash:hover {
+    opacity:.8;
   }
 
 #truth {
