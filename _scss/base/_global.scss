@@ -241,14 +241,16 @@ button {
 ================================================================== */
 
 .work-bg {
-  background-size:cover;
+  background-size:cover !important;
   height:300px;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed !important;
+  background-position:center center;
 }
 
 #priester {
   background:url('http://lenamasek.github.io/assets/img/portfolio-1.png');
+
 
   }
 
