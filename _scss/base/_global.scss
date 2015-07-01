@@ -270,10 +270,22 @@ button {
   color:#fff;
   }
 
+.mobile-title {
+    display:none;
+}
+
 
 @media only screen and (max-width: 600px) {
   #bitbash, #truth, #priester {
     background-position:right center;
+  }
+
+  .work-bg h3 {
+    display:none;
+  }
+
+  .mobile-title {
+    display:inline;
   }
 }
 
