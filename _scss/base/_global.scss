@@ -254,10 +254,17 @@ button {
   background-repeat: no-repeat, repeat;
   }
 
-#priester:after {
-  background:#0060a5;
-  opacity:.9;
+#priester:before {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    background: -webkit-radial-gradient(top center, ellipse cover, rgba(0,96,165,1) 90%,rgba(0,96,165,1) 90%);
 }
+
 
 #truth {
   background:url('http://lenamasek.github.io/assets/img/portfolio-2.png');
