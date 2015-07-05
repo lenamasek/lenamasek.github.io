@@ -248,22 +248,20 @@ button {
 
 
 #priester {
-  background:url('http://lenamasek.github.io/assets/img/priester-bg.jpg');
+    background: 
+    /* top, transparent blue */ 
+    linear-gradient(
+      rgba(0,96,165,.9), 
+      rgba(0,96,165,.9)
+    ),
+    /* bottom, image */
+    url(http://lenamasek.github.io/assets/img/priester-bg.jpg);
+
   background-size: cover !important;
   background-position: center top;
   background-repeat: no-repeat, repeat;
   }
 
-#priester:before {
-    content: " ";
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    z-index: -1;
-    top: 0;
-    left: 0;
-    background: -webkit-radial-gradient(top center, ellipse cover, rgba(0,96,165,1) 90%,rgba(0,96,165,1) 90%);
-}
 
 
 #truth {
