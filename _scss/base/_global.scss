@@ -242,16 +242,19 @@ button {
 
 .work-bg {
   height:350px;
-  padding:0px 10%;
+  padding:-10px 10%;
   color:#fff;
   text-align:center;
 }
 
-.work-bg h3 {
-  margin-top: 10px;
-}
 
- @media (max-width: 642px) {}
+ @media (max-width: 642px) {
+ 
+  .work-bg {
+    height:250px;
+  }
+
+ }
 
 .work-bg a {
   color:#fff;
