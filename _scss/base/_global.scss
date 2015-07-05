@@ -260,17 +260,10 @@ button {
 }
 
 #priester {
-    background: 
-    /* top, transparent blue */ 
-    linear-gradient(
-      rgba(0,96,165,.9), 
-      rgba(0,96,165,.9)
-    ),
-    /* bottom, image */
-    url(http://lenamasek.github.io/assets/img/priester-bg.jpg);
+    background:url(http://lenamasek.github.io/assets/img/priester-bg.jpg);
 
   background-size: cover !important;
-  background-position: center top;
+  background-position: center bottom;
   background-repeat: no-repeat, repeat;
   }
 
