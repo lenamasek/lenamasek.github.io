@@ -242,7 +242,7 @@ button {
 
 .work-bg {
   height:400px;
-  padding:40px 10%;
+  padding:60px 10%;
   color:#fff;
   text-align:center;
 }
@@ -255,13 +255,15 @@ button {
  
   .work-bg {
     height:250px;
+
   }
  }
 
   @media (max-width: 442px) {
  
   .work-bg {
-    height:180px;
+    height:200px;
+      padding:20px 10%;
   }
 }
 
@@ -273,7 +275,7 @@ button {
     background:url(http://lenamasek.github.io/assets/img/priester-bg.jpg);
 
   background-size: cover !important;
-  background-position: center center;
+  background-position: center bottom;
   background-repeat: no-repeat, repeat;
   }
 
