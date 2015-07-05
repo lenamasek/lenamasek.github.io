@@ -241,43 +241,54 @@ button {
 ================================================================== */
 
 .work-bg {
-  height:300px;
-  padding:20px 10%;
+  height:250px;
+  padding:50px 10%;
   color:#fff;
 }
 
  @media (max-width: 642px) {
 
   .work-bg {
-
+    padding:75px 10%;
     text-align:center;
 }
 
  }
 
+.work-bg a {
+  color:#fff;
+}
 
 #priester {
-    background:url('http://lenamasek.github.io/assets/img/priester-bg.png');
+    background: 
+    /* top, transparent blue */ 
+    linear-gradient(
+      rgba(0,96,165,.9), 
+      rgba(0,96,165,.9)
+    ),
+    /* bottom, image */
+    url(http://lenamasek.github.io/assets/img/priester-bg.jpg);
 
   background-size: cover !important;
-  background-position: center center;
+  background-position: center top;
   background-repeat: no-repeat, repeat;
   }
 
 
 
 #truth {
-  background:url('http://lenamasek.github.io/assets/img/truth-bg.png');
+  background:url('http://lenamasek.github.io/assets/img/portfolio-2.png');
   background-size: cover !important;
   background-position: center center;
   background-repeat: no-repeat, repeat;
   }
 
 #bitbash {
-  background:url('http://lenamasek.github.io/assets/img/bitbash-bg.png');
+  background:url('http://lenamasek.github.io/assets/img/portfolio-3.png');
   background-size: cover !important;
   background-position: center center;
   background-repeat: no-repeat, repeat;
+  color:#fff;
   }
 
 .mobile-title {
