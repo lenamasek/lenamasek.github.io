@@ -298,7 +298,13 @@ button {
   color:#fff;
   }
 
-
+  @media (min-width: 1150px) {
+ 
+  .work-bg {
+    height:500px;
+      padding:60px 10%;
+  }
+}
 
 
 
