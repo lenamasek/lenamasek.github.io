@@ -181,6 +181,7 @@ header {
       color: lighten($text-color, 50%);
       padding-bottom: $spacing-xs;
       border-bottom: 1px solid $border-color;
+      text-transform:uppercase;
     }
     ul li {
       list-style-type: none;
