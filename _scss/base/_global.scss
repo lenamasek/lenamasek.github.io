@@ -279,7 +279,7 @@ button {
   background-size: cover !important;
   background-position: center bottom;
   background-repeat: no-repeat, repeat;
-    background-position:fixed;
+    background-attachment:fixed;
 
   }
 
@@ -290,7 +290,7 @@ button {
   background-size: cover !important;
   background-position: center bottom;
   background-repeat: no-repeat, repeat;
-    background-position:fixed;
+    background-attachment:fixed;
 
   }
 
@@ -300,7 +300,7 @@ button {
   background-position: center bottom;
   background-repeat: no-repeat, repeat;
   color:#fff;
-  background-position:fixed;
+  background-attachment:fixed;
   }
 
   @media (min-width: 1150px) {
