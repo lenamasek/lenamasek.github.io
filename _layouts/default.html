@@ -29,6 +29,22 @@
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
+        <h6>navigate</h6>
+        <ul>
+          <li><a href="{{ site.url }}/words/">Words</a></li>
+          <li><a href="{{ site.url }}/work/">Work</a>
+              <ul>
+                <li>Priester Aviation</li>
+                <li>The Truth About You &amp; Me</li>
+                <li>Bit Bash</li>
+              </ul>
+
+          </li>
+          
+        </ul>
+      </nav>
+
+      <nav>
         <h6>keep in touch</h6>
         <ul>
           {% if site.twitter %}
