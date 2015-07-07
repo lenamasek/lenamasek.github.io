@@ -105,7 +105,7 @@ img {
 ================================================================== */
 
 .frontpg {
-  height:400px;
+  height:100vh;
   width:50%;
   margin-bottom:40px;
   padding:5em 2em;
@@ -301,8 +301,7 @@ button {
   @media (min-width: 1150px) {
  
   .work-bg {
-    height:475px;
-      padding:60px 10%;
+    height:475px; padding:60px 10%;
   }
 }
 
