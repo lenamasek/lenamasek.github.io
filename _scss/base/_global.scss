@@ -251,28 +251,6 @@ button {
   margin-top: 0;
 }
 
- @media (max-width: 642px) {
- 
-  .work-bg {
-    height:250px;
-
-  }
- }
-
-  @media (max-width: 442px) {
- 
-  .work-bg {
-    height:200px;
-      padding:20px 10%;
-  }
-}
-
- 
-
-.work-bg a {
-  color:#fff;
-}
-
 #priester {
     background:#0060a4;
 
@@ -305,6 +283,30 @@ button {
      
     }
   }
+
+ @media (max-width: 642px) {
+ 
+  .work-bg {
+    height:250px;
+
+  }
+ }
+
+  @media (max-width: 442px) {
+ 
+  .work-bg {
+    height:200px;
+      padding:20px 10%;
+  }
+}
+
+ 
+
+.work-bg a {
+  color:#fff;
+}
+
+
 
   @media (min-width: 1150px) {
  
