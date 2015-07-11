@@ -240,34 +240,26 @@ button {
 *
 ================================================================== */
 
-/* .work-bg {
-  height:auto !important;
-  padding:60px 10% 0 10%;
+.work-bg,
+.work-bg a {
   color:#fff;
   text-align:center;
 }
 
-.work-bg h3 {
-  margin-top: 0;
-}*/
 
-#priester {
-    background:#0060a4;
+#priester {background:#0060a4;}
+
+.priester-img {
+  height:300px;
+  margin: 0 auto;
+  padding:0;  
 }
-    .priester-img {
-      height:300px;
-      margin: 0 auto;
-      padding:0;
-     
-    }
   
 
-#truth {
-  background:#826de6;
-  }
+#truth {background:#826de6;}
 
   .truth-img {
-      height:200px;
+      height:250px;
       margin: 0 auto;
       padding:0;
      
@@ -277,45 +269,13 @@ button {
   background:#3dcfc4;
 }
   .bitbash-img {
-      height:200;
+      height:250px;
       margin: 0 auto;
       padding:0;
      
     }
  
 
- /*@media (max-width: 642px) {
- 
-  .work-bg {
-    height:250px;
-
-  }
- }
-
-  @media (max-width: 442px) {
- 
-  .work-bg {
-    height:200px;
-      padding:20px 10%;
-  }
-}
-
- 
-
-.work-bg a {
-  color:#fff;
-}
-
-
-
-  @media (min-width: 1150px) {
- 
-  .work-bg {
-    height:475px; 
-    padding:60px 10%;
-  }
-}
-*/
 
 
 /* ================================================================== 
