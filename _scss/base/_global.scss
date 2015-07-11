@@ -290,7 +290,14 @@ button {
      
     }
  
-
+@media only screen and (max-width:550px) {
+  
+  .truth-img, .bitbash-img{
+    height: auto;
+    margin: 20px 0 auto;
+  }
+  
+}
 
 
 /* ================================================================== 
