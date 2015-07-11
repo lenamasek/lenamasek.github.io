@@ -5,10 +5,10 @@
 	 viewBox="0 0 293.8 276.3" enable-background="new 0 0 293.8 276.3" xml:space="preserve">
 <g>
 	<defs>
-		<rect id="SVGID_53_" x="-365.2" y="-81" width="1024" height="357.7"/>
+		<rect id="SVGID_49_" x="-365.2" y="-81" width="1024" height="357.7"/>
 	</defs>
 	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_53_"  overflow="visible"/>
+		<use xlink:href="#SVGID_49_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_2_)">
 		<path fill="#D4D5D8" d="M219.8,116.7v20.2c0,0.4,0.3,0.7,0.6,0.7h0.8c0.3,0,0.6-0.3,0.6-0.7v-20.2c0-0.4-0.3-0.7-0.6-0.7h-0.8
@@ -19,15 +19,15 @@
 			h104c12,0,21.7-9.8,22.1-21.8V73.8C220,61.8,210.3,52.1,198.3,52.1L198.3,52.1z"/>
 		<path fill="#F6F6F6" d="M197.1,355.1H95.3c-11.3,0-20.5-9.2-20.5-20.5v-260c0-11.3,9.2-20.5,20.5-20.5h101.8
 			c11.7,0,21.2,9.5,21.2,21.2v258.5C218.3,345.5,208.8,355.1,197.1,355.1L197.1,355.1z"/>
-		<polygon fill="#FF8C64" points="212.2,318.2 80.9,318.2 80.9,89.5 212.2,89.5 212.2,318.2 		"/>
+		<polygon fill="#FFFFFF" points="212.2,318.2 80.9,318.2 80.9,89.5 212.2,89.5 212.2,318.2 		"/>
 		<g>
 			<defs>
-				<polygon id="SVGID_55_" points="212.2,318.2 80.9,318.2 80.9,89.5 212.2,89.5 212.2,318.2 				"/>
+				<polygon id="SVGID_51_" points="212.2,318.2 80.9,318.2 80.9,89.5 212.2,89.5 212.2,318.2 				"/>
 			</defs>
 			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_55_"  overflow="visible"/>
+				<use xlink:href="#SVGID_51_"  overflow="visible"/>
 			</clipPath>
-			<g transform="matrix(1 0 0 1 -3.814697e-06 0)" clip-path="url(#SVGID_4_)">
+			<g transform="matrix(1 0 0 1 3.814697e-06 0)" clip-path="url(#SVGID_4_)">
 				
 					<image overflow="visible" width="814" height="1617" xlink:href="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QOBaHR0cDov
 L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl
@@ -2548,7 +2548,7 @@ CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgI
 CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgI
 CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgI
 CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgI
-CAgICAgICAgICAgICAgICAgICAgICD//2Q==" transform="matrix(0.2083 0 0 0.2083 62.1637 33.1664)">
+CAgICAgICAgICAgICAgICAgICAgICD//2Q==" transform="matrix(0.2083 0 0 0.2083 62.126 33.1664)">
 				</image>
 			</g>
 		</g>

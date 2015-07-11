@@ -5,10 +5,10 @@
 	 viewBox="0 0 1024 450" enable-background="new 0 0 1024 450" xml:space="preserve">
 <g>
 	<defs>
-		<rect id="SVGID_5_" x="0.5" y="-361" width="1024" height="300"/>
+		<rect id="SVGID_1_" x="0.5" y="-361" width="1024" height="300"/>
 	</defs>
 	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_2_)">
 		
@@ -11050,10 +11050,10 @@ SkUAoCKAVSCoCKgFAKAUAoBQFNUooBQH/9k=" transform="matrix(0.537 0 0 0.537 -24.5 -5
 <rect fill="#0060A4" width="1024" height="450"/>
 <g>
 	<defs>
-		<rect id="SVGID_45_" y="92.3" width="1024" height="357.7"/>
+		<rect id="SVGID_41_" y="92.3" width="1024" height="357.7"/>
 	</defs>
 	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_45_"  overflow="visible"/>
+		<use xlink:href="#SVGID_41_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_4_)">
 		<path fill="#D4D5D8" d="M585,290v20.2c0,0.4,0.3,0.7,0.6,0.7h0.8c0.3,0,0.6-0.3,0.6-0.7V290c0-0.4-0.3-0.7-0.6-0.7h-0.8
@@ -11067,10 +11067,10 @@ SkUAoCKAVSCoCKgFAKAUAoBQFNUooBQH/9k=" transform="matrix(0.537 0 0 0.537 -24.5 -5
 		<polygon fill="#FF8C64" points="577.4,491.5 446.1,491.5 446.1,262.8 577.4,262.8 577.4,491.5 		"/>
 		<g>
 			<defs>
-				<polygon id="SVGID_47_" points="577.4,491.5 446.1,491.5 446.1,262.8 577.4,262.8 577.4,491.5 				"/>
+				<polygon id="SVGID_43_" points="577.4,491.5 446.1,491.5 446.1,262.8 577.4,262.8 577.4,491.5 				"/>
 			</defs>
 			<clipPath id="SVGID_6_">
-				<use xlink:href="#SVGID_47_"  overflow="visible"/>
+				<use xlink:href="#SVGID_43_"  overflow="visible"/>
 			</clipPath>
 			<g transform="matrix(1 0 0 1 0 0)" clip-path="url(#SVGID_6_)">
 				
@@ -13615,10 +13615,10 @@ CAgICAgICAgICAgICAgICAgICAgICD//2Q==" transform="matrix(0.2083 0 0 0.2083 427.33
 </g>
 <g>
 	<defs>
-		<rect id="SVGID_53_" x="921" y="93" width="1024" height="357.7"/>
+		<rect id="SVGID_49_" x="921" y="93" width="1024" height="357.7"/>
 	</defs>
 	<clipPath id="SVGID_8_">
-		<use xlink:href="#SVGID_53_"  overflow="visible"/>
+		<use xlink:href="#SVGID_49_"  overflow="visible"/>
 	</clipPath>
 </g>
 </svg>
