@@ -240,10 +240,20 @@ button {
 *
 ================================================================== */
 
+.work-bg {
+  margin:0!important;
+  padding:0!important;
+}
+
 .work-bg,
 .work-bg a {
   color:#fff;
   text-align:center;
+}
+
+.work-bg h3 {
+  margin-top:20px;
+  margin-bottom:0px;
 }
 
 
