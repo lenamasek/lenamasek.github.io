@@ -241,7 +241,7 @@ button {
 ================================================================== */
 
 .work-bg {
-  height:auto;
+  height:auto !important;
   padding:60px 10% 0 10%;
   color:#fff;
   text-align:center;
@@ -253,17 +253,18 @@ button {
 
 #priester {
     background:#0060a4;
-
+}
     .priester-img {
       height:300px;
       margin: 0 auto;
       padding:0;
      
     }
-  }
+  
 
 #truth {
   background:#826de6;
+  }
 
   .truth-img {
       height:200px;
@@ -271,18 +272,17 @@ button {
       padding:0;
      
     }
-  }
 
 #bitbash {
   background:#3dcfc4;
-
+}
   .bitbash-img {
       height:200;
       margin: 0 auto;
       padding:0;
      
     }
-  }
+ 
 
  @media (max-width: 642px) {
  
