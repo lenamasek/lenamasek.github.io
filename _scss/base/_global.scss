@@ -275,14 +275,32 @@ button {
 
 #priester {
     background:#0060a4;
+
+    .priester-img {
+      height:300px;
+      margin: 0 auto;
+      padding:0;
+    }
   }
 
 #truth {
   background:#826de6;
+
+  .truth-img {
+      height:200px;
+      margin: 0 auto;
+      padding:0;
+    }
   }
 
 #bitbash {
   background:#3dcfc4;
+
+  .bitbash-img {
+      height:200;
+      margin: 0 auto;
+      padding:0;
+    }
   }
 
   @media (min-width: 1150px) {
