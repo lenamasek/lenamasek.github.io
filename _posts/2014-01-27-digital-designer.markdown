@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Explaining the Role of Digital Designer"
+title:  "Defining Digital Designer"
 date:   2015-06-12 10:53:00
 ---
 

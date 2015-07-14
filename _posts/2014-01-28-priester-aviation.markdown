@@ -22,4 +22,4 @@ Through this project, everyone involved learned the importance of considering UI
 
 To continue with a long term rebranding project, we designed business cards, a 20-page brochure, a cover for a spiral-bound brochure on Priester's Aircraft Management, and two corporate folders. Being the lead designer on multiple projects for the same client across a variety of mediums was a great experience in brand design and consistency.
 
-Collaborators: Ben Ludwig, Senior Interactive Designer; Jennifer Masi, Executive Creative Director
+*Collaborators:* **Ben Ludwig, Senior Interactive Designer; Jennifer Masi, Executive Creative Director**
