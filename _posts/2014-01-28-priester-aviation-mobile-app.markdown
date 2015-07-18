@@ -17,7 +17,7 @@ Priester contracted a mobile app company to develop the app and Torque to design
 
 After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.
 
->...When we build websites or apps, we often wait until the last minute to bring in designers to “apply” design, or look and feel. This is akin to baking a cake and then hiring a baker to make it taste good. - Mike Monteiro 
+>"When we build websites or apps, we often wait until the last minute to bring in designers to “apply” design, or look and feel. This is akin to baking a cake and then hiring a baker to make it taste good." - [Mike Monteiro](https://medium.com/@monteiro/why-you-need-design-77dce41e0e0c)
 
 Through this project, everyone involved learned the importance of considering UI/UX design on a base level alongside development. Simultaneous progress in design and developement helps designers work within development limits, helps developers create the most user-friendly and efficient experience, and helps the everyone stay informed of the project's scope every step of the way.
 
