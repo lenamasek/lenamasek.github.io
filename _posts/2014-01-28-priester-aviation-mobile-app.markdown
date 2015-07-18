@@ -14,6 +14,7 @@ Priester contracted a mobile app company to develop the app and Torque to design
 
 <section><div class="col span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg"></div><div class="col span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-4.jpg"></div></section>
 
+
 After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.
 
 >...When we build websites or apps, we often wait until the last minute to bring in designers to “apply” design, or look and feel. This is akin to baking a cake and then hiring a baker to make it taste good. - Mike Monteiro 
