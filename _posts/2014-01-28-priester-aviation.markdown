@@ -12,8 +12,7 @@ date:   2014-01-28
 
 Priester contracted a mobile app company to develop the app and Torque to design the screens. We started by designing the screens that we were told were needed by conversations between the client and the developers. We soon realized that the lack of structure and organization of the screens meant the users' experience had a lot of holes, so we pitched a better UX structure. 
 
-<div class="span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg"></div>
-<div class="span_3_of_6 last"><img src="{{ site.baseurl }}/assets/img/pa-4.jpg"></div>
+<section><div class="span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg"></div><div class="span_3_of_6 last"><img src="{{ site.baseurl }}/assets/img/pa-4.jpg"></div></section>
 
 After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.
 
