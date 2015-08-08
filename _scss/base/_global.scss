@@ -148,8 +148,12 @@ button {
 
 button.readmore {
   border:2px solid $main-border-color;
+  margin: 10px 0;
+
     p {
       color:$main-border-color;
+      margin:0;
+      padding:0;
     }
   }
 
