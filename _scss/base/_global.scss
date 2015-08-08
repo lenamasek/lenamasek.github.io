@@ -146,6 +146,13 @@ button {
   margin:40px;
 }
 
+button.readmore {
+  border:2px solid $main-border-color;
+    p {
+      color:$main-border-color;
+    }
+  }
+
 .work button:hover {
   background:#7b68ee;
 }
