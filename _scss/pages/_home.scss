@@ -14,7 +14,7 @@
     }
 
     .p-wrap {
-      margin: $spacing-s 1.3em;
+      margin: $spacing-s 0 1.3em 0;
       padding: $spacing-xs $spacing-sm;
       background: white;
       transition: all .15s ease-in;
@@ -26,9 +26,11 @@
 
       &:active {
         background: darken($main-color, 3%);
+        color:white;
       }
       &:hover {
         background: lighten($main-color, 3%);
+        color:white;
         padding-left: $spacing-m + $spacing-s;
         &::after {
           content:'\2192';
