@@ -13,19 +13,19 @@ title: Blog
   <ul class="posts">
     {% for post in paginator.posts %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
-      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
         <div class="p-wrap">
-        
+            <p itemprop="name headline">{{ post.title }}</p>
 
           <time datetime="{{ post.date | date_to_xmlschema }}"
               itemprop="datePublished">
             {{ post.date | date_to_string }}
           </time> 
-          <p itemprop="name headline">{{ post.title }}</p>
-
         </div>
+       {{ post.excerpt }}
+
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+        <button><p>Read More</p></button>
       </a>
-       <section class="single-wrap">{{ post.excerpt }}</section>
     </li>
     {% endfor %}
   </ul>
