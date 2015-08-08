@@ -4,11 +4,10 @@ title:  "Project: Priester Aviation Mobile App"
 date:   2014-01-28
 ---
 
-<img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
 
 [Priester Aviation](http://priesterav.com), a multi-disciplinary aviation service company, needed screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule. 
 
-<img src="{{ site.baseurl }}/assets/img/pa-2.jpg">
+<img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
 
 Priester contracted a mobile app company to develop the app and Torque to design the screens. We started by designing the screens that we were told were needed by conversations between the client and the developers. We soon realized that the lack of structure and organization of the screens meant the users' experience had a lot of holes, so we pitched a better UX structure. 
 
@@ -16,6 +15,8 @@ Priester contracted a mobile app company to develop the app and Torque to design
 
 
 After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.
+
+<img src="{{ site.baseurl }}/assets/img/pa-2.jpg">
 
 >"When we build websites or apps, we often wait until the last minute to bring in designers to “apply” design, or look and feel. This is akin to baking a cake and then hiring a baker to make it taste good." - [Mike Monteiro](https://medium.com/@monteiro/why-you-need-design-77dce41e0e0c)
 
