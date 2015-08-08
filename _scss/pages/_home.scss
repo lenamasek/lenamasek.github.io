@@ -14,7 +14,8 @@
     }
 
     .p-wrap {
-      padding: $spacing-sm $spacing-xs;
+      margin: $spacing-xs 0;
+      padding: $spacing-xs $spacing-sm;
       background: white;
       transition: all .15s ease-in;
 
