@@ -1,5 +1,9 @@
 .posts {
   overflow: hidden;
+  p {
+    margin-bottom:0;
+  }
+
   li {
     display: inline-block;
     width: 100%;
@@ -10,7 +14,7 @@
     }
 
     .p-wrap {
-      padding: $spacing-sm 0;
+      padding: $spacing-sm;
       background: white;
       transition: all .15s ease-in;
 
