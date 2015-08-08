@@ -4,6 +4,8 @@
     margin-bottom:0;
   }
 
+  h3
+
   li {
     display: inline-block;
     width: 100%;
@@ -66,6 +68,17 @@
       color: $main-color;
       text-decoration: none;
     }
+
+    button.readmore {
+        border:2px solid $main-border-color;
+        margin: 10px 0 1.5em 0;
+
+          p {
+            color:$main-border-color;
+            margin:0;
+            padding:0;
+          }
+        }
 
   } // end li
 } // end .posts
