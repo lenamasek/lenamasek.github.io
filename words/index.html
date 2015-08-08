@@ -15,7 +15,6 @@ title: Blog
     <li itemscope itemtype="http://schema.org/BlogPosting">
         <div>
             <p itemprop="name headline">{{ post.title }}</p>
-            <br/>
           <time datetime="{{ post.date | date_to_xmlschema }}"
               itemprop="datePublished">
             {{ post.date | date_to_string }}
