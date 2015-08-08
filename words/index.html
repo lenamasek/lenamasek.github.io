@@ -9,6 +9,7 @@ title: Blog
      <h1 class="page-title" itemprop="name headline">Words</h1>
 </section>
 
+<section class="single-wrap">
   <ul class="posts">
     {% for post in paginator.posts %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
@@ -24,12 +25,12 @@ title: Blog
 
         </div>
       </a>
-       {{ post.excerpt }}
+       <section class="single-wrap">{{ post.excerpt }}</section>
     </li>
     {% endfor %}
   </ul>
 </div>
-
+</section>
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
