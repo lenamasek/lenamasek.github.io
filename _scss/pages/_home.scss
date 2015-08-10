@@ -41,11 +41,9 @@
 
       &:active {
         background: darken($main-color, 3%);
-        color:white;
       }
       &:hover {
         background: lighten($main-color, 3%);
-        color:white;
         padding-left: $spacing-m + $spacing-s;
         &::after {
           content:'\2192';
@@ -63,6 +61,16 @@
         display: inline;
         margin: $spacing-xs 0 0;
       }
+
+      &:active {
+      color:white;
+      }
+
+      &:hover {
+      color:white;
+      }
+
+
     } // end .p-wrap
 
     time {
