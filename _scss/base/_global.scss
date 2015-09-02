@@ -121,10 +121,8 @@ ul.icon-nav {
           text-decoration:none;
         } 
         a.current {
-          background: mediumslateblue;
-          color: white;
-          padding: 5px 10px;
-          border-radius: 10px;
+          padding-bottom:7px;
+          border-bottom:3px solid mediumslateblue;
         }
     }
     li:first-child {
