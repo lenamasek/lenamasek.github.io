@@ -73,8 +73,14 @@
           <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a></h1>
 
           <ul class="icon-nav">
-            {% for link in page.navigation %}
-              <li {% if page.url == link.url %}class="active"{% endif %}><a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
+            {% for link in site.navigation %}
+              {% assign current = nil %}
+              {% if page.url contains link.url %}
+                  {% assign current = 'current' %}
+              {% endif %}
+        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
     {% endfor %}
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
             <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>

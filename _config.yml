@@ -16,12 +16,10 @@ author-bio: "i do both web design & development and print design & production. i
 # Navigation 
 
 navigation:
-- text: words
-  title: recent work and personal projects
-  url: /words/
-- text: work
-  title: a mix of writings on my work and various social issues
-  url: /work/
+- title: words
+  url: /words/index.html
+- title: work
+  url: /work/index.html
 
 
 # Social Accounts 
