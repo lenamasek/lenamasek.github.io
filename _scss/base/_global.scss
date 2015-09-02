@@ -118,9 +118,28 @@ ul.icon-nav {
       height: 15px;
     }  
 
+  }
+  li:first-child {
+      margin-left:40px;
+    }
+
+}
+
+
+@media screen and (max-width:500px) {
+  
+  ul.icon-nav {
+
+    li {
+      margin: 0 0 0 15px;
+
+      img {
+        width:10px;
+        height:10px;
+      }
+    }
 
   }
-
 }
 
 
