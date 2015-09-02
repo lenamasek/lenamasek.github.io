@@ -72,6 +72,7 @@
         <div class="h-wrap">
           <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a></h1>
 
+         <nav>
           <ul class="icon-nav">
             {% for link in site.navigation %}
               {% assign current = nil %}
@@ -86,7 +87,7 @@
             <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>
             <li><a href="https://instagram.com/{{ site.instagram }}"><img src="/assets/icons/instagram.svg"></a></li>
           </ul>
-
+</nav>
            <!--  <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
           
 
