@@ -117,7 +117,9 @@ ul.icon-nav {
       width: 15px;
       height: 15px;
     }  
-
+    a.active {
+      text-transform:uppercase;
+    }
   }
   li:first-child {
       margin-left:40px;
