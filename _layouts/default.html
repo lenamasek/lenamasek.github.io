@@ -74,7 +74,7 @@
 
           <ul class="icon-nav">
              {% for link in site.navigation %}
-      {% if page.url == link.url %}
+      {% if page.id == link.url %}
         {% assign current = 'current' %}
       <li>
         <a class="{{ current }}" href="{{ link.url }}">{{ link.title }}</a>
