@@ -13,8 +13,7 @@
       <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
-      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js">
-      </script>
+    
       <script type="text/javascript">
         $(function() {
            var pgurl = window.location.href.substr(window.location.href
@@ -87,8 +86,8 @@
             <li><a href="{{ site.baseurl }}/words/">words</a></li>
             <li><a href="{{ site.baseurl }}/work/">work</a></li>
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
-            <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/twitter.svg"></a></li>
-            <li><a href="https://instagram.com/{{ site.instagram }}"><img src="/assets/icons/twitter.svg"></a></li>
+            <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>
+            <li><a href="https://instagram.com/{{ site.instagram }}"><img src="/assets/icons/instagram.svg"></a></li>
           </ul>
 
            <!--  <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
@@ -124,4 +123,6 @@
     {% endif %}
 
   </body>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js">
+      </script>
 </html>
