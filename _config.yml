@@ -17,9 +17,9 @@ author-bio: "i do both web design & development and print design & production. i
 
 navigation:
 - title: words
-  url: /words/index.html
+  url: /words/
 - title: work
-  url: /work/index.html
+  url: /work/
 
 
 # Social Accounts 
