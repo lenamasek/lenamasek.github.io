@@ -1,29 +1,54 @@
 ---
 layout: default
-title: Homepage
+title: Blog
 ---
+
 
 <div id="home">
 
-<div class="work frontpg">
-<h1>Work</h1>
-<p>
-  Recent work, freelance, and personal projects
-</p>
-<a href="{{ site.baseurl }}/work/" itemprop="url">
-<button><p>View</p></button>
-</a>
+<section class="single-wrap">
+     <h1 class="page-title" itemprop="name headline">Words</h1>
+</section>
+
+<section class="single-wrap">
+  <article class="single-content">
+  <ul class="posts">
+    {% for post in paginator.posts %}
+    <li itemscope itemtype="http://schema.org/BlogPosting">
+        <div>
+            <h3 itemprop="name headline">{{ post.title }}</h3>
+          <time datetime="{{ post.date | date_to_xmlschema }}"
+              itemprop="datePublished">
+            {{ post.date | date_to_string }}
+          </time> 
+        </div>
+       {{ post.excerpt }}
+
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+        <button class="readmore p-wrap"><p>Read More</p></button>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
+</article>
+</section>
 
-
-<div class="words frontpg">
-<h1>Words</h1>
-<p>
-  A mix of writings on my work &amp; various social issues
-</p>
-
-<a href="{{ site.baseurl }}/words/" itemprop="url">
-<button><p>View</p></button>
-</a>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a href="/page/{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+  <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+    <a href="/" class="newer">Newer</a>
+    {% else %}
+    <a href="/page/{{paginator.previous_page}}" class="newer">Newer</a>
+    {% endif %}
+  {% else %}
+  <span class="previous">Newer</span>
+  {% endif %}
 </div>
-
+{% endif %}

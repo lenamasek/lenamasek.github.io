@@ -7,7 +7,7 @@ description: "front-end design, development, and print"
 # Your name. Will show in your footer + sidebar 
 author: "lena masek"
 
-url: "http://lenamasek.github.io/"
+url: "http://lenamasek.github.io"
 baseurl: "http://lenamasek.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
