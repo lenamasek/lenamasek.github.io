@@ -108,24 +108,22 @@ img, object, svg {
 
 ul.icon-nav {
   display:inline;
-
-  li {
+}
+ 
+ ul.icon-nav li {
     display: inline;
     margin: 0 0 0 40px;    
-  
-    img {
+  }
+  ul.icon-nav li img {
       height: 15px;
       width: auto;
     }  
-   
-  }
-  li:first-child {
+ 
+  ul.icon-nav li:first-child {
       margin-left:40px;
     }
 
-}
-
-ul.icon-nav  li a.current {
+  a.current {
       text-transform:uppercase;
     }
 
