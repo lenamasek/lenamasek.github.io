@@ -110,7 +110,17 @@ ul.icon-nav {
   display:inline;
 
   li {
-    display:inline;
+    display: inline;
+    margin: 0 0 0 38px;    
+  }
+
+  li:after {
+    content: url(/assets/icons/twitter.svg);
+    position: absolute;
+    width: 15px;
+    height: 10px;
+    top: 37px;
+    margin: 0px -19px;
   }
 }
 
@@ -129,7 +139,7 @@ ul.icon-nav {
   margin-bottom:40px;
   padding: 10% 2cm 0 10%;
   text-align:center;
-}
+}x
 
 .frontpg h1 {
   color:#fff;
