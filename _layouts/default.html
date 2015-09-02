@@ -72,22 +72,22 @@
         <div class="h-wrap">
           <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a></h1>
 
-         <nav>
           <ul class="icon-nav">
-            {% for link in site.navigation %}
-              {% assign current = nil %}
-              {% if page.url contains link.url %}
-                  {% assign current = 'current' %}
-              {% endif %}
-        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-            <a href="{{ link.url }}">{{ link.title }}</a>
-        </li>
+             {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url == link.url or page.layout == link.layout %}
+        {% assign current = 'current' %}
+      {% endif %}
+
+      <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+        <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+      </li>
     {% endfor %}
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
             <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>
             <li><a href="https://instagram.com/{{ site.instagram }}"><img src="/assets/icons/instagram.svg"></a></li>
           </ul>
-</nav>
+
            <!--  <a class="menu-icon" title="Open Bio"><span class="lines"></span></a> -->
           
 
