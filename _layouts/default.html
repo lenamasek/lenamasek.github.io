@@ -76,11 +76,10 @@
              {% for link in site.navigation %}
       {% if page.url == link.url %}
         {% assign current = 'current' %}
-      {% endif %}
-
       <li>
-        <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+        <a class="{{ current }}" href="{{ link.url }}">{{ link.title }}</a>
       </li>
+       {% endif %}
     {% endfor %}
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
             <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>
