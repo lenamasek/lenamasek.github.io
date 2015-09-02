@@ -75,8 +75,8 @@
            {% assign current = page.url | downcase | split: '/' %}
 
            <ul class="icon-nav">
-              <li><a href='/words' {% if current[1] == 'words' %}class='current'{% endif %}>words</a></li>
-              <li><a href='/work' {% if current[1] == 'work' %}class='current'{% endif %}>work</a></li>
+              <li><a href='/words' {% if current[1] == 'words' %}class="current"{% endif %}>words</a></li>
+              <li><a href='/work' {% if current[1] == 'work' %}class="current"{% endif %}>work</a></li>
             </ul>
 
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
