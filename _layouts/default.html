@@ -14,11 +14,17 @@
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
     
-      <script type="text/javascript">
-      $(function() {
-  $('ul.icon-nav li a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
-});
-      </script>
+      <script type="text/javascript" charset="utf-8">
+//<![CDATA[
+jQuery(function() {
+  jQuery('.icon-nav a').each(function() {
+    if (jQuery(this).attr('href')  ===  window.location.pathname) {
+      jQuery(this).addClass('active');
+    }
+  });
+});  
+//]]>
+</script>
 
   </head>
 
