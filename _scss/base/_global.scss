@@ -117,15 +117,17 @@ ul.icon-nav {
       height: 15px;
       width: auto;
     }  
-    li.current {
-      text-transform:uppercase;
-    }
+   
   }
   li:first-child {
       margin-left:40px;
     }
 
 }
+
+ul.icon-nav  li.current {
+      text-transform:uppercase;
+    }
 
 
 @media screen and (max-width:500px) {
