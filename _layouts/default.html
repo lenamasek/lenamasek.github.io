@@ -72,15 +72,13 @@
         <div class="h-wrap">
           <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a></h1>
 
-          <ul class="icon-nav">
-             {% for link in site.navigation %}
-      {% if page.id == link.url %}
-        {% assign current = 'current' %}
-      <li>
-        <a class="{{ current }}" href="{{ link.url }}">{{ link.title }}</a>
-      </li>
-       {% endif %}
-    {% endfor %}
+           {% assign current = page.url | downcase | split: '/' %}
+
+           <ul class="icon-nav">
+              <li><a href='/words' {% if current[1] == 'words' %}class='current'{% endif %}>words</a></li>
+              <li><a href='/work' {% if current[1] == 'work' %}class='current'{% endif %}>work</a></li>
+            </ul>
+
             <li><a href="https://twitter.com/{{ site.twitter }}"><img src="/assets/icons/twitter.svg"></a></li>
             <li><a href="https://github.com/{{ site.github }}"><img src="/assets/icons/github.svg"></a></li>
             <li><a href="https://instagram.com/{{ site.instagram }}"><img src="/assets/icons/instagram.svg"></a></li>
