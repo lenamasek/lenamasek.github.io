@@ -159,9 +159,11 @@ ul.icon-nav {
 *     Front Page
 *
 ================================================================== */
+img.project {
+  width:500px;
+}
 
-
-img.portfolio:after {
+img.project:after {
   background: -webkit-linear-gradient(mediumslateblue 10%, mediumslateblue 90%); 
   background: -o-linear-gradient(mediumslateblue 10%, mediumslateblue 90%);  
   background: -moz-linear-gradient(mediumslateblue 10%, mediumslateblue 90%);  
