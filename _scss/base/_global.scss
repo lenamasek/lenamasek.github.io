@@ -305,10 +305,11 @@ button {
   height: 300px;
   padding:225px 20px 20px 20px;
   text-align:center;
+  color:$smoke-color;
 }
 
 #bitbash {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
 
   &:after {
     content:'Bit Bash';  
@@ -317,7 +318,7 @@ button {
 
 
 #truth {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
 
   &:after {
     content:'The Truth About You & Me';  
