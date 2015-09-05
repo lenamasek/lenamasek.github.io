@@ -303,12 +303,12 @@ button {
 .portfolio-item {
   box-sizing:border-box;
   height: 300px;
-  padding:225px 10px 10px 10px;
+  padding:225px 20px 20px 20px;
   text-align:center;
 }
 
 #bitbash {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat fixed center bottom;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat center;
 
   &:after {
     content:'Bit Bash';  
@@ -317,13 +317,12 @@ button {
 
 
 #truth {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat fixed center bottom;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat center;
 
   &:after {
-    content:'Bit Bash';  
+    content:'The Truth About You & Me';  
   }
 }
-
 
 
 
