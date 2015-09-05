@@ -302,14 +302,16 @@ button {
 
 .portfolio-item {
   box-sizing:border-box;
-  height: 300px;
-  padding:225px 20px 20px 20px;
+  height: 200px;
+  padding:150px 15px 0px 15px;
   text-align:center;
   color:$smoke-color;
+  background-size: cover;
 }
 
 #bitbash {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
+
 
   &:after {
     content:'Bit Bash';  
