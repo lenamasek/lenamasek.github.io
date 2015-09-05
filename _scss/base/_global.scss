@@ -160,6 +160,14 @@ ul.icon-nav {
 *
 ================================================================== */
 
+
+img.portfolio:after {
+  background: -webkit-linear-gradient(mediumslateblue 10%, mediumslateblue 90%); 
+  background: -o-linear-gradient(mediumslateblue 10%, mediumslateblue 90%);  
+  background: -moz-linear-gradient(mediumslateblue 10%, mediumslateblue 90%);  
+  background: linear-gradient(mediumslateblue 10%, mediumslateblue 90%); 
+}
+
 .frontpg {
   height:60vh;
   min-height:400px;
@@ -228,6 +236,7 @@ button {
     margin-top: 20px;
   }
 }
+
 
 
 /* ================================================================== 
