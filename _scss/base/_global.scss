@@ -304,6 +304,7 @@ button {
   box-sizing:border-box;
   height: 300px;
   padding:225px 10px 10px 10px;
+  text-align:center;
 }
 
 #bitbash {
@@ -344,52 +345,6 @@ button {
   margin:0;
 }
 
-
-#priester-brand {background:#002e6d;}
-
-.priester-brand-img {
-  height:300px;
-  margin: 0 auto;
-  padding:0;
-  vertical-align:bottom;  
-}
-  
-
-
-#priester-app {background:#004a97;}
-
-.priester-app-img {
-  height:300px;
-  margin: 0 auto;
-  padding:0;
-  vertical-align:bottom;  
-}
-  
-
-
-#truth {background:#826de6;}
-
-  .truth-img {
-      height:250px;
-      margin: 0 auto;
-      padding:0;
-        vertical-align:bottom;  
-
-     
-    }
-
-#bitbash {
-  background:#3dcfc4;
-}
-  .bitbash-img {
-      height:250px;
-      margin: 0 auto;
-      padding:0;
-        vertical-align:bottom;  
-
-     
-    }
- 
 @media only screen and (max-width:550px) {
   
   .truth-img, .bitbash-img{
