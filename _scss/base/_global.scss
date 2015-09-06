@@ -137,9 +137,11 @@ ul.icon-nav {
   
   ul.icon-nav {
     margin-top:10px;
+    display: block;
+    text-align: center;
 
     li {
-      margin: 0 15px 0 15px;
+      margin: 0 20px 0 20px;
 
       img {
         height:15px;
@@ -149,6 +151,9 @@ ul.icon-nav {
 
  li:first-child {
  margin-left: 0px;
+
+ li:last-child {
+ margin-right: 0px;
 }
 
   }
