@@ -151,8 +151,13 @@ ul.icon-nav {
 }
 
   }
-}
 
+
+  header {
+    position:fixed;
+    box-shadow:0px 2px 5px gray;
+  }
+}
 
 /* ================================================================== 
 *     
@@ -347,11 +352,10 @@ button {
   margin:0;
 }
 
-@media only screen and (max-width:550px) {
+@media only screen and (max-width:500px) {
   
-  .truth-img, .bitbash-img{
-    height: auto;
-    margin: 20px 0 auto;
+    .single-wrap h1.page-title {
+      margin: 100px 0 1.5em;
   }
   
 }
