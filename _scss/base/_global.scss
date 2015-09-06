@@ -136,9 +136,10 @@ ul.icon-nav {
 @media screen and (max-width:500px) {
   
   ul.icon-nav {
+    margin-top:10px;
 
     li {
-      margin: 0 0 0 15px;
+      margin: 0 15px 0 15px;
 
       img {
         height:15px;
@@ -147,7 +148,7 @@ ul.icon-nav {
     }
 
  li:first-child {
- margin-left: 20px;
+ margin-left: 0px;
 }
 
   }
@@ -356,7 +357,7 @@ button {
 @media only screen and (max-width:500px) {
   
     .single-wrap h1.page-title {
-      margin: 115px 0 1em !important;
+      margin: 130px 0 1em !important;
   }
   
 }
