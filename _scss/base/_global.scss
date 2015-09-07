@@ -182,37 +182,11 @@ ul.icon-nav {
 ================================================================== */
 
 
-.frontpg {
-  height:60vh;
-  min-height:400px;
-  max-height:800px;
-  width:50%;
-  margin-bottom:40px;
-  padding: 10% 2cm 0 10%;
+.home {
   text-align:center;
-}x
-
-.frontpg h1 {
-  color:#fff;
-  line-height:22px;
 }
 
-.frontpg p {
-  font-size:16px;
-  color:#fff;
-  line-height:22px;
-  margin:0;
-}
 
-.words {
-  float:right;
-  background:#7b68ee;
-}
-
-.work {
-  float:left;
-  background:#634ceb;
-}
 
 button {
   border: 1px #fff solid;
@@ -222,33 +196,14 @@ button {
   margin:40px;
 }
 
-
-
-.work button:hover {
-  background:#7b68ee;
+section.what-here {
+  background:$main-color;
 }
 
-.words button:hover {
-  background:#634ceb;
-}
 
 @media screen and (max-width:600px) {
   
-  .frontpg {
-    width:100%;
-    clear:both;
-    height:225px;
-    padding: 2.5em 2em;
-    margin-bottom:0;
-  }
-
-  .words {
-    margin-bottom:40px;
-  }
-
-  .frontpg button {
-    margin-top: 20px;
-  }
+  
 }
 
 
