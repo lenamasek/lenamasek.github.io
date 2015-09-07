@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project: TheTruthAboutYouAnd.Me"
+title:  "Project: The Truth About You and Me"
 date:   2014-01-28
 ---
 
