@@ -290,36 +290,30 @@ section.what-here {
 
 #bitbash {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
-
-  &:after {
-   
-  }
 }
 
 
 #truth {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
 
-  &:after {
-    content:'The Truth About You & Me';  
-  }
 }
 
 #pr-brand {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/img1.jpg) no-repeat center;
 
-  &:after {
-    content:'Priester Aviation: Brand Identity';  
-  }
+ 
 }
 
 #pr-mobile {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
 
-  &:after {
-    content:'Priester Aviation: Mobile App';  
-  }
 }
+
+  .subtitle {
+    font-style: italic;
+    letter-spacing: 0px;
+    color:$smoke-color;
+  }
 
 
 .work-link {
