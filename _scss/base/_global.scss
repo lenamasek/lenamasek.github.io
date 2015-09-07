@@ -182,7 +182,10 @@ ul.icon-nav {
 ================================================================== */
 
 
-
+.page-title#frontpg {
+    text-align: center;
+    padding-bottom: $spacing-s;
+}
 
 button {
   border: 1px #fff solid;
@@ -195,7 +198,7 @@ button {
 section.what-here {
   background:$main-color;
   color:$smoke-color;
-  padding:$spacing-m 0;
+  padding:$spacing-s 0;
 }
 
 
