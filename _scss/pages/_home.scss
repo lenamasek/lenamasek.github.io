@@ -23,7 +23,7 @@
     display: inline-block;
     width: 100%;
     border-top: 1px solid darken($main-color, 6%);
-    margin-bottom:$spacing-l;
+    margin-bottom:$spacing-l !important;
 
 
     .p-wrap {
