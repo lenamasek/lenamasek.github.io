@@ -286,6 +286,15 @@ section.what-here {
   text-align:center;
   color:$smoke-color;
   background-size: cover !important;
+
+    .subtitle {
+      font-style: italic;
+      letter-spacing: 0px;
+      color:$smoke-color;
+      text-decoration:none;
+      text-transform:none;
+      margin:5px 0;
+    }
 }
 
 #bitbash {
@@ -309,11 +318,7 @@ section.what-here {
 
 }
 
-  .subtitle {
-    font-style: italic;
-    letter-spacing: 0px;
-    color:$smoke-color;
-  }
+ 
 
 
 .work-link {
