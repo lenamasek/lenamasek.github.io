@@ -26,9 +26,10 @@ $font-size-s:       $font-size-l * 0.7; // font-size under 642px wide screens
 // Spacings
 
 $spacing-xs:        .5em;
-$spacing-s:         $spacing-xs * 2;
-$spacing-sm:        $spacing-s + $spacing-xs;
-$spacing-m:         $spacing-sm + $spacing-xs;
-$spacing-ml:        $spacing-m + $spacing-xs;
-$spacing-l:         $spacing-ml + $spacing-s;
-$spacing-xl:        $spacing-l + $spacing-s;
+$spacing-s:         $spacing-xs * 2; // 1em 
+$spacing-sm:        $spacing-s + $spacing-xs; // 1.5 em
+$spacing-m:         $spacing-sm + $spacing-xs; // 2 em
+$spacing-ml:        $spacing-m + $spacing-xs; // 2.5 
+$spacing-l:         $spacing-ml + $spacing-s; // 3.5
+$spacing-xl:        $spacing-l + $spacing-s; // 4.5
+$under-fixed-nav:	$spacing-s * 10;

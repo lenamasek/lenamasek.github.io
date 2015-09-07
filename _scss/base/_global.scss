@@ -339,5 +339,10 @@ section.what-here {
 ================================================================== */
 
 
-
-
+@media only screen and (max-width:500px) {
+    
+    #home {
+      margin-top: $under-fixed-nav;
+    }
+   
+}
