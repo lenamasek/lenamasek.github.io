@@ -22,11 +22,9 @@
   li {
     display: inline-block;
     width: 100%;
-    border-bottom: 1px solid darken($main-color, 6%);
+    border-top: 1px solid darken($main-color, 6%);
+    margin-bottom:$spacing-l;
 
-    &:first-child {
-      border-top: 1px solid darken($main-color, 6%);
-    }
 
     .p-wrap {
       margin: $spacing-s 0 1.3em 0;
