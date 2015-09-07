@@ -202,8 +202,10 @@ section.what-here {
 }
 
 
-@media screen and (max-width:600px) {
-  
+@media screen and (max-width:500px) {
+  .page-title#frontpg {
+    margin-top:150px;
+}
   
 }
 
@@ -327,10 +329,7 @@ section.what-here {
 
 @media only screen and (max-width:500px) {
   
-    .single-wrap h1.page-title {
-      margin: 130px 0 1em !important;
-  }
-  
+   
 }
 
 /* ================================================================== 
