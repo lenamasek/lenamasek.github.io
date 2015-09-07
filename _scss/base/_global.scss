@@ -283,11 +283,11 @@ section.what-here {
   box-sizing:border-box;
   height: 200px;
   padding:120px 15px 0px 15px;
-  text-align:center;
+  text-align:left;
   color:$smoke-color;
   background-size: cover !important;
 
-    .subtitle {
+    p.subtitle {
       font-style: italic;
       letter-spacing: 0px;
       color:$smoke-color;
@@ -295,7 +295,6 @@ section.what-here {
       text-transform:none;
       font-weight: normal;
       margin: 5px 0;
-      font-size: 70%;
     }
 }
 
