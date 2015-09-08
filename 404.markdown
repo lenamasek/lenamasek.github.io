@@ -4,7 +4,7 @@ title:  "404"
 permalink: /404.html
 ---
 
-<div id="home">
+<div id="home404">
 <div class="dingus">
 	<h1>crontent not found, ya dingus</h1>
 </div>

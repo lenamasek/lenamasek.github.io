@@ -376,6 +376,10 @@ section.what-here {
       margin-top: $under-fixed-nav;
     }
 
+    #home404 {
+      margin-top: $spacing-2x;
+    }
+
     .single-wrap {
         padding: 0 1em;
     }
@@ -385,11 +389,11 @@ section.what-here {
 .dingus {
   
     position: absolute;
-    background: mediumslateblue;
     opacity: 0.8;
     text-align: center;
     width: 100%;
     color: whitesmoke;
-    margin: 0;
-}
+    padding: 25px;
+
+    }
 

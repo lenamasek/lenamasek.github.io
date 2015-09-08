@@ -37,4 +37,5 @@ $spacing-m:         $spacing-sm + $spacing-xs; // 2 em
 $spacing-ml:        $spacing-m + $spacing-xs; // 2.5 
 $spacing-l:         $spacing-ml + $spacing-s; // 3.5
 $spacing-xl:        $spacing-l + $spacing-s; // 4.5
+$spacing-2x;		$spacing-xl + $spacing-sm;
 $under-fixed-nav:	$spacing-s * 10;
