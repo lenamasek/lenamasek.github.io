@@ -315,33 +315,33 @@ section.what-here {
     }
 }
 
-#bitbash, #truth, #pr-brand, #pr-mobile {
-  background:  $linear-gradient;
-}
+
 
 
 #bitbash {
-  background: url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
 }
 
 
 #truth {
-  background: url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
 
 }
 
 #pr-brand {
-  background: url(http://lenamasek.github.io/assets/img/priester/Priester-Inside1.jpg) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/priester/Priester-Inside1.jpg) no-repeat center;
 
  
 }
 
 #pr-mobile {
-  background:  url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
+  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
 
 }
 
-
+#bitbash, #truth, #pr-brand, #pr-mobile {
+  opacity:.5;
+}
 
 
 
