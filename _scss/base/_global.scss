@@ -371,28 +371,23 @@ section.what-here {
 
 
 @media only screen and (max-width:550px) {
-    
-    #home {
-      margin-top: $under-fixed-nav;
-    }
-
-    #home404 {
-      margin-top: $spacing-2x;
-    }
-
-    .single-wrap {
-        padding: 0 1em;
-    }
-   
+#home {
+    margin-top:$under-fixed-nav;
 }
 
+#home404 {
+    margin-top:$spacing-2x;
+}
+
+.single-wrap {
+    padding:0 1em;
+}
+}
 .dingus {
-    position: absolute;
-    opacity: 0.8;
-    text-align: center;
-    width: 100%;
-    color: whitesmoke;
-    padding: 25px;
-
-    }
-
+    position:absolute;
+    opacity:.8;
+    text-align:center;
+    width:100%;
+    color:#f5f5f5;
+    padding:25px;
+}
