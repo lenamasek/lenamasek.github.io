@@ -82,11 +82,16 @@ small {
   font-size: 60%; 
 }
 
-::highlight,
-::selection {
+::selection  {
   background:$main-color;
   color:$smoke-color;
 }
+
+::-moz-selection  {
+  background:$main-color;
+  color:$smoke-color;
+}
+
 
 
 ul li { list-style-type: circle; }
