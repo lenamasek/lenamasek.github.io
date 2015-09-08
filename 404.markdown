@@ -6,7 +6,7 @@ permalink: /404.html
 
 <div class="dingus">
 	<h1>crontent not found, dingus</h1>
-<div>
+</div>
 
 
 <img src="http://24.media.tumblr.com/tumblr_m3m6lkTtHO1qgs0sio1_500.gif">
