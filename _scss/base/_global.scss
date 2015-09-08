@@ -268,8 +268,15 @@ section.what-here {
 
 /*  GO FULL WIDTH BELOW 759 PIXELS */
 @media only screen and (max-width: 759px) {
-  .col {  margin: 1% 0 1% 0%; }
+  .col { 
+    margin: 1% 0 1% 0%; 
+  }
+
   .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { width: 100%; }
+
+  .group { 
+    margin: 0 1em;
+  }
 }
 
 
@@ -316,31 +323,16 @@ section.what-here {
 
 }
 
- 
 
-
-.work-link {
-  margin:0!important;
-  padding:0!important;
-  text-decoration:none;
-}
-
-.work-bg {
-  margin:0!important;
-  padding:0!important;
-  color:#fff;
-  text-align:center;
-}
-
-.work-bg h3 {
-  padding-top:20px;
-  margin:0;
-}
-
-
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:759px) {
   
-   
+   .portfolio-item {
+      padding:135px 20px 0px 20px;
+      font-size:100%;
+
+      p.subtitle {
+        font-size:100%;
+      }
 }
 
 /* ================================================================== 
