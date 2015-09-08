@@ -330,6 +330,7 @@ section.what-here {
 
 #truth {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
+  float:right;
 
 }
 
@@ -341,6 +342,7 @@ section.what-here {
 
 #pr-mobile {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
+  float:right;
 
 }
 
@@ -348,8 +350,7 @@ section.what-here {
 #truth:hover, 
 #pr-brand:hover, 
 #pr-mobile:hover {
-  opacity:.2;
-  color:$main-color;
+  opacity:.5;
 }
 
 
