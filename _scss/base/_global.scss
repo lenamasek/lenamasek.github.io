@@ -279,6 +279,12 @@ section.what-here {
   }
 }
 
+@media only screen and (max-width:500px) {
+  .group {
+    margin: 0 $spacing-xs;
+  }
+}
+
 
 /* ================================================================== 
 *     
@@ -328,11 +334,7 @@ section.what-here {
   
   .portfolio-item {
     padding:135px 20px 0px 20px;
-    font-size:100%;
-
-    p.subtitle {
-      font-size:100%;
-    }
+    font-size:130%;
   }
 }
 
