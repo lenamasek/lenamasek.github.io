@@ -302,7 +302,7 @@ section.what-here {
 .portfolio-item {
   box-sizing:border-box;
   height: 200px;
-  padding:120px 10px 0px 10px;
+  padding:140px 20px 0px 15px;
   text-align:left;
   color:$smoke-color;
   background-size: cover !important;
@@ -315,26 +315,34 @@ section.what-here {
     }
 }
 
+#bitbash, #truth, #pr-brand, #pr-mobile {
+  background:  $linear-gradient;
+}
+
+
 #bitbash {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
+  background: url(http://lenamasek.github.io/assets/img/bitbash.png) no-repeat center;
 }
 
 
 #truth {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
+  background: url(http://lenamasek.github.io/assets/img/thetruth.png) no-repeat center;
 
 }
 
 #pr-brand {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/priester/Priester-Inside1.jpg) no-repeat center;
+  background: url(http://lenamasek.github.io/assets/img/priester/Priester-Inside1.jpg) no-repeat center;
 
  
 }
 
 #pr-mobile {
-  background: $linear-gradient, url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
+  background:  url(http://lenamasek.github.io/assets/img/pa-5-screens.jpg) no-repeat center;
 
 }
+
+
+
 
 
 @media only screen and (max-width:759px) {
