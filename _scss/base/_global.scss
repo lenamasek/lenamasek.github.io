@@ -275,7 +275,7 @@ section.what-here {
   .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { width: 100%; }
 
   .group { 
-    margin: 0 1em;
+    margin: 0 $spacing-s;
   }
 }
 
@@ -326,13 +326,14 @@ section.what-here {
 
 @media only screen and (max-width:759px) {
   
-   .portfolio-item {
-      padding:135px 20px 0px 20px;
-      font-size:100%;
+  .portfolio-item {
+    padding:135px 20px 0px 20px;
+    font-size:100%;
 
-      p.subtitle {
-        font-size:100%;
-      }
+    p.subtitle {
+      font-size:100%;
+    }
+  }
 }
 
 /* ================================================================== 
