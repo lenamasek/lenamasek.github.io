@@ -2,6 +2,7 @@
 layout: post
 title:  "Project: Priester Aviation Mobile App"
 date:   2014-01-28
+category: project
 ---
 
 

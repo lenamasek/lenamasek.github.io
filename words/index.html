@@ -13,6 +13,7 @@ title: Blog
   <article class="single-content">
   <ul class="posts">
     {% for post in paginator.posts %}
+    {% if post.category contains 'blog' %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
         <div>
             <h3 itemprop="name headline">{{ post.title }}</h3>
@@ -27,6 +28,7 @@ title: Blog
         <button class="readmore p-wrap"><p>Read More</p></button>
       </a>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </div>
