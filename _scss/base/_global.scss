@@ -305,7 +305,9 @@ section.what-here {
 *
 ================================================================== */
 
+
 .portfolio-item {
+  @extend .col
   box-sizing:border-box;
   height: 200px;
   padding:140px 20px 0px 15px;
