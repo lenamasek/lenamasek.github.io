@@ -99,6 +99,16 @@
 
 } // end #single-wrap
 
+
+.single-wrap-xl {
+  @extend .single-wrap;
+  max-width:900px;
+}
+
+
+
+
+
 // Pagination
 
 #prev,
