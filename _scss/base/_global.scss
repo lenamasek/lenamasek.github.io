@@ -309,7 +309,8 @@ section.what-here {
 .portfolio-item {
   display: block;
   float:left;
-  margin: 1% 0 1% 2%;  box-sizing:border-box;
+  margin: 1% 0 1% 2%;  
+  box-sizing:border-box;
   height: 200px;
   padding:140px 20px 0px 15px;
   text-align:left;
@@ -324,6 +325,8 @@ section.what-here {
     }
 }
 
+first {margin-left:0;}
+last {margin-right:0;}
 
 
 
