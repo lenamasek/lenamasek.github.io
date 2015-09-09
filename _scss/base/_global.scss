@@ -307,8 +307,9 @@ section.what-here {
 
 
 .portfolio-item {
-  @extend .col;
-  box-sizing:border-box;
+  display: block;
+  float:left;
+  margin: 1% 0 1% 2%;  box-sizing:border-box;
   height: 200px;
   padding:140px 20px 0px 15px;
   text-align:left;
@@ -337,8 +338,6 @@ section.what-here {
 
 #pr-brand {
   background: $linear-gradient, url(http://lenamasek.github.io/assets/img/priester/Priester-Inside1.jpg) no-repeat center;
-
- 
 }
 
 #pr-mobile {
