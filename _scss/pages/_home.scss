@@ -30,7 +30,7 @@
       margin: $spacing-s 0 1.3em 0;
       padding: $spacing-xs $spacing-sm;
       background: white;
-      transition: all .15s ease-in;
+      transition: all .1s ease-in;
 
       img {
         height:auto;
@@ -43,9 +43,15 @@
       &:hover {
         background: lighten($main-color, 3%);
         padding-left: $spacing-m + $spacing-s;
+
+        p {
+          color:white;
+        }
+
         &::after {
           content:'\2192';
           margin-left: $spacing-xs;
+          color:white;
           @media (max-width: 942px) {
             content: none;
             margin: 0;
