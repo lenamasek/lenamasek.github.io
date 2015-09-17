@@ -19,7 +19,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   background-color: $bg-color;
-  @media (max-width: 942px) {
+  @media (max-width: 950px) {
     font-size: $font-size-m; 
   }
   @media (max-width: 642px) {
