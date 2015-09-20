@@ -309,7 +309,7 @@ section.what-here {
 .portfolio-item {
   display: block;
   float:left;
-  margin: 1% 0 1% 2%;  
+  margin: 1%;  
   box-sizing:border-box;
   height: 200px;
   padding:140px 20px 0px 15px;
@@ -366,6 +366,7 @@ section.what-here {
   .portfolio-item {
     padding:135px 20px 0px 20px;
     font-size:130%;
+    margin: 1% 0;
   }
 }
 
