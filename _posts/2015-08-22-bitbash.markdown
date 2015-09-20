@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "Project: Bit Bash"
+title:  "Bit Bash"
 date:   2014-01-28
 category: project
 ---
 
-[Priester Aviation](http://priesterav.com), a multi-disciplinary aviation service company, came to us needing screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule. 
+[Bit Bash](http://bitbashchicago.com) is Chicago's first alternative games festival. In early 2014, a few Chicagoans traveled to the annual Game Developers' Conference in the Bay Area, had a blast, and lamented about how Chicago doesn't have any large events (festivals, conferences) for the games industry. They were tired of travelling to the coasts for games events, so they gathered friends and began to plan Chicago's first games festival.
 
-<img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
+<img src="{{ site.baseurl }}/assets/img/bk_bitbash2.jpg">
 
-Priester contracted a mobile app company to develop the app and Torque to design the screens. We started by designing the screens that we were told were needed by conversations between the client and the developers. We soon realized that the lack of structure and organization of the screens meant the users' experience had a lot of holes, so we pitched a better UX structure. 
+Bit Bash started to take shape in the spring of 2014 as the mission and goals were being fleshed out between the co-organizers. [Jamie Sanchez](http://jamiesanchez.com) invited me along to help with design and marketing. 
 
-<img src="{{ site.baseurl }}/assets/img/pa-2.jpg">
+As a team, we decided that we wanted to make diverse games accessible to diverse people. We wanted to make games available that weren't playable at home, games that offered unique experiences, enjoyable by a large to unlimited amount of people, games created by a mix of developers from many different backgrounds.
 
-After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.
+<img src="{{ site.baseurl }}/assets/img/bk_bitbash1.jpg">
 
-<img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg">
+**Co-Organizers:** *Jamie Sanchez, Ryan Wiemeyer, Rob Lach, Brice Puls, Tom Eastman, David Laskey, John Murphy, Rob Lockhart, Dana Trebella, Andy Saia*
 
-Through this project, everyone involved learned how important it is to consider UI/UX design on a base level alongside development. Simultaneous progress in design and developement helps designers work within development limits, helps developers create the most user-friendly and efficient experience, and helps the everoyne stay informed of the project's scope every step of the way.
-
-<img src="{{ site.baseurl }}/assets/img/pa-4.jpg">
+**We also couldn't do it without:** *All our many, many volunteers, the game developers making really cool games, Threadless, Arcade Brewery, VGA Gallery, Dark Matter Coffee, Sony, Alienware, Chicago Loot Drop, Cards Against Humanity, SteelSeries, and many other sponsors & partners.*
