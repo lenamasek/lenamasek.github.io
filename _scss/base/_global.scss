@@ -283,11 +283,13 @@ section.what-here {
 
 @media only screen and (max-width:900px) {
   
-  .span_2_of_6, 
-  .portfolio-item.first, 
-  .portfolio-item.last {
+  .span_2_of_6 {
     width:48%;
     margin:1%;
+  }
+
+  .first, .last {
+  	margin:1%;
   }
 }
 
