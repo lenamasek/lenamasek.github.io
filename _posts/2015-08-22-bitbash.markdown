@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bit Bash"
-date:   2014-01-28
+date:   2015-08-22
 category: project
 ---
 
@@ -18,3 +18,5 @@ As a team, we decided that we wanted to make diverse games accessible to diverse
 **Co-Organizers:** *Jamie Sanchez, Ryan Wiemeyer, Rob Lach, Brice Puls, Tom Eastman, David Laskey, John Murphy, Rob Lockhart, Dana Trebella, Andy Saia*
 
 **We also couldn't do it without:** *All our many, many volunteers, the game developers making really cool games, Threadless, Arcade Brewery, VGA Gallery, Dark Matter Coffee, Sony, Alienware, Chicago Loot Drop, Cards Against Humanity, SteelSeries, and many other sponsors & partners.*
+
+All photos in this post were taken by the great [Brent Knepper](http://brentknepper.com).
