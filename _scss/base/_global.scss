@@ -281,9 +281,11 @@ section.what-here {
 
 /* Span 2 becomes Span 3 for portfolio page */
 
-@media only screen and (max-width:850px) {
+@media only screen and (max-width:900px) {
   
-  .span_2_of_6 {
+  .span_2_of_6, 
+  .portfolio-item.first, 
+  .portfolio-item.last {
     width:48%;
     margin:1%;
   }
