@@ -279,6 +279,16 @@ section.what-here {
     width: 15%;
 }
 
+/* Span 2 becomes Span 3 for portfolio page */
+
+@media only screen and (max-width:850px) {
+  
+  .span_2_of_6 {
+    width:48%;
+    margin:1%;
+  }
+}
+
 /*  GO FULL WIDTH BELOW 759 PIXELS */
 @media only screen and (max-width: 759px) {
   .col { 
@@ -359,13 +369,7 @@ section.what-here {
   opacity:.5;
 }
 
-@media only screen and (max-width:850px) {
-  
-  .portfolio-item {
-    width:48%;
-    margin:1%;
-  }
-}
+
 
 
 
