@@ -31,4 +31,4 @@ For all sections of gameplay gifs, screenshots, and wallpapers, David wrote a PH
 
 I really enjoy making simple sites for video games and using art direction from a video game to inspire creative design challenges. I learned a lot by sharing web development tasks and solving problems with David, as he comes from a game development background.
 
-*Collaborators:* **[William Chyr](http://williamchyr.com), [David Laskey](http://twitter.com/david_laskey)**
+*Collaborators: [William Chyr](http://williamchyr.com), [David Laskey](http://twitter.com/david_laskey)*
