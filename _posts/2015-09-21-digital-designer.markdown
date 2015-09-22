@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Day Job"
-date:   2015-06-12 10:53:00
+date:   2015-09-21
 category: blog
 ---
 

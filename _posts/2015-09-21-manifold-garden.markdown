@@ -5,40 +5,30 @@ date:   2015-06-12 10:53:00
 category: project
 ---
 
-This post is for anyone who may feel targeted by the goofy "Should Designers Learn to Code?" thinkpieces. I was feeling that pressure in college
+[Manifold Garden](http://manifold.garden) is a fantastic exploration-puzzle game set in an Escher-esque world  by [William Chyr](http://williamchyr.com). William is an artist, currently in Chicago, doing a lot of work at the intersection of art and science. 
 
+William contacted me in the spring of 2015 to design a website for the rebranding of Manifold Garden, known at the time as Relativity. He shared some of his sketches and a few sites as inspiration, including [FireWatch](http://firewatchgame.com) by Campo Santo and [Alto's Adventure](http://altosadventure.com) by Snowman. We worked well together to come up with a design for the site.
 
-My current job title is listed as Digital Designer, but at a marketing agency of about 10-15 people, I do a lot more than design. When it came down to answering the, "So what do you do?" question, I was still struggling to translate what the 
+<div class="span_3_of_6">
+<img src="{{ site.baseurl }}/assets/img/MG-Layout-1.jpg">
+</div>
 
-'Digital Designer' is not wrong - I do design for digital media - but I also work on print pieces, prepare them for production, and later work on the front-end web development for the 3 websites I'm working on right now. 
+<div class="span_3_of_6">
+<img src="{{ site.baseurl }}/assets/img/MG-Layout-2.jpg">
+</div>
 
+[David Laskey](http://twitter.com/david_laskey), a game developer William contracted, began building the functionality for the site while I finished up the design in Illustrator. Once William signed off on my work, I put together a quick but precise style guide for David to use to incorporate my design to the front-end of the site. When everything was built, I took over the code to make final tweaks to the site as William finalized some content. We also realized the disconnect of working in Illustrator and not in the browser required a few additional tweaks to the final design. The size of the content and copy seemed huge when we got in browser, which reiterated the importance of designing in the browser as soon as possible. 
 
->Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don't understand them. 
+<div class="span_3_of_6">
+<img src="{{ site.baseurl }}/assets/img/MG-Layout-3.jpg">
+</div>
 
+<div class="span_3_of_6">
+<img src="{{ site.baseurl }}/assets/img/MG-Layout-4.jpg">
+</div>
 
-### Responsibilites
+For all sections of gameplay gifs, screenshots, and wallpapers, David wrote a PHP script to search the 'images' folder for a specified group of files and flow them into the designed grid. Toward the end of the project, William requested a page for wallpapers. Because this script was in place, he could insert as many wallpapers as he wanted. When I realized the site was getting heavy with images, I employed the simple [Unveil](http://luis-almeida.github.io/unveil/) jQuery plugin, based on the original [Lazy Load](http://www.appelsiini.net/projects/lazyload) plugin by Mike Tuupola. This plugin loads images as they're needed, instead of all at once. This allows a user to see the full site when it loads instead of waiting for all the images to download first, simulating a faster load time. 
 
-* Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work
-* Manage and prioritize multiple projects and tasks simultaneously
-* Prepare concepts, layouts, and web interface designs
-* Present concepts and design to clients (either with or without Account Executive)
-* Proof final work for accurate alignment and placement of elements, check color, copy, fonts, hi-res photos, etc.
-* Work with company processes, resources, and collaboration tools
-* Ensure delivery of work on time, on budget, and that meets agency quality standards
+I really enjoy making simple sites for video games and using art direction from a video game to inspire creative design challenges. I learned a lot by sharing web development tasks and solving problems with David, as he comes from a game development background.
 
-
-### Skills
-
-* Strong knowledge of Adobe Photoshop, Illustrator and proficient in the entire Adobe Creative Suite
-* Understanding of responsive, UI/UX, mobile app, touch screen, and interactive design techniques
-* Experience designing and building production websites with HTML5, CSS3, jQuery, Javascript, and PHP, as well as content management systems Wordpress and/or Drupal
-* Experience migrating code between local and remote servers using FTP/SFTP
-* Working knowledge of version control methods using Git or Subversion via SSH or GitHub
-* Working knowledge of back-end web development standards (htaccess, Google Analytics, SEO, cookies, and caching)
-* Ability to identify and communicate browser and platform limitations
-* Strong organizational skills and excellent written and verbal communication skills
-* Working knowledge of preparing files for print and web - create different file formats for production and client use
-
-
-
-
+*Collaborators:* **[William Chyr](http://williamchyr.com), [David Laskey](http://twitter.com/david_laskey)**
