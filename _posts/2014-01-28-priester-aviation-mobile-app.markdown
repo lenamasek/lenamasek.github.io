@@ -10,7 +10,7 @@ category: project
 
 <img src="{{ site.baseurl }}/assets/img/pa-1b-phone.png">
 
-Priester contracted a mobile app company to develop the app and Torque to design the screens. We started by designing the screens that we were told were needed by conversations between the client and the developers. We soon realized that the lack of structure and organization of the screens meant the users' experience had a lot of holes, so we pitched a better UX structure. 
+Priester contracted a mobile app company to develop the app and us at [Torque](http://torque.digital) to design the screens. We started by designing the screens that we were told were needed, resulting from conversations between the client and the developers. We soon realized that the proposed screens were missing a solid flow and organized structure, which meant the users' experience had a lot of holes, so we pitched a better UX structure. 
 
 <section><div class="col span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-5-screens.jpg"></div><div class="col span_3_of_6"><img src="{{ site.baseurl }}/assets/img/pa-4.jpg"></div></section>
 
