@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Defining Digital Designer"
+title:  "Manifold Garden"
 date:   2015-06-12 10:53:00
-category: blog
+category: project
 ---
 
-My current job title is listed as Digital Designer, but at a marketing agency of about 10 people, I do a lot more than design. When it came down to answering the, "So what do you do?" question, I was still struggling to translate what the 
+This post is for anyone who may feel targeted by the goofy "Should Designers Learn to Code?" thinkpieces. I was feeling that pressure in college
+
+
+My current job title is listed as Digital Designer, but at a marketing agency of about 10-15 people, I do a lot more than design. When it came down to answering the, "So what do you do?" question, I was still struggling to translate what the 
 
 'Digital Designer' is not wrong - I do design for digital media - but I also work on print pieces, prepare them for production, and later work on the front-end web development for the 3 websites I'm working on right now. 
 

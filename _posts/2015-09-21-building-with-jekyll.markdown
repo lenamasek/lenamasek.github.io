@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Defining Digital Designer"
+title:  "Building with Jekyll"
 date:   2015-06-12 10:53:00
-category: blog
+category: project
 ---
 
 My current job title is listed as Digital Designer, but at a marketing agency of about 10 people, I do a lot more than design. When it came down to answering the, "So what do you do?" question, I was still struggling to translate what the 
