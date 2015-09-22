@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project: Priester Aviation Brand Update"
-date:   2014-01-28
+date:   2015-07-20
 ---
 
 [Priester Aviation](http://priesterav.com), a multi-disciplinary aviation service company, needed screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule. 
