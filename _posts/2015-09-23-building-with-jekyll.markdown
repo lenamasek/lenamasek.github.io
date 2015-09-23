@@ -17,9 +17,12 @@ Soooo.. what *is* Jekyll? What are these products, what do they do?
 
 >Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator". - [JekyllBootstrap.com](http://jekyllbootstrap.com)
 
-<img src="{{ site.baseurl }}/assets/img/jekyll-frontmatter.png">
 
-Jekyll offers [a config.yml file](https://jekyllrb.com/docs/configuration/) in your root directory where you can plug in easy to read information that will be parsed into appropriate locations in your 'head' tag and other locations around the site. You're able to add lots of information into this file, or scale back, depending on your needs. The screenshots below show how I stored my social media handles in the config file and how they become usable throughout the site with a variable.
+### Configuration
+
+<img src="{{ site.baseurl }}/assets/img/jekyll-config-code.png">
+
+Jekyll offers [a config.yml file](https://jekyllrb.com/docs/configuration/) in your root directory where you can plug in easy to read information that will be parsed into appropriate locations in your 'head' tag and other locations around the site. You're able to add lots of information into this file, or scale back, depending on your needs. 
 
 <div class="span_3_of_6">
 <img src="{{ site.baseurl }}/assets/img/config.png">
@@ -29,10 +32,19 @@ Jekyll offers [a config.yml file](https://jekyllrb.com/docs/configuration/) in y
 <img src="{{ site.baseurl }}/assets/img/using-config.png">
 </div>
 
+The screenshots above show how I stored my social media handles in the config file (left) and how they become usable throughout the site with a variable (right).
+
+
+### Front Matter
+
+<img src="{{ site.baseurl }}/assets/img/jekyll-frontmatter.png">
 
 Jekyll's parsing allows me to use [Liquid Markdown templating language](https://jekyllrb.com/docs/templates/) to format pages and give the engine the information it needs to properly parse my files. A new post means duplicating a file, changing a few things in the [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/), and uploading it to [GitHub Pages](https://pages.github.com/).
 
-<img src="{{ site.baseurl }}/assets/img/jekyll-config-code.png"> 
+
+### Theme and Styling
+
+<img src="{{ site.baseurl }}/assets/img/hikari.png">
 
 To style the site, I started with the theme [Hikari](http://mx3m.github.io/hikari-for-jekyll/), which had tons of great features built in, including [SCSS](http://www.sitepoint.com/whats-difference-sass-scss/), or Sassy CSS, a CSS-like syntax within Sass, which helped me write more efficient stylesheets and become more comfortable with Sass itself. [Find Hikari's repo on GitHub](https://github.com/mx3m/hikari-for-Jekyll).
 
