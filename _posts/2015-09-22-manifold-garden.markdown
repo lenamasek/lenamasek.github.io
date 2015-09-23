@@ -7,6 +7,8 @@ category: project
 
 [Manifold Garden](http://manifold.garden) is a fantastic exploration-puzzle game set in an Escher-esque world  by [William Chyr](http://williamchyr.com). William is an artist, currently in Chicago, doing a lot of work at the intersection of art and science. 
 
+<img src="{{ site.baseurl }}/assets/img/MG-screenshot-1.png">
+
 William contacted me in the spring of 2015 to design a website for the rebranding of Manifold Garden, known at the time as Relativity. He shared some of his sketches and a few sites as inspiration, including [FireWatch](http://firewatchgame.com) by Campo Santo and [Alto's Adventure](http://altosadventure.com) by Snowman. We worked well together to come up with a design for the site.
 
 <div class="span_3_of_6">
@@ -31,4 +33,4 @@ For all sections of gameplay gifs, screenshots, and wallpapers, David wrote a PH
 
 I really enjoy making simple sites for video games and using art direction from a video game to inspire creative design challenges. I learned a lot by sharing web development tasks and solving problems with David, as he comes from a game development background.
 
-*Collaborators: [William Chyr](http://williamchyr.com), [David Laskey](http://twitter.com/david_laskey)*
+**Collaborators:** *[William Chyr](http://williamchyr.com), [David Laskey](http://twitter.com/david_laskey)*
