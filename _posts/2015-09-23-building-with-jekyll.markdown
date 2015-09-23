@@ -25,7 +25,7 @@ Jekyll offers [a _config.yml file](https://jekyllrb.com/docs/configuration/) in 
 
 Jekyll's parsing allows me to use [Liquid Markdown templating language](https://jekyllrb.com/docs/templates/) to format pages and give the engine the information it needs to properly parse my files. A new post means duplicating a file, changing a few things in the [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/), and uploading it to [GitHub Pages](https://pages.github.com/). 
 
-For styling, I chose the theme [Hikari](http://mx3m.github.io/hikari-for-jekyll/), which had tons of great features built in, including [SCSS](http://www.sitepoint.com/whats-difference-sass-scss/), or Sassy CSS, a CSS-like syntax within Sass, which helped me write more efficient stylesheets and become more comfortable with Sass itself.
+To style the site, I started with the theme [Hikari](http://mx3m.github.io/hikari-for-jekyll/), which had tons of great features built in, including [SCSS](http://www.sitepoint.com/whats-difference-sass-scss/), or Sassy CSS, a CSS-like syntax within Sass, which helped me write more efficient stylesheets and become more comfortable with Sass itself. [Find Hikari's repo on GitHub](https://github.com/mx3m/hikari-for-Jekyll).
 
 I've been somewhat avoiding writing this post because I don't know that I'm *done* learning or building with Jekyll. I don't know everything about how Jekyll works, yet. I've learned a lot so far, though, which is awesome. 
 
