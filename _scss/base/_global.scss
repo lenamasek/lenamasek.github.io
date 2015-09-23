@@ -214,6 +214,16 @@ section.what-here {
   padding:$spacing-s 0;
 }
 
+h3.homepage {
+  text-align:center;
+}
+.span_3_of_6#homepage:first-child {
+  padding-right:5px;
+}
+
+.span_3_of_6#homepage:last-child {
+  padding-left:5px;
+}
 
 @media screen and (max-width:550px) {
   .page-title#frontpg {
@@ -279,7 +289,7 @@ section.what-here {
     width: 15%;
 }
 
- .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { display:inline-block;}
+ .span_1_of_6, .span_2_of_6, .span_3_of_6, .span_4_of_6, .span_5_of_6, .span_6_of_6 { display:inline-block; vertical-align:text-top;}
 
 /* Span 2 becomes Span 3 for portfolio page */
 
