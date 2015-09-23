@@ -217,12 +217,17 @@ section.what-here {
 h3.homepage {
   text-align:center;
 }
-.span_3_of_6#homepage:first-child {
-  padding-right:5px;
-}
 
-.span_3_of_6#homepage:last-child {
-  padding-left:5px;
+.span_3_of_6#homepage{
+  text-align:center;
+  
+  &:first-child {
+  padding-right:10px;
+  }
+
+  &:last-child {
+    padding-left:10px;
+  }
 }
 
 @media screen and (max-width:550px) {
