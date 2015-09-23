@@ -11,7 +11,7 @@ I've wanted to use a tool like Jekyll for my personal site before I knew it exis
 
 I've built sites with Wordpress and worked with Drupal, but those robust CMSs are too powerful for my needs. Alternatively, Squarespace and other pre-designed portfolio sites, although helpful to many, became a hinderance to my ability to make my own design choices. Flat code sites had worked in the past, giving me total freedom, but were inefficient for my upkeep and knowledge of code at the time.
 
-After searching and tweeting for help, I found Jekyll, among other options, like [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/). The aforementioned are pretty similar to Jekyll, but with a minimal back-end interface. I knew I didn't want to pay to use an interface, so I went with Jekyll. The perks that come with using a relatively well-known engine, meaning a good chance that you'd find a forum thread to help with questions, was enticing as well.
+After searching and tweeting for help, I found Jekyll, among other options, like [Kirby](http://getkirby.com/) and [Statamic](http://statamic.com/). The aforementioned are pretty similar to Jekyll, but with a minimal back-end interface. Two things that were important to my decision were money and documentation/support. I spend a considerable amount of money on hosting and purchasing domains - I didn't want to pay another monthly amount for using the file structure with an interface. Also, I can host my Jekyll site on [GitHub Pages](https://pages.github.com/) for free, minimizing monthly payments to just my domain name. For my support and documentation concerns, using a relatively well-known engine means there is a good chance that I'd find a forum thread to help with my questions.
 
 Soooo.. what *is* Jekyll? What are these products, what do they do?
 
@@ -39,8 +39,9 @@ The screenshots above show how I stored my social media handles in the config fi
 
 <img src="{{ site.baseurl }}/assets/img/jekyll-frontmatter.png">
 
-Jekyll's parsing allows me to use [Liquid Markdown templating language](https://jekyllrb.com/docs/templates/) to format pages and give the engine the information it needs to properly parse my files. A new post means duplicating a file, changing a few things in the [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/), and uploading it to [GitHub Pages](https://pages.github.com/).
+Jekyll's parsing allows me to use [Liquid Markdown templating language](https://jekyllrb.com/docs/templates/) to format pages and give the engine the information it needs to properly parse my files. A new post means duplicating a file, changing a few things in the [YAML Front Matter](http://jekyllrb.com/docs/frontmatter/), and commiting with GitHub. I'm using and loving [GitHub Desktop](https://desktop.github.com/) and occasionally the third-party iOS app, [CodeHub](https://itunes.apple.com/us/app/codehub-github-for-ios/id707173885?mt=8).
 
+Also, when I want to change the format of a page or move around content buckets, I edit either the default.html or post.html layout templates. My content stays in the .markdown files. 
 
 ### Theme and Styling
 
