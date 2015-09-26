@@ -16,4 +16,25 @@ Erick mentioned that he completed relevant courses on CodeAcademy, but he brings
 
 > Once you leave the virtual classroom, how do you apply that knowledge to an actual product? 
 
-David Laskey (@david_laskey) pointed out that *"sites like CodeAcademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material."* There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward.
+[David Laskey](http://twitter.com/david_laskey) pointed out that *"sites like CodeAcademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material."* There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
+
+
+## How to REALLY Learn a New Code Language
+
+> **Try making something small** 
+Give yourself a small thing to make and see it through. The language will stick a lot more than just reading about it. [Kunal](http://twitter.com/kunalbhat) makes a simple Lorem Ipsum generator to start learning each new language. Check out his [GitHub repo](https://github.com/kunalbhat?tab=repositories) for those project and others. There’s no substitute for doing something simple over and over again to drive home your knowledge; small projects are a great way to do that.
+
+> **Break down the problem**
+Write out instructions as you learn. Break the problem down into “How would I accomplish this task in code?” and then “What is the actual syntax and helper functions I need to remember to do this?” Try doing the first part without the documentation info available and then open them up for the second part. The language is really just a vehicle for accomplishing the components to a problem. 
+
+
+    - Become aware of the types of things you’re able to do in that language
+
+
+
+
+- try.jquery.com, part of https://www.codeschool.com/paths/javascript - the exercises are always similar to what you see in the video, but different enough to where you still have to think about them.
+
+
+- Find the right project - Something that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed.
+    - Kunal makes a simple Lorem Ipsum generator to start learning each new language
