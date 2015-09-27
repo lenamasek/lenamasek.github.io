@@ -11,6 +11,10 @@
     @media (max-width: 642px) {
       padding-bottom: $spacing-l;
     }
+    @media (max-width: 450px) {
+      padding: 0 $spacing-s;
+    }
+    
   }
 
   .feat {
