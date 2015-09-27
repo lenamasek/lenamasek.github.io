@@ -5,6 +5,8 @@ date:   2015-09-25
 category: blog
 ---
 
+Learning can be difficult. There are a lot of factors to being able to actually learn something, including students' learning styles and teachers' styles and methods, to name a few. When we're out of organized school systems and trying to learn things on our own, maybe through a YouTube video or SkillShare class, it can be hard to recreate the structure of learning and actually retain practical information. We find that we need to learn how to actually learn new things.
+
 ### History 
 A few months ago, [Sebastian](https://twitter.com/sgosztyla), a video and mobile game developer in Chicago, tweeted at a few web designers/developers, asking if there was a [Slack](http://slack.com) set up for Chicago web people to talk and share knowledge, and if so, could he join? I'm glad he asked, because there wasn't a central meeting/chatting platform set up at the time, but [now there is](http://chicagofriends.website), set up by [Savannah](http://sava.nnah.rocks) *(she has the best url by the way).*
 
