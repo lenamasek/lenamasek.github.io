@@ -5,16 +5,16 @@ date:   2015-09-25
 category: blog
 ---
 
-Learning can be difficult, especially if we don't know how to learn. To a point, knowing how to learn comes naturally, but there are a lot of tools for retention and growth that teachers in school never taught us. Many students learn to memorize, not to retain and put into real life practice what they "learned." When trying to learn new things as an adult, we face these issues again. I've been finding that we need to learn how to actually learn new things.
+Learning can be difficult if we don't know how to do it. Learning can come naturally, but there are many tools for retention and growth that teachers in school never taught us. Many students learn to memorize information to regurgitate on a test, but not to retain and put into real life practice what they "learned." As we age, we continue to face these issues as adults. How do we really learn new things?
 
 ### Slack: A Place for Learning
-A few months ago, in a [Chicago Web Friends Slack](http://chicagofriends.website) – a group for Chicago web designers, developers, and anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools to learn JQuery/Javascript, which yielded many great responses that come from lots of experience.
+A few months ago, in a [Chicago Web Friends](http://chicagofriends.website) Slack group – a place for Chicago web designers, developers, and anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools for learning JQuery/Javascript, which yielded many great responses that come from lots of experience.
 
-Erick mentioned that he completed relevant courses on CodeAcademy, but he brings up a good point: 
+Erick mentioned that he completed relevant courses on [Codecademy](http://codecademy.com) in an effort to learn, but "it just hasn't seemed to stick yet." He asks an important question: 
 
 > Once you leave the virtual classroom, how do you apply that knowledge to an actual product? 
 
-[David Laskey](http://twitter.com/david_laskey) pointed out that *"sites like CodeAcademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material."* There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
+ "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," David Laskey responds. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
 
 
 ### How to REALLY Learn a New Code Language
@@ -27,6 +27,7 @@ Erick mentioned that he completed relevant courses on CodeAcademy, but he brings
 + **Find the right project.** Something that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed.
 
 
+**Contributors to this wealth of knowledge:** *[Erick De La Rosa](http://twitter.com/eeedlr), [David Laskey](http://twitter.com/david_laskey), [Kunal Bhat](http://twitter.com/kunalbhat), [Savannah Million](http://twitter.com/savannahmillion), [Coleman Collins](http://twitter.com/COLEMANICEWATER), [Matt Soria](http://twitter.com/poopsplat).*
 
 
 
