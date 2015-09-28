@@ -5,14 +5,10 @@ date:   2015-09-25
 category: blog
 ---
 
-Learning can be difficult. When we're out of organized school systems and trying to learn things on our own, maybe through a YouTube video or SkillShare class, it can be hard to find an optimal structure for learning to actually retain practical information. I've been finding a common trend: we need to learn how to actually learn new things.
+Learning can be difficult, especially if we don't know how to learn. To a point, knowing how to learn comes naturally, but there are a lot of tools for retention and growth that teachers in school never taught us. Many students learn to memorize, not to retain and put into real life practice what they "learned." When trying to learn new things as an adult, we face these issues again. I've been finding that we need to learn how to actually learn new things.
 
-### Slack: A Place to Learn 
-A few months ago, [Sebastian](https://twitter.com/sgosztyla), a video and mobile game developer in Chicago, tweeted at a few web designers/developers, asking if there was a [Slack](http://slack.com) set up for Chicago web people to talk and share knowledge, and if so, could he join? I'm glad he asked, because there wasn't a central meeting/chatting platform set up at the time, but [now there is](http://chicagofriends.website), set up by [Savannah](http://sava.nnah.rocks) *(she has the best url by the way).*
-
-So many great tips/links/info/knowledge/jokes/memes are shared daily in that Slack, which is now a gathering place for almost 60 people of many different backgrounds and experiences with the web. Some folks are senior back-end web developers, some are entry level front-end developers, some are designers (of many kinds) looking to get more comfortable with web, and some are corporate IT managers.
-
-I'll probably share more about the wealth of information shared in this Slack in future posts, but one topic a few months ago is something I've been wanting to share for awhile. [Erick De La Rosa](http://twitter.com/eeedlr) asked the group about tools to learn JQuery/Javascript, which yielded many great responses that come from lots of experience.
+### Slack: A Place for Learning
+A few months ago, in a [Chicago Web Friends Slack](http://chicagofriends.website) – a group for Chicago web designers, developers, and anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools to learn JQuery/Javascript, which yielded many great responses that come from lots of experience.
 
 Erick mentioned that he completed relevant courses on CodeAcademy, but he brings up a good point: 
 
@@ -29,3 +25,11 @@ Erick mentioned that he completed relevant courses on CodeAcademy, but he brings
 
 
 + **Find the right project.** Something that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed.
+
+
+
+
+
+### Chicago Web Friends Slack
+A few months ago, [Savannah](http://sava.nnah.rocks) set up a [Chicago Web Friends Slack](http://chicagofriends.website) group for Chicago web designers, developers, and anyone interested to talk and share knowledge.So many great tips/links/info/knowledge/jokes/memes are shared daily in that Slack, which is now a gathering place for almost 60 people of many different backgrounds and experiences with the web and otherwise. Some folks are senior back-end web developers, some are entry level front-end developers, some are corporate IT managers, some are designers of various disciplines looking to get more comfortable with web. Our common denominators are only *Chicago, web,* and *friends.*
+
