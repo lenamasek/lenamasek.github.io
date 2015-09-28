@@ -5,9 +5,9 @@ date:   2015-09-25
 category: blog
 ---
 
-Learning can be difficult. There are a lot of factors to being able to actually learn something, including students' learning styles and teachers' styles and methods, to name a few. When we're out of organized school systems and trying to learn things on our own, maybe through a YouTube video or SkillShare class, it can be hard to recreate the structure of learning and actually retain practical information. We find that we need to learn how to actually learn new things.
+Learning can be difficult. When we're out of organized school systems and trying to learn things on our own, maybe through a YouTube video or SkillShare class, it can be hard to find an optimal structure for learning to actually retain practical information. I've been finding a common trend: we need to learn how to actually learn new things.
 
-### History 
+### Slack: A Place to Learn 
 A few months ago, [Sebastian](https://twitter.com/sgosztyla), a video and mobile game developer in Chicago, tweeted at a few web designers/developers, asking if there was a [Slack](http://slack.com) set up for Chicago web people to talk and share knowledge, and if so, could he join? I'm glad he asked, because there wasn't a central meeting/chatting platform set up at the time, but [now there is](http://chicagofriends.website), set up by [Savannah](http://sava.nnah.rocks) *(she has the best url by the way).*
 
 So many great tips/links/info/knowledge/jokes/memes are shared daily in that Slack, which is now a gathering place for almost 60 people of many different backgrounds and experiences with the web. Some folks are senior back-end web developers, some are entry level front-end developers, some are designers (of many kinds) looking to get more comfortable with web, and some are corporate IT managers.
