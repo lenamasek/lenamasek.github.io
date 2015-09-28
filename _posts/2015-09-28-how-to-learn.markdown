@@ -5,7 +5,7 @@ date:   2015-09-28
 category: blog
 ---
 
-Learning can be difficult if we don't know how to do it. Learning can come naturally, but there are many tools for retention and growth that teachers in school never taught us. Many students learn to memorize information to regurgitate on a test, but not to retain and put into real life practice what they "learned." As we age, we continue to face these issues as adults. How do we really learn new things?
+Learning can be difficult if we don't know how to do it. It can come naturally, but there are many tools for retention and growth that teachers in school never taught us. Many students learn to memorize information to regurgitate on a test, but not to retain and put into real life practice what they "learned." As we age, we continue to face these issues as adults. Isn industries where we need to learn constantly to stay current, how do we *really* learn?
 
 ### Slack: A Place for Learning
 A few months ago, in a [Chicago Web Friends](http://chicagofriends.website) Slack group – a place for Chicago web designers, developers, and anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools for learning JQuery/Javascript, which yielded many great responses that come from lots of experience.
@@ -14,12 +14,12 @@ Erick mentioned that he completed relevant courses on [Codecademy](http://codeca
 
 > Once you leave the virtual classroom, how do you apply that knowledge to an actual product? 
 
- "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," David Laskey responds. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
+ "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," [David](http://twitter.com/david_laskey) responds. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
 
 
-### How to practically learn a new language, or anything else
+### Tips for Practical Learning
 
-+ **Use quality tutorials & learning materials.** For Erick's particular situation with Javascript, [Savannah](http://twitter.com/savannahmillion) suggests [try.jquery.com](http://try.jquery.com), because "the exercises are always similar to what you see in the video, but different enough to where you still have to think about them." [Kunal Bhat](http://twitter.com/kunalbhat) shares [CodeSchool's Javascript path](http://www.codeschool.com/paths/javascript). Find tutorials and guides that will challenge you to apply your new knowledge in different ways – this will help your retention. 
++ **Use quality tools.** For Erick's particular situation with Javascript, [Savannah](http://twitter.com/savannahmillion) suggests [try.jquery.com](http://try.jquery.com), because "the exercises are always similar to what you see in the video, but different enough to where you still have to think about them." [Kunal Bhat](http://twitter.com/kunalbhat) shares [CodeSchool's Javascript path](http://www.codeschool.com/paths/javascript). Find tutorials and guides that will challenge you to apply your new knowledge in different ways – this will help your retention. 
 
 + **Try making something small** Give yourself a small thing to make and see it through. The language will stick a lot more when you put it into practice to make something you're proud of, rather than just reading about it. Find the right project that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed and avoid completing it.
 
