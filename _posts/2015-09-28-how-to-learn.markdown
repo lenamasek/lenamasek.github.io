@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn How to Learn"
-date:   2015-09-25
+date:   2015-09-28
 category: blog
 ---
 
@@ -17,7 +17,7 @@ Erick mentioned that he completed relevant courses on [Codecademy](http://codeca
  "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," David Laskey responds. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
 
 
-### How to REALLY Learn a New Code Language
+### How to practically learn a new language, or anything else
 
 + **Use quality tutorials & learning materials.** For Erick's particular situation with Javascript, [Savannah](http://twitter.com/savannahmillion) suggests [try.jquery.com](http://try.jquery.com), because "the exercises are always similar to what you see in the video, but different enough to where you still have to think about them." [Kunal Bhat](http://twitter.com/kunalbhat) shares [CodeSchool's Javascript path](http://www.codeschool.com/paths/javascript). Find tutorials and guides that will challenge you to apply your new knowledge in different ways – this will help your retention. 
 
@@ -29,8 +29,8 @@ Erick mentioned that he completed relevant courses on [Codecademy](http://codeca
 
 **Contributors to this wealth of knowledge:** *[Erick De La Rosa](http://twitter.com/eeedlr), [David Laskey](http://twitter.com/david_laskey), [Kunal Bhat](http://twitter.com/kunalbhat), [Savannah Million](http://twitter.com/savannahmillion), [Coleman Collins](http://twitter.com/COLEMANICEWATER), [Matt Soria](http://twitter.com/poopsplat).*
 
+
 * * * 
 
-### More info on the Chicago Web Friends Slack
-A few months ago, [Savannah](http://sava.nnah.rocks) set up a [Chicago Web Friends Slack](http://chicagofriends.website) group for Chicago web designers, developers, and anyone interested to talk and share knowledge.So many great tips/links/info/knowledge/jokes/memes are shared daily in that Slack, which is now a gathering place for almost 60 people of many different backgrounds and experiences with the web and otherwise. Some folks are senior back-end web developers, some are entry level front-end developers, some are corporate IT managers, some are designers of various disciplines looking to get more comfortable with web. Our common denominators are only *Chicago, web,* and *friends.*
-
+### More on the Chicago Web Friends Slack
+A few months ago, game developer [Sebastian](http://twitter.com/sgosztyla) tweeted, asking if there was a place where Chicago people in web fields shared information/answered questions, as there is an equivalent for Chicago game developers. There wasn't, so Savannah set up a Chicago Web Friends group through [Slack](http://slack.com) for Chicago web designers, developers, and anyone interested to talk and share knowledge. It is now a gathering place for almost 60 people of many different backgrounds and experiences with the web and otherwise. Some folks are senior back-end web developers, some are entry level front-end developers, some are corporate IT managers, some are designers of various disciplines looking to get more comfortable with web. If you have information to share or questions to ask, you should [definitely jump in](http://chicagofriends.website)! The only rule is: don't be a jerk.
