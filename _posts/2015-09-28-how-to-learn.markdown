@@ -5,16 +5,16 @@ date:   2015-09-28
 category: blog
 ---
 
-Learning new things isn't easy. It can come naturally, but there are many tools for retention and growth that school teachers never taught us. Many students only memorize information to regurgitate on a test, instead of retaining and putting into real life practice what they "learned." As we age, we continue to face these issues as adults. In industries where we need to learn constantly to stay current, how do we *really* learn?
+Learning new things isn't easy. It can come naturally, but there are many tools for retention and growth that school teachers never taught us. Many students only memorize information to regurgitate on a test, instead of retaining and putting into real life practice what they "learned." As we age, we continue to face these issues. In industries where we need to learn constantly to stay current, how do we *really* learn?
 
-### Slack: A Place for Learning
-A few months ago, in a [Chicago Web Friends](http://chicagofriends.website) Slack group – a place for anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools for learning JQuery/Javascript, which yielded many great responses that come from lots of experience.
+### The Problem with Online Tutorials
+A few months ago, in a [Chicago Web Friends](http://chicagofriends.website) Slack group – a place for anyone interested in the web to talk and share knowledge – [Erick De La Rosa](http://twitter.com/eeedlr) asked about tools for learning JQuery/Javascript, which yielded many great responses that come from lots of experience. 
 
 Erick mentioned that he completed relevant courses on [Codecademy](http://codecademy.com) in an effort to learn, but "it just hasn't seemed to stick yet." He asks an important question: 
 
 > Once you leave the virtual classroom, how do you apply that knowledge to an actual product? 
 
- "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," [David](http://twitter.com/david_laskey) responds. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. Here are some tips shared to make learning a new code language actually stick:
+ "Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material," [David](http://twitter.com/david_laskey) responds supportively. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. I captured what the Chicago Web Friends had to say into 4 Tips for Practical Learning.
 
 
 ### Tips for Practical Learning
