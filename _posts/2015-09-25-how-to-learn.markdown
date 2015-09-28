@@ -19,18 +19,18 @@ Erick mentioned that he completed relevant courses on [Codecademy](http://codeca
 
 ### How to REALLY Learn a New Code Language
 
-+ **Try making something small** Give yourself a small thing to make and see it through. The language will stick a lot more than just reading about it. [Kunal](http://twitter.com/kunalbhat) makes a simple Lorem Ipsum generator to start learning each new language. Check out his [GitHub repo](https://github.com/kunalbhat?tab=repositories) for those project and others. There’s no substitute for doing something simple over and over again to drive home your knowledge; small projects are a great way to do that.
++ **Use quality tutorials & learning materials.** For Erick's particular situation with Javascript, [Savannah](http://twitter.com/savannahmillion) suggests [try.jquery.com](http://try.jquery.com), because "the exercises are always similar to what you see in the video, but different enough to where you still have to think about them." [Kunal Bhat](http://twitter.com/kunalbhat) shares [CodeSchool's Javascript path](http://www.codeschool.com/paths/javascript). Find tutorials and guides that will challenge you to apply your new knowledge in different ways – this will help your retention. 
 
-+ **Break down the problem** Write out instructions as you learn. Organize your thoughts into: “How would I accomplish this task in code?” and then “What is the actual syntax and helper functions I need to remember to do this?” Try doing the first part without the documentation info available and then open them up for the second part. The language is really just a vehicle for accomplishing the components to a problem. Become aware of the types of things you’re able to do in that language.
++ **Try making something small** Give yourself a small thing to make and see it through. The language will stick a lot more when you put it into practice to make something you're proud of, rather than just reading about it. Find the right project that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed and avoid completing it.
 
++ **Break down the problem** Write out instructions as you learn. [Coleman Collins](http://twitter.com/COLEMANICEWATER) says that what helped him to learn JQ/JS was to "actually write out instructions or psuedo-code logic first." Organize your thoughts into: “How would I accomplish this task in code?” and then “What is the actual syntax and helper functions I need to remember to do this?” Try doing the first part without the documentation info available and then open them up for the second part. The language is really just a vehicle for accomplishing the components to a problem. Become aware of the types of things you’re able to do in that language to build your understanding of how it works.
 
-+ **Find the right project.** Something that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed.
-
++ **Practice it over and over.** Kunal "likes to use the same problem as a starter" to learning a new language. He's made a simple Lorem Ipsum generator in [Ruby](https://github.com/kunalbhat/morel-ipsum), [JS](https://github.com/kunalbhat/morel-ipsum-js), and [Python](https://github.com/kunalbhat/morel-ipsum-python). There’s no substitute for doing something simple over and over again to drive home your knowledge. 
 
 **Contributors to this wealth of knowledge:** *[Erick De La Rosa](http://twitter.com/eeedlr), [David Laskey](http://twitter.com/david_laskey), [Kunal Bhat](http://twitter.com/kunalbhat), [Savannah Million](http://twitter.com/savannahmillion), [Coleman Collins](http://twitter.com/COLEMANICEWATER), [Matt Soria](http://twitter.com/poopsplat).*
 
+* * * 
 
-
-### Chicago Web Friends Slack
+### More info on the Chicago Web Friends Slack
 A few months ago, [Savannah](http://sava.nnah.rocks) set up a [Chicago Web Friends Slack](http://chicagofriends.website) group for Chicago web designers, developers, and anyone interested to talk and share knowledge.So many great tips/links/info/knowledge/jokes/memes are shared daily in that Slack, which is now a gathering place for almost 60 people of many different backgrounds and experiences with the web and otherwise. Some folks are senior back-end web developers, some are entry level front-end developers, some are corporate IT managers, some are designers of various disciplines looking to get more comfortable with web. Our common denominators are only *Chicago, web,* and *friends.*
 
