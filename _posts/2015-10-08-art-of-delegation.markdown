@@ -12,15 +12,11 @@ This week, Partner and Creative Director [Jennifer Masi](http://torque.digital/t
 ### Goals of Delegation
 Delegating helps elevate you to your best use and elevates helpers as they learn and grow. Delegating helps you learn to trust others, helps get the job done, and diversifies perspectives going into the project.
 
-	1. *Give time frame & details* -the more info the better
- (be specific)
+### Learn to Delegate 
 
- 	2. *Delegate the objective, not the procedure* (they’ll do it their way)
-
- 	3. *Ensure your helper has whatever he/she needs to succeed*
-
- 	4. *Give your helper the opportunity to ask questions*
-
- 	5. *Ask your helper to confirm completion*
-
- 	6. *Recognize your helper once the task is complete* (a big thanks goes a long way)
+1. *Give time frame & details* -the more info the better (be specific)
+2. *Delegate the objective, not the procedure* (they’ll do it their way)
+3. *Ensure your helper has whatever he/she needs to succeed*
+4. *Give your helper the opportunity to ask questions*
+5. *Ask your helper to confirm completion*
+6. *Recognize your helper once the task is complete* (a big thanks goes a long way)
