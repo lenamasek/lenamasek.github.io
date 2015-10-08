@@ -5,12 +5,16 @@ date:   2015-10-08
 category: blog
 ---
 
-Over the past year or so at [Torque](http://torque.digital), we've been sharing skills and knowledge in small sessions with each other. We're working toward a consistent workshop schedule, and right now, that looks like a weekly 2:30pm 'tea time' in the conference room. This week, Partner and Creative Director [Jennifer Masi](http://torque.digital/team/jennifer-masi) taught us all about The Art of Delegating, also known by her actionable phrase, "Delegate to Elevate." 
+Over the past year or so at [Torque](http://torque.digital), we've been sharing skills and knowledge in small sessions with each other. We're working toward a consistent workshop schedule, and right now, that looks like a weekly 2:30pm 'tea time' in the conference room. This week, Partner and Creative Director [Jennifer Masi](http://torque.digital/team/jennifer-masi) gave us tips and tricks about *The Art of Delegating*, also known by her actionable phrase, "Delegate to Elevate." 
 
-I want to share with you a summary of her session, because I believe it's really important and something I really need to learn myself. I know too many people who tend to work alone in a void without collaboration. If we work alone, we may let strong skills for teamwork, collaboration, and trust for others atrophy. These traits provide a necessary foundation for delegation. It can be scary to invite someone else in to your creative process, but there are definitely ways to do it well to minimize the anxiousness.
+I want to share her knowledge with you because I believe it's really important, and it's something I really need to learn myself. I know too many people who tend to work alone in a void without collaboration. If we work alone, we may let strong skills for teamwork, collaboration, and trust for others atrophy. These traits provide a necessary foundation for delegation. It can be scary to invite someone else in to your creative process, but your work may suffer if you always do it alone. Here are some tips to delegate well.
 
 ### Goals of Delegation
 Delegating helps elevate you to your best use and elevates helpers as they learn and grow. Delegating helps you learn to trust others, gets the job done well, and diversifies perspectives going into the project.
+
+### First, Pause & Ask
+**Is this a delegation moment?** Just because a task is assigned to you, doesn’t mean you need to be the one to complete it. It can always be delegated. Can you delegate anything on your plate right now?
+
 
 Important to note:
 
