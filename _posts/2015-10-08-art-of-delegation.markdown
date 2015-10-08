@@ -16,7 +16,7 @@ Delegating helps elevate you to your best use and elevates helpers as they learn
 
 
 
-### Ask yourself, Is this a delegation moment?
+### Ask yourself, is this a delegation moment?
 Just because a task is assigned to you, doesn’t mean you need to be the one to complete it – it can often be delegated. Delegation is also not a status indicator. Jennifer makes an important note:
 
 > No job is beneath anyone. All jobs are important. Leaders know how and are willing to do all the jobs. Remember, if someone doesn’t buy the toilet paper, *what would happen to the office?*
@@ -32,7 +32,7 @@ Just because a task is assigned to you, doesn’t mean you need to be the one to
 
 4. **Give your delegatee the opportunity to ask questions.** Setting aside time for questions and conversations about the project will give your helpers a feeling of ownership and involvement in the project. Strong communication with people to whom you delegate is investing in the quality of the end product.
 
-5. **Check in with helper until project completion.** Gotta stay on task! Follow up and check in with everyone on the project. Touching base more often makes sure the project doesn't go off track so you can acheive the outcome you need. Make sure they confirm with you when their tasks are finished and follow up after the project.
+5. **Check in through project completion.** Gotta stay on task! Follow up and check in with everyone on the project. Touching base more often makes sure the project doesn't go off track so you can acheive the outcome you need. Make sure they confirm with you when their tasks are finished and follow up after the project.
 
 6. **Show your appreciation for the people who invested in your project with you.** A big 'thank you' goes a long way. I know I don't always go the extra step to vocalize my thankfulness. Showing gratitude increases personal growth on both sides and better partnerships going forward.
 
