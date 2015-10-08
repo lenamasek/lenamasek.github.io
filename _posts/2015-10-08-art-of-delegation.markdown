@@ -27,8 +27,12 @@ Important to note:
 
 3. **Ensure your helper has whatever they need to succeed.** Equip your helpers with the right tools so they can do their best work for your project. Check in with them to make sure their tools are working for them.
 
-4. **Give your helper the opportunity to ask questions.** Setting aside time for questions or conversation about the project will  
+4. **Give your helper the opportunity to ask questions.** Setting aside time for questions and conversations about the project will give your helper a feeling of ownership and involvement in the project. Strong communication with people to whom you delegate is investing in the quality of the end product.
 
-5. **Check in with helper until project completion.** Gotta stay on task! Follow up and check in with everyone on the project.
+5. **Check in with helper until project completion.** Gotta stay on task! Follow up and check in with everyone on the project. Touching base more often makes sure the project doesn't go off track so you can acheive the outcome you need.
 
-6. **Recognize your helper once the task is complete.** A big 'thank you' goes a long way. I know I'm personally guilty of not going the extra step to vocalize my thankfulness. 
+6. **Show your appreciation for the people who invested in your project with you.** A big 'thank you' goes a long way. I know I'm personally guilty of not always going the extra step to vocalize my thankfulness. Showing gratitude increases personal growth on both sides and better partnerships going forward.
+
+
+### Go do it
+[Let me know](http://twitter.com/lenamasek) how delegation works best for you.
