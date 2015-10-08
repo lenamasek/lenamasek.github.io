@@ -23,7 +23,7 @@ Important to note:
 Leaders know how and are willing to do all the jobs. Remember, if someone doesn’t buy the toilet paper, *what would happen to the office?*
 
 
-### Delegate Like a Pro 
+### Keys to be able to Delegate like a Pro 
 1. **Give time frame & details.** Be specific about the details of the project to set a strong foundation and make sure everyone is on the same page.
 
 2. **Delegate the objective, not the procedure.** This is where trust comes in. Successful delegation respects the opinion and process of everyone involved. Delegating projects or tasks comes with understanding that different people have different ways of doing the same thing. Dictating every facet of a project is strangling when it could be thriving on the contributions of others.
