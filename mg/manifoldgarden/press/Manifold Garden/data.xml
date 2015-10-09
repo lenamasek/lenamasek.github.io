@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Manifold Garden</title>
+	<release-date>2016</release-date>
+	<website>http://www.manifoldgarden.com</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+			<link>http://www.manifoldgarden.com</link>
+		</platform>
+		<!--
+		<platform>
+			<name>Steam</name>
+			<link>http://www.steampowered.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://www.itunes.com/</link>
+		</platform>
+		-->
+	</platforms>
+	
+	<prices>
+		
+		<price>
+			<currency></currency>
+			<value>TBD</value>
+		</price>
+		<!--
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+		-->
+	</prices>
+
+	<description>	
+	Manifold Garden, previously known as Relativity, is an exploration-puzzle game that imagines a universe with a different set of physical laws.
+	Set in an Escher-esque world filled with secrets and mysteries, you utilize a unique gravity-manipulation mechanic to turn walls into floors. Learn to see the world through whole new perspectives as you navigate mindboggling architecture and solve seemingly impossible puzzles.
+	</description>
+	
+	<history>
+	 <![CDATA[In November 2012, William Chyr began working on Manifold Garden, initially the project was called Relativity, and it was to be a small project to learn the basics of game development and the Unity3D engine. Drawing inspiration from various physics thought experiments, he created a rough prototype over Thanksgiving weekend. After showing an early version of the game to some playtesters and receiving encouraging feedback, he decided to pursue the idea further and continue development.
+	<br /><br />   
+	In 2013, Chyr was awarded a six-month artist residency at the Swatch Art Peace Hotel in Shanghai, China. This gave him the opportunity to focus on development of the game full-time and take it to a level that demonstrates many of the core ideas of the project.
+	<br /><br />   
+	In October 2013, CHyr returned to Chicago, where he has continued to work on <i>Manifold Garden</i> since. ]]>
+	</history>
+
+	<features>
+		<feature>A unique gravity-manipulation mechanic that allows players to walk on any visible surface.</feature>
+		<feature>An expansive and beautiful world filled with secrets for players to explore.</feature>
+		<feature>Mindbuggling Escher-esque architecture.</feature>
+		<feature>Original soundtrack</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>BSP-e8tnXhw</youtube>
+			<!--<vimeo>23571681</vimeo>-->
+		</trailer>
+		<!--
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+		-->
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Big Sushi Best of PAX East</description>
+			<info>PAX East, 2014</info>
+		</award>
+		
+		<award>
+			<description>Famitsu Indie Prize Nominee</description>
+			<info>Tokyo Game Show, 2014</info>
+		</award>
+		<award>
+			<description>Dengeki Onlin Indie Prize Nominee</description>
+			<info>Tokyo Game Show, 2014</info>
+		</award>
+		
+		<award>
+			<description>Gamercamp Offical Selection</description>
+			<info>Toronto, 2014</info>
+		</award>
+
+		<award>
+			<description>Bit Bash Festival Offical Selection</description>
+			<info>Chicago, 2014</info>
+		</award>	
+	
+		<award>
+			<description>The MIX Showcase at SIGGRAPH Official Selection</description>
+			<info>Vancouver, 2014</info>
+		</award>		
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Every room I walked into had an "Aha!" moment where, in an instant, the confusing pieces fit together.</description>
+			<name>Dave Tach</name>
+			<website>Polygon</website>
+			<link>http://www.polygon.com/2014/4/16/5621552/relativity-willy-chyr-preview-east-2014</link>
+		</quote>
+		
+		<quote>
+			<description>The world emulates the black and white minimalism of Escher's work, and the crisp modern design populating the walls, windows, and massive towers seen in the distance inspire a desire to explore. </description>
+			<name>Beckett Mufson</name>
+			<website>The Creators Project</website>
+			<link>http://thecreatorsproject.vice.com/blog/meet-the-artist-turning-mc-eschers-relativity-into-a-video-game</link>
+		</quote>
+		
+		<quote>
+			<description>I played through an early alpha build and when I got the hang of switching gravity around, I felt the same excitement I had when I first started thinking with portals.</description>
+			<name>Steve Marinconz</name>
+			<website>Kotaku</website>
+			<link>http://kotaku.com/relativity-puts-you-in-an-mc-escher-drawing-1525127547</link>
+		</quote>
+		
+		<quote>
+			<description>A mysterious and mind-boggling game to say the least, I’m excited to see more.</description>
+			<name>Mark Cavazos</name>
+			<website>Hardcore Gamer</website>
+			<link>http://www.hardcoregamer.com/2014/09/29/indie-gaming-at-tokyo-game-show/106908/</link>
+		</quote>
+		
+		<quote>
+			<description>Manifold Garden may be the next game that puzzle fans talk about alongside Portal, Antichamber, and Q.U.B.E..</description>
+			<name>Joe Donato</name>
+			<website>GameZone</website>
+			<link>http://www.gamezone.com/previews/2014/02/20/indiecade-east-once-again-shows-off-the-games-you-might-be-playing-next</link>
+		</quote>
+		
+		<quote>
+			<description>It definitely has lots of stairs, and that’s a plus in my book. </description>
+			<name>Chris Priestman</name>
+			<website>IndieStatik</website>
+			<link>http://indiestatik.com/2013/10/20/screenshot-scrutiny-19th-october-2013/</link>
+		</quote>
+
+	
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>DevLog</title>
+			<description>TIGForum journal charting the development of Willy Chyr's Relativity:</description>
+			<link>http://forums.tigsource.com/index.php?topic=37314.0</link>
+		</additional>	
+		
+		<additional>
+			<title>Twitter</title>
+			<description>Stay up-to-date with development on Twitter: </description>
+			<link>https://twitter.com/williamchyr</link>
+		</additional>
+		
+		<additional>
+			<title>Facebook</title>
+			<description>Stay up-to-date with Manifold Garden on facebook: </description>
+			<link>https://www.facebook.com/ManifoldGarden</link>
+		</additional>
+		
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>William Chyr</person>
+			<role>Design &amp; Development</role>
+		</credit>
+		
+	</credits>
+	
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+</game>
