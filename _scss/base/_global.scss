@@ -231,7 +231,7 @@ section#hero {
 }
 
 /* this affects the nav bar */
-/*div.h-wrap {
+div.h-wrap {
   position:absolute;
 
   &h1.title a,
@@ -239,7 +239,7 @@ section#hero {
     color:$bg-color; 
 
   }
-}*/
+}
 
 .span_3_of_6#homepage{
   text-align:left;
@@ -257,7 +257,7 @@ section#hero {
   .page-title#frontpg {
     margin-top:150px;
 }
- /* div.h-wrap {
+  div.h-wrap {
   position:relative;
 
   &h1.title a,
@@ -265,7 +265,7 @@ section#hero {
 
      color:$text-color; 
 
-  }*/
+  }
 }
   
 }
