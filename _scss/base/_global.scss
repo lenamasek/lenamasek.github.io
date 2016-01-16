@@ -230,8 +230,19 @@ section#hero {
   width:100%;
 }
 
+/* this affects the nav bar */
+div.h-wrap {
+  position:absolute;
+
+  &h1 {
+
+    a { color:$bg-color; }
+
+  }
+}
+
 .span_3_of_6#homepage{
-  text-align:center;
+  text-align:left;
   
   &:first-child {
   padding-right:10px;
@@ -245,6 +256,15 @@ section#hero {
 @media screen and (max-width:550px) {
   .page-title#frontpg {
     margin-top:150px;
+}
+  div.h-wrap {
+  position:relative;
+
+  &h1 {
+
+    a { color:$text-color; }
+
+  }
 }
   
 }
