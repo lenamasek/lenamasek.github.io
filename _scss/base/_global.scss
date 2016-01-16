@@ -222,10 +222,11 @@ section#hero-container {
   position:relative;
   top:-160px;
   background:white;
+  padding-top: 25px; 
 }
 
 section#hero {
-  height:320px;
+  height:300px;
   background:$main-color;
   width:100%;
 }
