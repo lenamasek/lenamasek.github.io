@@ -218,15 +218,16 @@ h3.homepage {
   text-align:center;
 }
 
-section.single-wrap #hero-container {
+section#hero-container {
   position:relative;
   top:-120px;
-  background:$main-color;
+  background:white;
 }
 
 section#hero {
   height:320px;
   background-image:url(http://www.planwallpaper.com/static/images/518079-background-hd.jpg);
+  width:100%;
 }
 
 .span_3_of_6#homepage{
