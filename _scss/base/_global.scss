@@ -220,7 +220,7 @@ h3.homepage {
 
 section#hero-container {
   position:relative;
-  top:-120px;
+  top:-160px;
   background:white;
 }
 
@@ -234,9 +234,9 @@ section#hero {
 div.h-wrap {
   position:absolute;
 
-  &h1.title {
-
-    a { color:$bg-color; }
+  &h1.title a,
+  ul.icon-nav li a {
+    color:$bg-color; 
 
   }
 }
@@ -260,9 +260,10 @@ div.h-wrap {
   div.h-wrap {
   position:relative;
 
-  &h1.title {
+  &h1.title a,
+  ul.icon-nav li a {
 
-    a { color:$text-color; }
+     color:$text-color; 
 
   }
 }
