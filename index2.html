@@ -39,7 +39,7 @@ title: Homepage
 				  <article class="single-content">
 				  <ul class="posts">
 				    {% for post in paginator.posts %}
-				    {% if post.category contains 'blog' %}
+				    {% if post.category contains 'project' %}
 				    <li itemscope itemtype="http://schema.org/BlogPosting">
 				        <div>
 				             <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url" id="post-title-link"><h3 itemprop="name headline">{{ post.title }}</h3></a>
