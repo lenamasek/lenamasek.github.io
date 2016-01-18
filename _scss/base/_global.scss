@@ -218,55 +218,21 @@ h3.homepage {
   text-align:center;
 }
 
-section#hero-container {
-  position:relative;
-  top:-160px;
-  background:white;
-  padding-top: 25px; 
-}
-
-section#hero {
-  height:300px;
-  background:$main-color;
-  width:100%;
-}
-
-/* this affects the nav bar */
-div.h-wrap {
-  position:absolute;
-
-  &h1.title a,
-  ul.icon-nav li a {
-    color:$bg-color; 
-
-  }
-}
-
 .span_3_of_6#homepage{
   text-align:left;
   
   &:first-child {
-  padding:0 10px 0 20px;
+  padding-right:10px;
   }
 
   &:last-child {
-    padding: 0 20px 0 10px;
+    padding-left:10px;
   }
 }
 
 @media screen and (max-width:550px) {
   .page-title#frontpg {
     margin-top:150px;
-}
-  div.h-wrap {
-  position:relative;
-
-  &h1.title a,
-  ul.icon-nav li a {
-
-     color:$text-color; 
-
-  }
 }
   
 }
