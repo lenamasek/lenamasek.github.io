@@ -2,7 +2,9 @@
 layout: post
 title:  "Learn How to Learn"
 date:   2015-09-28
-category: blog
+categories: blog
+highlight: true
+image:
 ---
 
 Learning new things isn't easy. It can come naturally, but there are many tools for retention and growth that school teachers never taught us. Many students only memorize information to regurgitate on a test, instead of retaining and putting into real life practice what they "learned." As we age, we continue to face these issues. In industries where we need to learn constantly to stay current, how do we *really* learn?

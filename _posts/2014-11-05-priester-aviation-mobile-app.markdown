@@ -2,7 +2,10 @@
 layout: post
 title:  "Project: Priester Aviation Mobile App"
 date:   2014-11-05
-category: project
+categories: project
+highlight:
+image: {{ site.baseurl }}/assets/img/pa-1b-phone.png
+
 ---
 
 
