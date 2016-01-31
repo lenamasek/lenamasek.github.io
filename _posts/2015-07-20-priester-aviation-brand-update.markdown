@@ -3,7 +3,7 @@ layout: post
 title:  "Project: Priester Aviation Brand Update"
 date:   2015-07-20
 categories: project
-image: http://lenamasek.website/assets/img/priester/Priester-Cover-Opened.jpg
+image: http://lenamasek.website/img/priester/Priester-Inside1.jpg
 ---
 
 
