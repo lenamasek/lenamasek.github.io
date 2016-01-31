@@ -3,13 +3,13 @@ layout: post
 title:  "Building with Jekyll"
 date:   2015-09-23
 categories: blog
-highlight: 
-image: {{ site.baseurl }}/img/jekyll.png
+image: http://lenamasek.website/img/jekyll.png
 ---
 
-<img src="{{ site.baseurl }}/img/jekyll.png">
 
 I've wanted to use a tool like Jekyll for my personal site before I knew it existed. I wanted to automate my site enough to keep up with a blog and portfolio easily and efficiently without limiting or inhibiting my designs, or causing the upkeep of the site to be more difficult than necessary. 
+
+<img src="{{ site.baseurl }}/img/jekyll.png">
 
 I've built sites with Wordpress and worked with Drupal, but those robust CMSs are too powerful for my needs. Alternatively, Squarespace and other pre-designed portfolio sites, although helpful to many, became a hinderance to my ability to make my own design choices. Flat code sites had worked in the past, giving me total freedom, but were inefficient for my upkeep and knowledge of code at the time.
 
@@ -20,7 +20,7 @@ Soooo.. what *is* Jekyll? What are these products, what do they do?
 >Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator". - [JekyllBootstrap.com](http://jekyllbootstrap.com)
 
 
-### Configuration
+#### Configuration
 
 <img src="{{ site.baseurl }}/img/jekyll-config-code.png">
 
