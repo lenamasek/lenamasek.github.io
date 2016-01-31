@@ -2,7 +2,9 @@
 layout: post
 title:  "Project: The Truth About You and Me"
 date:   2015-03-30
-category: project
+categories: project
+highlight: true
+image: http://thetruthaboutyouand.me/img/truth-screen.png
 ---
 
 
