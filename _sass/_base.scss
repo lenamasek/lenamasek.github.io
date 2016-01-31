@@ -18,6 +18,11 @@ ul, ol, dl, figure,
     font-family: $font-family !important;
 }
 
+a {
+    color: $main-color !important;
+    font-weight: 500;
+}
+
 ::selection {
     background: $main-color;
     color: $smoke-color;
