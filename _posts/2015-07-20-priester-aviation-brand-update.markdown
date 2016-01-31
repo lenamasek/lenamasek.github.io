@@ -6,6 +6,8 @@ categories: project
 image: http://lenamasek.website/assets/img/priester/Priester-Cover-Opened.jpg
 ---
 
+
+
 [Priester Aviation](http://priesterav.com), a multi-disciplinary aviation service company, needed screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule. 
 
 <img src="{{ site.baseurl }}/assets/img/priester/Priester-Cover-Opened.jpg">
