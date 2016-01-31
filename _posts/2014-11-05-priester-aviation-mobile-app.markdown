@@ -5,7 +5,6 @@ date:   2014-11-05
 categories: project
 highlight:
 image: {{ site.baseurl }}/assets/img/pa-1b-phone.png
-
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "My Day Job"
 date:   2015-09-21
-category: blog
+categories: blog
 ---
 
 This post is for anyone who may feel targeted by the goofy "Should Designers Learn to Code?" thinkpieces. Long story short, my advice is to build whatever career works for you. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Learn How to Learn"
 date:   2015-09-28
 categories: blog
-highlight: true
+highlight: 
 image:
 ---
 

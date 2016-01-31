@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of Delegation"
 date:   2015-10-08
-category: blog
+categories: blog
 ---
 
 Over the past year at [Torque](http://torque.digital), we've been sharing skills and knowledge with each other in small, periodical workshops. These days, that looks like a weekly 2:30pm 'tea time' in the conference room. For this week's workshop, Partner and Creative Director [Jennifer Masi](http://torque.digital/team/jennifer-masi) gave us tips and tricks about *The Art of Delegating*, also known by her actionable phrase, "Delegate to Elevate." 

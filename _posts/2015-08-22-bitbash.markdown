@@ -2,7 +2,8 @@
 layout: post
 title:  "Bit Bash"
 date:   2015-08-22
-category: project
+categories: project
+image: {{ site.baseurl }}/assets/img/bk_bitbash7.jpg
 ---
 
 [Bit Bash](http://bitbashchicago.com) is Chicago's first alternative games and arts festival. I am a co-organzier contributing with design, marketing, social media, and project managing.
