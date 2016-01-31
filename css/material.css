@@ -6396,6 +6396,7 @@ input.mdl-button[type="submit"] {
   line-height: 1;
   letter-spacing: 0.02em;
   font-weight: 400;
+  color:white;
   box-sizing: border-box; }
 
 .mdl-layout-spacer {
