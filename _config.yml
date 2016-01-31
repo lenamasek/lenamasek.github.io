@@ -1,7 +1,7 @@
 # Site settings
 title: lena masek
 email: lena.masek@gmail.com
-description: "i do both web design & development and print design & production. i work at [torque](http://torque.digital) and freelance on the side. i'd love to work on your project with you. i have experience with websites to promote events, products, individuals, and small businesses."
+description: "i do both web design & development and print design & production. i work at <http://torque.digital> torque and freelance on the side. i'd love to work on your project with you. i have experience with websites to promote events, products, individuals, and small businesses."
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://lenamasek.website" # the base hostname & protocol for your site
 twitter_username: lenamasek
@@ -38,7 +38,6 @@ ga_tracking_id: UA-43033620-3
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-highlighter: pygments
+
 
 ##7b68ee
