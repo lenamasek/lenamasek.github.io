@@ -2,7 +2,9 @@
 layout: post
 title:  "Manifold Garden"
 date:   2015-09-22
-category: project
+categories: project
+highlight: 
+image: {{ site.baseurl }}/assets/img/MG-screenshot-1.png
 ---
 
 [Manifold Garden](http://manifold.garden) is a fantastic exploration-puzzle game set in an Escher-esque world  by [William Chyr](http://williamchyr.com). William is an artist, currently in Chicago, doing a lot of work at the intersection of art and science. 

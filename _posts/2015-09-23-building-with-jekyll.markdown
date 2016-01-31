@@ -2,7 +2,9 @@
 layout: post
 title:  "Building with Jekyll"
 date:   2015-09-23
-category: project
+categories: blog
+highlight: 
+image: {{ site.baseurl }}/assets/img/jekyll.png
 ---
 
 <img src="{{ site.baseurl }}/assets/img/jekyll.png">
