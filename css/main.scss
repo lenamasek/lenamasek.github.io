@@ -12,7 +12,6 @@ $super-search:     rgba(0, 191, 255, 0.85);
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-$mediumslateblue:	rgba(48,41,93,1);
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -21,5 +20,6 @@ $mediumslateblue:	rgba(48,41,93,1);
         "layout",
         "syntax-highlighting",
         "post",
-        "search"
+        "search",
+        "variables"
 ;

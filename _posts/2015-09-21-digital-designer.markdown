@@ -17,7 +17,7 @@ At Torque, as a Digital Designer, I design for a large range of products: brandi
 
 Here's my job description, as written by Ben, Torque's Senior Interactive Designer:
 
-### Responsibilites
+#### Responsibilites
 
 * Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work
 * Manage and prioritize multiple projects and tasks simultaneously
@@ -28,7 +28,7 @@ Here's my job description, as written by Ben, Torque's Senior Interactive Design
 * Ensure delivery of work on time, on budget, and that meets agency quality standards
 
 
-### Skills
+#### Skills
 
 * Strong knowledge of Adobe Photoshop, Illustrator and proficient in the entire Adobe Creative Suite
 * Understanding of responsive, UI/UX, mobile app, touch screen, and interactive design techniques
