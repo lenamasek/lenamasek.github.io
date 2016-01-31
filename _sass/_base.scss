@@ -3,11 +3,11 @@
  */
 
 
-html, body {
-    font-family: $font-family;
-    font-size: $font-size-m;
-    font-weight: 400;
-    line-height: $spacing-s;
+html, body, p {
+    font-family: $font-family !important;
+    font-size: $font-size-s !important;
+    font-weight: 400 !important;
+    line-height: $spacing-sm !important;
 }
 
 h1, h2, h3, h4, h5, h6,
