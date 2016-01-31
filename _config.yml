@@ -14,7 +14,7 @@ facebook_app_id:
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
-post_type: default    # values [ highlight, default ]
+post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
@@ -38,3 +38,6 @@ ga_tracking_id: UA-43033620-3
 
 # Build settings
 markdown: kramdown
+
+
+##7b68ee
