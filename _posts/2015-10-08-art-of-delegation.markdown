@@ -11,19 +11,19 @@ I'm morphing her presentation into a post so I can share it with you because I b
 
 
 
-### Goals of Delegation
+#### Goals of Delegation
 Delegating helps elevate you to your best use and elevates helpers as they learn and grow. Delegating helps you learn to trust others, gets the job done well, and diversifies perspectives going into the project.
 
 
 
-### Ask yourself, is this a delegation moment?
+#### Ask yourself, is this a delegation moment?
 Just because a task is assigned to you, doesn’t mean you need to be the one to complete it – it can often be delegated. Delegation is also not a status indicator. Jennifer makes an important note:
 
 > No job is beneath anyone. All jobs are important. Leaders know how and are willing to do all the jobs. Remember, if someone doesn’t buy the toilet paper, *what would happen to the office?*
 
 
 
-### Keys to Delegate like a Pro 
+#### Keys to Delegate like a Pro 
 1. **Give time frame & details.** Be specific about the details of the project to set a strong foundation and make sure everyone is on the same page. Establishing a clear, shared idea about the outcome of the project will ensure its success.
 
 2. **Delegate the objective, not the procedure.** This is where trust comes in heavily. Successful delegation respects the opinion and process of everyone involved. Delegating projects or tasks comes with understanding that different people have different ways of doing the same thing. Dictating every facet of a project strangles it; let the project thrive on the contributions of others.
@@ -37,5 +37,5 @@ Just because a task is assigned to you, doesn’t mean you need to be the one to
 6. **Show your appreciation for the people who invested in your project with you.** A big 'thank you' goes a long way. I know I don't always go the extra step to vocalize my thankfulness. Showing gratitude increases personal growth on both sides and better partnerships going forward.
 
 
-### Go do it
+#### Go do it
 Go delegate! [Let me know](http://twitter.com/lenamasek) how delegation is working best for you.

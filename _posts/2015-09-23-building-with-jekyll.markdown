@@ -4,7 +4,7 @@ title:  "Building with Jekyll"
 date:   2015-09-23
 categories: blog
 highlight: 
-image: {{ site.baseurl }}/assets/img/jekyll.png
+image: {{ site.baseurl }}/img/jekyll.png
 ---
 
 <img src="{{ site.baseurl }}/assets/img/jekyll.png">
