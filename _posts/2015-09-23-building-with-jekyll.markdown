@@ -37,7 +37,7 @@ Jekyll offers [a config.yml file](https://jekyllrb.com/docs/configuration/) in y
 The screenshots above show how I stored my social media handles in the config file (left) and how they become usable throughout the site with a variable (right).
 
 
-### Front Matter
+#### Front Matter
 
 <img src="{{ site.baseurl }}/img/jekyll-frontmatter.png">
 
@@ -45,7 +45,7 @@ Jekyll's parsing allows me to use [Liquid Markdown templating language](https://
 
 Also, when I want to change the format of a page or move around content buckets, I edit either the default.html or post.html layout templates. My content stays in the .markdown files. 
 
-### Theme and Styling
+#### Theme and Styling
 
 <img src="{{ site.baseurl }}/img/hikari.png">
 

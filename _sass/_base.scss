@@ -8,6 +8,12 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+::selection {
+    background: $main-color;
+    color: $smoke-color;
+}
+
+
 /**
  * Blockquotes
  */
@@ -17,6 +23,14 @@ blockquote {
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     font-style: italic;
+
+    &:after {
+        content:'';
+    }
+
+    &:before {
+        content:'';
+    }
 
     > :last-child {
         margin-bottom: 0;
