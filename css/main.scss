@@ -16,10 +16,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "variables",
         "base",
         "layout",
         "syntax-highlighting",
         "post",
-        "search",
-        "variables"
+        "search"
 ;
