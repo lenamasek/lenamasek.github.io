@@ -4,7 +4,7 @@ MIT Licensed
 */
 
 .super-search {
-  background-color: $super-search;
+  background-color: rgba(123,104,238,.85);
   z-index: 999;
   transition: 0.2s ease;
   visibility: hidden;
@@ -27,7 +27,8 @@ MIT Licensed
 .super-search__results {
   text-align: center;
   list-style: none;
-  padding: 0;
+  padding: 0 10%;
+    width: 80%;
   overflow-x: hidden;
   height: calc(100% - 110px);
   transition: 0.2s ease;
@@ -45,6 +46,8 @@ MIT Licensed
   padding: 17px;
   margin: 12px 14px;
   box-shadow: 0 3px 4px rgba(0,0,0,0.1);
+  font-size: 20px;
+  text-decoration: none;
 }
 .super-search__result-date {
   color: #BBB;
