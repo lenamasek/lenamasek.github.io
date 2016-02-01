@@ -28,8 +28,8 @@ more_vert:
     name: Cool Option 3
     link: www.myawesomelink.com
 
-disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus: false
+disqus_shortname:
 
 # Google Analytics 
 ga_domain: lenamasek.website
