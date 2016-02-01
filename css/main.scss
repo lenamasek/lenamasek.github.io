@@ -51,6 +51,17 @@ $grey-color-dark:  darken($grey-color, 25%);
 	}
 }
 
+.mdl-button--fab.mdl-button--colored {
+    background: white;
+    color: mediumslateblue;
+}
+
+.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab {
+    color: white;
+    background-color: mediumslateblue !important;
+    font-family:$font-family;
+    }
+
 
 .mdl-layout__header {
 	background-color: mediumslateblue;
