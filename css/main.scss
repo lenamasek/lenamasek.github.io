@@ -33,12 +33,24 @@ $grey-color-dark:  darken($grey-color, 25%);
 	}
 
 }
+.mdl-layout__header-row {
+	padding: 0 10%;
+}
+
+@media screen and (max-width: 1024px) {
+	.mdl-layout__header-row {
+		padding: 0 8%;
+	}
+}
+
 
 .mdl-layout__header {
 	background-color: mediumslateblue;
 
 	a {
-		color:white;
+		color:white !important;
 		text-decoration:none;
 	}
 }
+
+
