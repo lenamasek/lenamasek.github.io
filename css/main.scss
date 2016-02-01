@@ -33,3 +33,12 @@ $grey-color-dark:  darken($grey-color, 25%);
 	}
 
 }
+
+.mdl-layout__header {
+	background-color: mediumslateblue;
+
+	a {
+		color:white;
+		text-decoration:none;
+	}
+}
