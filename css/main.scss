@@ -37,6 +37,14 @@ $grey-color-dark:  darken($grey-color, 25%);
 	padding: 0 10%;
 }
 
+.mdl-layout.is-small-screen .mdl-layout--large-screen-only {
+	display:block;
+}
+
+.mdl-layout__title, .mdl-layout-title {
+	font-family: $font-family !important;
+}
+
 @media screen and (max-width: 1024px) {
 	.mdl-layout__header-row {
 		padding: 0 8%;
