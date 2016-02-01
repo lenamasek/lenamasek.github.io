@@ -38,7 +38,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 }
 
 .mdl-layout.is-small-screen .mdl-layout--large-screen-only {
-	display:block;
+	display:inherit;
 }
 
 .mdl-layout__title, .mdl-layout-title {
@@ -47,7 +47,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 @media screen and (max-width: 1024px) {
 	.mdl-layout__header-row {
-		padding: 0 8%;
+		padding: 0 5%;
 	}
 }
 
