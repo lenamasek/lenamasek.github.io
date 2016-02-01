@@ -10,6 +10,12 @@
   margin: 0 auto;
 }
 
+@media screen and (max-width: 724px) {
+  .page-content{
+      width:95%;
+    }
+}
+
 // Cards styles
 .mdl-card {
   .mdl-card__title {

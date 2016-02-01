@@ -32,6 +32,7 @@ $font-size-s:       $font-size-l * 0.75;
 
 $spacing-xxs:		.25em;
 $spacing-xs:        $spacing-xxs * 2; // .5em
+$spacing-xss:		$spacing-xxs + $spacing-xs; // .75em
 $spacing-s:         $spacing-xs * 2; // 1em 
 $spacing-sm:        $spacing-s + $spacing-xs; // 1.5 em
 $spacing-m:         $spacing-sm + $spacing-xs; // 2 em
