@@ -80,7 +80,15 @@ $grey-color-dark:  darken($grey-color, 25%);
 	}
 }
 
-.mdl-mega-fotter {
+.mdl-mega-footer {
 	z-index:9999;
 }
 
+.mdl-card__title {
+	align-items: flex-end;
+
+	a {
+		color: white !important;
+	    text-decoration: none;
+		}
+	}
