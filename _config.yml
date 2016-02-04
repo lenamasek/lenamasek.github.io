@@ -1,20 +1,22 @@
 # Site settings
-title: lena masek
-email: lena.masek@gmail.com
-description: "i do both web design & development and print design & production. i work at <http://torque.digital> torque and freelance on the side. i'd love to work on your project with you. i have experience with websites to promote events, products, individuals, and small businesses."
-baseurl:  # the subpath of your site, e.g. /blog/
-url: "http://lenamasek.website" # the base hostname & protocol for your site
-twitter_username: lenamasek
-github_username:  lenamasek
-instagram_username: lenamasek
-google_play: ''
-google_plus_com: ''  # Community link
-google_plus_per: ''  #Personal link
-facebook_app_id: 
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+google_play: 'GDGX'
+google_plus_com: '109485346959707049693'  # Community link
+google_plus_per: '+GDGManagua'  #Personal link
+facebook_app_id: 12345
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
-post_type: default    # values [ highlight, default ]
+post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
@@ -28,16 +30,8 @@ more_vert:
     name: Cool Option 3
     link: www.myawesomelink.com
 
-disqus: false
-disqus_shortname:
-
-# Google Analytics 
-ga_domain: lenamasek.website
-ga_tracking_id: UA-43033620-3
-
+disqus: true
+disqus_shortname: 'gdgmanagua'
 
 # Build settings
 markdown: kramdown
-
-
-##7b68ee
