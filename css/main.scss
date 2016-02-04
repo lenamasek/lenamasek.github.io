@@ -16,79 +16,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "variables",
         "base",
         "layout",
         "syntax-highlighting",
         "post",
         "search"
 ;
-
-@media screen and (min-width: 1024px) {
-	
-
-	.mdl-mega-footer--drop-down-section, .mdl-mega-footer--drop-down-section:nth-child(3), .mdl-mega-footer--drop-down-section:nth-child(4), .mdl-mega-footer__drop-down-section, .mdl-mega-footer__drop-down-section:nth-child(3), .mdl-mega-footer__drop-down-section:nth-child(4) 
-	{
-	width: 33.3333333333%;
-	}
-
-}
-.mdl-layout__header-row {
-	padding: 0 10%;
-}
-
-.mdl-layout.is-small-screen .mdl-layout--large-screen-only {
-	display:inherit;
-}
-
-.mdl-layout__title, .mdl-layout-title {
-	font-family: $font-family !important;
-}
-
-@media screen and (max-width: 1024px) {
-	.mdl-layout__header-row {
-		padding: 0 5%;
-	}
-}
-
-.mdl-button--fab.mdl-button--colored {
-    background: $bg-color;
-    color: $main-color;
-}
-
-.mdl-button--fab.mdl-button--colored:hover {
-    background: $main-color;
-    color: $bg-color;
-}
-
-.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab {
-    color: $bg-color;
-    background-color: $main-color !important;
-    font-family:$font-family;
-    font-weight: 700;
-    font-size: .75em;
-    letter-spacing: 1px;
-    }
-
-
-.mdl-layout__header {
-	background-color: $main-color;
-
-	a {
-		color:white !important;
-		text-decoration:none;
-	}
-}
-
-.mdl-mega-footer {
-	z-index:9999;
-}
-
-.mdl-card__title {
-	align-items: flex-end;
-
-	a {
-		color: white !important;
-	    text-decoration: none;
-		}
-	}

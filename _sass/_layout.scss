@@ -5,15 +5,8 @@
 // Page container
 
 .page-content{
-  width:80%;
   max-width: 1200px;
   margin: 0 auto;
-}
-
-@media screen and (max-width: 724px) {
-  .page-content{
-      width:95%;
-    }
 }
 
 // Cards styles
