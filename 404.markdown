@@ -1,9 +1,0 @@
----
-layout: default
-title:  "404"
-permalink: /404.html
----
-<div id="home404">
-  <div class="dingus">
-    <h1>crontent not found, ya dingus</h1>
-  </div><img src="http://24.media.tumblr.com/tumblr_m3m6lkTtHO1qgs0sio1_500.gif" /></div>
