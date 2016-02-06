@@ -1,50 +1,53 @@
-# Title of your blog; shows in the header
-name: "lena masek"
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
 
-# Description of your content (will only be used on Google Search)
-description: "front-end design, development, and print"
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
 
-# Your name. Will show in your footer + sidebar 
-author: "lena masek"
-
-url: "http://lenamasek.website"
-baseurl: "http://lenamasek.website"
-
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
-author-bio: "i do both web design & development and print design & production. i work at [torque](http://torque.digital) and freelance on the side. i'd love to work on your project with you. i have experience with websites to promote events, products, individuals, and small businesses."
-
-# Navigation 
-
-navigation:
-- title: words
-  url: /words/
-- title: work
-  url: /work/
-
-
-# Social Accounts 
-
-twitter: lenamasek
-github: lenamasek
-instagram: lenamasek
-email: lena.masek@gmail.com
-
-# Google Analytics 
-
-ga_domain: lenamasek.website
-ga_tracking_id: UA-43033620-3
-
-# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
-
-markdown: kramdown
-permalink: pretty
-highlighter: rouge
-
-paginate: 10
-paginate_path: "/words/page:num/"
-
-# SCSS
-
+source: source
+destination: _site
 sass:
   sass_dir: _scss
-  style: :compressed
+  style: compressed # expanded
+
+# SEO settings
+title: end2end
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://nandomoreira.me
+baseurl: "/end2end"
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "fernandomoreira"
+disqus_site_shortname: "fernandomoreira"
+
+# Author settings
+author:
+  name      : Fernando Moreira
+  job       : Frontend Engineer
+  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb     : /images/author.jpg
+  email     : nandomoreira.me@gmail.com
+  url       : http://nandomoreira.me
+  github    : http://github.com/nandomoreirame
+  twitter   : http://twitter.com/nandomoreirame
+  facebook  : http://facebook.com/fernando.dev
+  linkedin  : http://linkedin.com/in/nandomoreirame
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
