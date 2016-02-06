@@ -1,0 +1,126 @@
+.posts {
+  overflow: hidden;
+  p {
+    margin-bottom:0;
+  }
+
+  h3 {
+    color:$main-color;
+  }
+
+  button.readmore {
+        border:2px solid $main-border-color;
+        margin: 10px 0 1.5em 0;
+
+          p {
+            color:$main-border-color;
+            margin:0;
+            padding:0;
+          }
+        }
+
+  li {
+    display: inline-block;
+    width: 100%;
+    border-top: 1px solid darken($main-color, 6%);
+    margin-bottom:$spacing-l !important;
+
+
+    .p-wrap {
+      margin: $spacing-s 0 1.3em 0;
+      padding: $spacing-xxs $spacing-s;
+      background: white;
+      transition: all .1s ease-in;
+
+      img {
+        height:auto;
+        max-width:200px;
+      }
+
+      &:active {
+        background: darken($main-color, 3%);
+      }
+      &:hover {
+        background: lighten($main-color, 3%);
+        padding-left: $spacing-m + $spacing-s;
+
+        p {
+          color:white;
+        }
+
+        &::after {
+          content:'\2192';
+          margin-left: $spacing-xs;
+          color:white;
+          @media (max-width: 942px) {
+            content: none;
+            margin: 0;
+          }
+        }
+      }
+      @media (max-width: 942px) {
+       // padding: $spacing-m $spacing-m;
+      }
+      p {
+        display: inline;
+        margin: $spacing-xs 0 0;
+      }
+
+      &:active {
+      color:white;
+      }
+
+      &:hover {
+      color:white;
+      }
+
+
+    } // end .p-wrap
+
+    time {
+      font-size:$font-size-s;
+      color: darken($main-color, 20%);
+      display: inline-block;
+      // padding-right: $spacing-s;
+      // width: 155px;
+      @media (max-width: 942px) {
+        display: block;
+        width: auto;
+      }
+    }
+
+    a {
+      color: $main-color;
+      text-decoration: none;
+    }
+
+
+
+  } // end li
+} // end .posts
+
+.pagination {
+  overflow: hidden;
+  margin-top: 40px;
+  color: lighten($text-color, 60%);
+  text-align: center;
+  border: 1px solid $border-color;
+
+  a, span {
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    padding: 20px;
+    text-decoration: none;
+
+    &:first-child {
+      text-decoration: none;
+      border-right: 1px solid $border-color;
+    }
+  }
+
+  a:hover {
+      text-decoration: none;
+      background-color: darken($smoke-color, 5%);
+  }
+} // end .pagination
