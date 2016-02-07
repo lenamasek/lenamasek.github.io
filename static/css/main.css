@@ -41,8 +41,8 @@ border-left: 5px solid mediumslateblue
   margin-bottom: 10px;
 }
 .navbar-default {
-  background-color: #ffffff;
-  border-color: #ffffff;
+/*  background-color: #ffffff;
+  border-color: #ffffff;*/
 }
 .navbar-default .navbar-brand {
   color: #6b6b6b;
