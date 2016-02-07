@@ -7,15 +7,15 @@ permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 3000
-safe: true
+safe: false
 
 
 # edit here to achieve your personal greatness
-url: http://lenamasek.website
-baseurl: http://lenamasek.website
+url: http://lenamasek.website/
+baseurl: http://lenamasek.website/
 title: Lena Masek
 author: Lena Masek
-description: Personal blog and resume
+description: 
 avatar: profile.png
 email: lena.masek@email.com
 github: lenamasek # username
@@ -23,7 +23,7 @@ twitter: lenamasek
 linkedin: lenamasek
 stackoverflow: users/4338939/lena   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: 
+#disqus: 
 google_analytics: UA-69391421-1
 
 
