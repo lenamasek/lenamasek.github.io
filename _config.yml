@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://lenamasek.github.io/
-baseurl: /
+baseurl: http://lenamasek.github.io
 title: Lena Masek
 author: Lena Masek
 description: Personal blog and resume
-avatar: /static/img/profile.png
+avatar: profile.png
 email: lena.masek@email.com
 github: lenamasek # username
 twitter: lenamasek
