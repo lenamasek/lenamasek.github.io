@@ -231,6 +231,11 @@ div.footer{
 -------------------------------------------------- */
 
 @media (max-width: 767px) {
+  .navbar-brand {
+    float:none;
+    display:block;
+  }
+
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #6b6b6b;
   }
