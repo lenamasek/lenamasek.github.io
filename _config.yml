@@ -11,8 +11,8 @@ safe: false
 
 
 # edit here to achieve your personal greatness
-url: http://lenamasek.website/
-baseurl: http://lenamasek.website/
+url: http://lenamasek.website
+baseurl: 
 title: Lena Masek
 author: Lena Masek
 description: 
