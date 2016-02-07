@@ -97,13 +97,17 @@ border-left: 5px solid mediumslateblue
     color: #6b6b6b;
     background-color: #ffffff;
   }
+  .post-date { 
+  text-align:left;
+  }
+ 
 }
 
 /* Custom page CSS
 -------------------------------------------------- */
 
 .container {
-  width: 65%;
+  width: 60%;
   max-width: 800px;
   text-align: center;
 }
@@ -171,6 +175,13 @@ border-left: 5px solid mediumslateblue
 .avatar {
   padding-top: 5%;
 }
+.post-date { 
+  text-align:right;
+  }
+.post-title {
+  text-align: left;
+}
+
 .blog-post{
   padding-top: 15px;
 }
