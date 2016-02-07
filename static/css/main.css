@@ -100,7 +100,13 @@ border-left: 5px solid mediumslateblue
   .post-date { 
   text-align:left;
   }
- 
+  h5.post-title {
+    border-bottom: #b5b5b5 .01em solid;
+    padding-bottom: 10px;
+}
+  .container {
+    width:auto;
+  }
 }
 
 /* Custom page CSS
