@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Chris Turner</title>
+    <link type="application/atom+xml" rel="self" href="http://username.github.io//atom.xml"/>
+  
+  <link href="http://username.github.io//"/>
+  <id>http://username.github.io//</id>
+  <updated>2016-02-06T21:12:58Z</updated>
+  <author>
+    <name>Chris Turner</name>
+    <email>yourname@email.com</email>
+  </author>
+  <rights type="text">Copyright © 2016 Chris Turner. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">The Art of Delegation</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//art-of-delegation.html" />
+  <id>http://username.github.io//art-of-delegation</id>
+  <published>2015-10-08T00:00:00Z</published>
+  <updated>2015-10-08T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Over the past year at <a href="http://torque.digital">Torque</a>, we&rsquo;ve been sharing skills and knowledge with each other in small, periodical workshops. These days, that looks like a weekly 2:30pm &lsquo;tea time&rsquo; in the conference room. For this week&rsquo;s workshop, Partner and Creative Director <a href="http://torque.digital/team/jennifer-masi">Jennifer Masi</a> gave us tips and tricks about <em>The Art of Delegating</em>, also known by her actionable phrase, &ldquo;Delegate to Elevate.&rdquo;</p>
+
+<p>I&rsquo;m morphing her presentation into a post so I can share it with you because I believe it&rsquo;s really important, and it&rsquo;s something I need to learn myself. Many people I know work alone – sometimes literally alone, other times they&rsquo;re not working collaboratively with their teammates. I am definitely guilty of this. If we work alone, we may let strong skills for teamwork, collaboration, and trust for others atrophy. We need these traits to provide a necessary foundation for delegation, and we need the practice of delegation to strengthen those traits in us. It can be scary to invite someone else in to your creative process, but your work – <em>and sanity</em> – may suffer if you always do it alone.</p>
+
+<h3>Goals of Delegation</h3>
+
+<p>Delegating helps elevate you to your best use and elevates helpers as they learn and grow. Delegating helps you learn to trust others, gets the job done well, and diversifies perspectives going into the project.</p>
+
+<h3>Ask yourself, is this a delegation moment?</h3>
+
+<p>Just because a task is assigned to you, doesn’t mean you need to be the one to complete it – it can often be delegated. Delegation is also not a status indicator. Jennifer makes an important note:</p>
+
+<blockquote><p>No job is beneath anyone. All jobs are important. Leaders know how and are willing to do all the jobs. Remember, if someone doesn’t buy the toilet paper, <em>what would happen to the office?</em></p></blockquote>
+
+<h3>Keys to Delegate like a Pro</h3>
+
+<ol>
+<li><p><strong>Give time frame &amp; details.</strong> Be specific about the details of the project to set a strong foundation and make sure everyone is on the same page. Establishing a clear, shared idea about the outcome of the project will ensure its success.</p></li>
+<li><p><strong>Delegate the objective, not the procedure.</strong> This is where trust comes in heavily. Successful delegation respects the opinion and process of everyone involved. Delegating projects or tasks comes with understanding that different people have different ways of doing the same thing. Dictating every facet of a project strangles it; let the project thrive on the contributions of others.</p></li>
+<li><p><strong>Ensure your delegatee has whatever they need to be successful.</strong> Equip everyone helping you with the right tools so they can do their best work for your project. Check in with them periodically to make sure their tools are working well for them.</p></li>
+<li><p><strong>Give your delegatee the opportunity to ask questions.</strong> Setting aside time for questions and conversations about the project will give your helpers a feeling of ownership and involvement in the project. Strong communication with people to whom you delegate is investing in the quality of the end product.</p></li>
+<li><p><strong>Check in through project completion.</strong> Gotta stay on task! Follow up and check in with everyone on the project. Touching base more often makes sure the project doesn&rsquo;t go off track so you can acheive the outcome you need. Make sure they confirm with you when their tasks are finished and follow up after the project.</p></li>
+<li><p><strong>Show your appreciation for the people who invested in your project with you.</strong> A big &lsquo;thank you&rsquo; goes a long way. I know I don&rsquo;t always go the extra step to vocalize my thankfulness. Showing gratitude increases personal growth on both sides and better partnerships going forward.</p></li>
+</ol>
+
+
+<h3>Go do it</h3>
+
+<p>Go delegate! <a href="http://twitter.com/lenamasek">Let me know</a> how delegation is working best for you.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Learn How to Learn</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//how-to-learn.html" />
+  <id>http://username.github.io//how-to-learn</id>
+  <published>2015-09-28T00:00:00Z</published>
+  <updated>2015-09-28T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>Learning new things isn&rsquo;t easy. It can come naturally, but there are many tools for retention and growth that school teachers never taught us. Many students only memorize information to regurgitate on a test, instead of retaining and putting into real life practice what they &ldquo;learned.&rdquo; As we age, we continue to face these issues. In industries where we need to learn constantly to stay current, how do we <em>really</em> learn?</p>
+
+<h3>The Problem with Online Tutorials</h3>
+
+<p>A few months ago, in a <a href="http://chicagofriends.website">Chicago Web Friends</a> Slack group – a place for anyone interested in the web to talk and share knowledge – <a href="http://twitter.com/eeedlr">Erick De La Rosa</a> asked about tools for learning JQuery/Javascript, which yielded many great responses that come from lots of experience.</p>
+
+<p>Erick mentioned that he completed relevant courses on <a href="http://codecademy.com">Codecademy</a> in an effort to learn, but &ldquo;it just hasn&rsquo;t seemed to stick yet.&rdquo; He asks an important question:</p>
+
+<blockquote><p>Once you leave the virtual classroom, how do you apply that knowledge to an actual product?</p></blockquote>
+
+<p> &ldquo;Sites like Codecademy reward you for a Simon Says-like progression that give you a false sense of actually learning the material,&rdquo; <a href="http://twitter.com/david_laskey">David</a> responds supportively. There’s definitely a gap between digesting and regurgitating information to pass a level and learning material enough to be able to use it practically going forward. I captured what the Chicago Web Friends had to say into 4 Tips for Practical Learning.</p>
+
+<h3>Tips for Practical Learning</h3>
+
+<ul>
+<li><p><strong>Use quality tools.</strong> Primarily, you want to make sure you&rsquo;re using effective material to start. For Erick&rsquo;s particular situation with Javascript, <a href="http://twitter.com/savannahmillion">Savannah</a> suggests <a href="http://try.jquery.com">try.jquery.com</a>, because &ldquo;the exercises are always similar to what you see in the video, but different enough to where you still have to think about them.&rdquo; <a href="http://twitter.com/kunalbhat">Kunal</a> shares <a href="http://www.codeschool.com/paths/javascript">CodeSchool&rsquo;s Javascript path</a>. Find tutorials and guides that will challenge you to apply your new knowledge in different ways – this will help your retention.</p></li>
+<li><p><strong>Try making something small.</strong> Give yourself a small thing to make and see it through. The language will stick a lot more when you put it into practice to make something you&rsquo;re proud of, rather than just reading about it. Find the right project that is both visually interesting to keep your attention, but not too complicated where you feel overwhelmed and avoid completing it.</p></li>
+<li><p><strong>Break down the problem.</strong> Write out instructions as you learn. What helped <a href="http://twitter.com/COLEMANICEWATER">Coleman</a> learn JQ/JS was to &ldquo;actually write out instructions or psuedo-code logic first.&rdquo; Organize your thoughts into: “How would I accomplish this task in code?” and then “What is the actual syntax and helper functions I need to remember to do this?” Try doing the first part without the documentation info available and then open it up for the second part. The language is really just a vehicle for accomplishing the components to a problem. Become aware of the types of things you’re able to do in that language to build your understanding of how it works.</p></li>
+<li><p><strong>Practice it over and over.</strong> Kunal &ldquo;likes to use the same problem as a starter&rdquo; to learning a new language. He&rsquo;s made a simple Lorem Ipsum generator in <a href="https://github.com/kunalbhat/morel-ipsum">Ruby</a>, <a href="https://github.com/kunalbhat/morel-ipsum-js">JS</a>, and <a href="https://github.com/kunalbhat/morel-ipsum-python">Python</a>. There’s no substitute for doing something simple over and over again to drive home your knowledge.</p></li>
+</ul>
+
+
+<p><strong>Contributors:</strong> <em><a href="http://twitter.com/eeedlr">Erick De La Rosa</a>, <a href="http://twitter.com/david_laskey">David Laskey</a>, <a href="http://twitter.com/kunalbhat">Kunal Bhat</a>, <a href="http://twitter.com/savannahmillion">Savannah Million</a>, <a href="http://twitter.com/COLEMANICEWATER">Coleman Collins</a>, <a href="http://twitter.com/poopsplat">Matt Soria</a>.</em></p>
+
+<p><strong>To join Chicago Web Friends:</strong> <a href="http://chicagofriends.website">Add yourself</a>!</p>
+
+<hr />
+
+<h3>More on the Chicago Web Friends Slack</h3>
+
+<p>A few months ago, game developer <a href="http://twitter.com/sgosztyla">Sebastian</a> tweeted, asking if there was a place where Chicago people in web fields shared information/answered questions, as there is an equivalent for Chicago game developers. There wasn&rsquo;t at the time, so Savannah set up a Chicago Web Friends group through <a href="http://slack.com">Slack</a> for Chicago web designers, developers, and anyone interested to talk and share knowledge. It is now a gathering place for almost 60 people of many different backgrounds and experiences with the web and otherwise. Some folks are senior back-end web developers, some are entry level front-end developers, some are corporate IT managers, some are designers of various disciplines looking to get more comfortable with web. If you have information to share or questions to ask, you should <a href="http://chicagofriends.website">definitely jump in</a>! The only rule is: <em>don&rsquo;t be a jerk.</em></p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Building with Jekyll</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//building-with-jekyll.html" />
+  <id>http://username.github.io//building-with-jekyll</id>
+  <published>2015-09-23T00:00:00Z</published>
+  <updated>2015-09-23T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><img src="/sustain//assets/img/jekyll.png"></p>
+
+<p>I&rsquo;ve wanted to use a tool like Jekyll for my personal site before I knew it existed. I wanted to automate my site enough to keep up with a blog and portfolio easily and efficiently without limiting or inhibiting my designs, or causing the upkeep of the site to be more difficult than necessary.</p>
+
+<p>I&rsquo;ve built sites with Wordpress and worked with Drupal, but those robust CMSs are too powerful for my needs. Alternatively, Squarespace and other pre-designed portfolio sites, although helpful to many, became a hinderance to my ability to make my own design choices. Flat code sites had worked in the past, giving me total freedom, but were inefficient for my upkeep and knowledge of code at the time.</p>
+
+<p>After searching and tweeting for help, I found Jekyll, among other options, like <a href="http://getkirby.com/">Kirby</a> and <a href="http://statamic.com/">Statamic</a>. The aforementioned are pretty similar to Jekyll, but with a minimal back-end interface. Two things that were important to my decision were money and documentation/support. I spend a considerable amount of money on hosting and purchasing domains - I didn&rsquo;t want to pay another monthly amount for using the file structure with an interface. Also, I can host my Jekyll site on <a href="https://pages.github.com/">GitHub Pages</a> for free, minimizing monthly payments to just my domain name. For my support and documentation concerns, using a relatively well-known engine means there is a good chance that I&rsquo;d find a forum thread to help with my questions.</p>
+
+<p>Soooo.. what <em>is</em> Jekyll? What are these products, what do they do?</p>
+
+<blockquote><p>Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as &ldquo;a simple, blog aware, static site generator&rdquo;. - <a href="http://jekyllbootstrap.com">JekyllBootstrap.com</a></p></blockquote>
+
+<h3>Configuration</h3>
+
+<p><img src="/sustain//assets/img/jekyll-config-code.png"></p>
+
+<p>Jekyll offers <a href="https://jekyllrb.com/docs/configuration/">a config.yml file</a> in your root directory where you can plug in easy to read information that will be parsed into appropriate locations in your &lsquo;head&rsquo; tag and other locations around the site. You&rsquo;re able to add lots of information into this file, or scale back, depending on your needs.</p>
+
+<div class="span_3_of_6">
+<img src="/sustain//assets/img/config.png">
+</div>
+
+
+
+
+<div class="span_3_of_6">
+<img src="/sustain//assets/img/using-config.png">
+</div>
+
+
+<p>The screenshots above show how I stored my social media handles in the config file (left) and how they become usable throughout the site with a variable (right).</p>
+
+<h3>Front Matter</h3>
+
+<p><img src="/sustain//assets/img/jekyll-frontmatter.png"></p>
+
+<p>Jekyll&rsquo;s parsing allows me to use <a href="https://jekyllrb.com/docs/templates/">Liquid Markdown templating language</a> to format pages and give the engine the information it needs to properly parse my files. A new post means duplicating a file, changing a few things in the <a href="http://jekyllrb.com/docs/frontmatter/">YAML Front Matter</a>, and commiting with GitHub. I&rsquo;m using and loving <a href="https://desktop.github.com/">GitHub Desktop</a> and occasionally the third-party iOS app, <a href="https://itunes.apple.com/us/app/codehub-github-for-ios/id707173885?mt=8">CodeHub</a>.</p>
+
+<p>Also, when I want to change the format of a page or move around content buckets, I edit either the default.html or post.html layout templates. My content stays in the .markdown files.</p>
+
+<h3>Theme and Styling</h3>
+
+<p><img src="/sustain//assets/img/hikari.png"></p>
+
+<p>To style the site, I started with the theme <a href="http://mx3m.github.io/hikari-for-jekyll/">Hikari</a>, which had tons of great features built in, including <a href="http://www.sitepoint.com/whats-difference-sass-scss/">SCSS</a>, or Sassy CSS, a CSS-like syntax within Sass, which helped me write more efficient stylesheets and become more comfortable with Sass itself. <a href="https://github.com/mx3m/hikari-for-Jekyll">Find Hikari&rsquo;s repo on GitHub</a>.</p>
+
+<p>I&rsquo;ve been somewhat avoiding writing this post because I don&rsquo;t know that I&rsquo;m <em>done</em> learning or building with Jekyll. I don&rsquo;t know everything about how Jekyll works, yet. I&rsquo;ve learned a lot so far, though, which is awesome.</p>
+
+<p>For more information and documentation about Jekyll, check out <a href="https://jekyllrb.com/">their site</a> and <a href="https://talk.jekyllrb.com/">their official forum</a>.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Manifold Garden</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//manifold-garden.html" />
+  <id>http://username.github.io//manifold-garden</id>
+  <published>2015-09-22T00:00:00Z</published>
+  <updated>2015-09-22T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><a href="http://manifold.garden">Manifold Garden</a> is a fantastic exploration-puzzle game set in an Escher-esque world  by <a href="http://williamchyr.com">William Chyr</a>. William is an artist, currently in Chicago, doing a lot of work at the intersection of art and science.</p>
+
+<p><img src="/sustain//assets/images/MG-screenshot-1.png" class="img-responsive"></p>
+
+<p>William contacted me in the spring of 2015 to design a website for the rebranding of Manifold Garden, known at the time as Relativity. He shared some of his sketches and a few sites as inspiration, including <a href="http://firewatchgame.com">FireWatch</a> by Campo Santo and <a href="http://altosadventure.com">Alto&rsquo;s Adventure</a> by Snowman. We worked well together to come up with a design for the site.</p>
+
+<div class="row">
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="/sustain//assets/images/MG-Layout-1.jpg" class="img-responsive">
+</div>
+
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="/sustain//assets/images/MG-Layout-2.jpg" class="img-responsive">
+</div>
+</div>
+
+
+<p><a href="http://twitter.com/david_laskey">David Laskey</a>, a game developer William contracted, began building the functionality for the site while I finished up the design in Illustrator. Once William signed off on my work, I put together a quick but precise style guide for David to use to incorporate my design to the front-end of the site. When everything was built, I took over the code to make final tweaks to the site as William finalized some content. We also realized the disconnect of working in Illustrator and not in the browser required a few additional tweaks to the final design. The size of the content and copy seemed huge when we got in browser, which reiterated the importance of designing in the browser as soon as possible.</p>
+
+<div class="row">
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="/sustain//assets/images/MG-Layout-3.jpg" class="img-responsive">
+</div>
+
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="/sustain//assets/images/MG-Layout-4.jpg" class="img-responsive">
+</div>
+</div>
+
+
+<p>For all sections of gameplay gifs, screenshots, and wallpapers, David wrote a PHP script to search the &lsquo;images&rsquo; folder for a specified group of files and flow them into the designed grid. Toward the end of the project, William requested a page for wallpapers. Because this script was in place, he could insert as many wallpapers as he wanted. When I realized the site was getting heavy with images, I employed the simple <a href="http://luis-almeida.github.io/unveil/">Unveil</a> jQuery plugin, based on the original <a href="http://www.appelsiini.net/projects/lazyload">Lazy Load</a> plugin by Mike Tuupola. This plugin loads images as they&rsquo;re needed, instead of all at once. This allows a user to see the full site when it loads instead of waiting for all the images to download first, simulating a faster load time.</p>
+
+<p>I really enjoy making simple sites for video games and using art direction from a video game to inspire creative design challenges. I learned a lot by sharing web development tasks and solving problems with David, as he comes from a game development background.</p>
+
+<p><strong>Collaborators:</strong> <em><a href="http://williamchyr.com">William Chyr</a>, <a href="http://twitter.com/david_laskey">David Laskey</a></em></p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">My Day Job</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//digital-designer.html" />
+  <id>http://username.github.io//digital-designer</id>
+  <published>2015-09-21T00:00:00Z</published>
+  <updated>2015-09-21T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>This post is for anyone who may feel targeted by the goofy &ldquo;Should Designers Learn to Code?&rdquo; thinkpieces. Long story short, my advice is to build whatever career works for you.</p>
+
+<p>I knew I wanted to design since junior high or high school. I think I saw a poster somewhere and it must&rsquo;ve stuck with me for awhile. I remember wanting to impact people indirectly, through design, like that poster did to me. It must not have been <em>too</em> effective because I no longer remember its content. I continued to take design to the internet and enrolled in a few web design classes in high school and college. Knowing HTML and CSS really helped me launch my Xanga blog, of which I was a co-owner and designer of really cool layouts (remember xX_hawtt_lyts_Xx ?? just kidding, I don&rsquo;t remember my Xanga handle either).</p>
+
+<p><a href="http://benludwig.com">Ben Ludwig</a>, while working at <a href="http://torque.digital">Torque</a>, found me through a portfolio site hosted by Columbia College. He offered me a web design internship in the spring of 2014, also known as the first time I was ever seen as primarily a web person. I soon began to fill gaps for the design team and, 6 months later, was hired on as a Digital Designer. I do believe that my ability to fulfill print and web design and development was a big part of being offered a full time position.</p>
+
+<blockquote><p>Some designers totally hate coding. Some feel that expressing their creativity through code is what feels right for them. Designers should build their skillset to fulfill whatever role or field in which they&rsquo;re interested. Designers didn&rsquo;t ask for anyone&rsquo;s permission to make career choices.</p></blockquote>
+
+<p>At Torque, as a Digital Designer, I design for a large range of products: branding materials, mobile app screens, websites, direct mailers, emails, interior design graphics, packaging, point-of-sale displays, signage, and more. I also develop websites (front-end) and program emails. Since I&rsquo;ve been there, I&rsquo;ve been learning a lot of UI/UX and usability prinicples. My deep interest in psychology, sociology, cultural theory, and social justice fuels my design and development process and choices.</p>
+
+<p>Here&rsquo;s my job description, as written by Ben, Torque&rsquo;s Senior Interactive Designer:</p>
+
+<h3>Responsibilites</h3>
+
+<ul>
+<li>Collaborate with creative team of print designers, senior designers, front-end and back-end developers, and creative directors to produce quality work</li>
+<li>Manage and prioritize multiple projects and tasks simultaneously</li>
+<li>Prepare concepts, layouts, and web interface designs</li>
+<li>Present concepts and design to clients (either with or without Account Executive)</li>
+<li>Proof final work for accurate alignment and placement of elements, check color, copy, fonts, hi-res photos, etc.</li>
+<li>Work with company processes, resources, and collaboration tools</li>
+<li>Ensure delivery of work on time, on budget, and that meets agency quality standards</li>
+</ul>
+
+
+<h3>Skills</h3>
+
+<ul>
+<li>Strong knowledge of Adobe Photoshop, Illustrator and proficient in the entire Adobe Creative Suite</li>
+<li>Understanding of responsive, UI/UX, mobile app, touch screen, and interactive design techniques</li>
+<li>Experience designing and building production websites with HTML5, CSS3, jQuery, Javascript, and PHP, as well as content management systems Wordpress and/or Drupal</li>
+<li>Experience migrating code between local and remote servers using FTP/SFTP</li>
+<li>Working knowledge of version control methods using Git or Subversion via SSH or GitHub</li>
+<li>Working knowledge of back-end web development standards (htaccess, Google Analytics, SEO, cookies, and caching)</li>
+<li>Ability to identify and communicate browser and platform limitations</li>
+<li>Strong organizational skills and excellent written and verbal communication skills</li>
+<li>Working knowledge of preparing files for print and web - create different file formats for production and client use</li>
+</ul>
+
+
+<p>I&rsquo;ve been concerned for some time that by splitting my time between print and digital design/development, I&rsquo;m not growing or learning as quickly as I would be if all my time was focused on one or the other. It is great to design and learn from more than one approach, but I&rsquo;m not growing at the speed I&rsquo;m used to. Going forward, I&rsquo;m working to supplement any training I may be missing during my day job with personal and freelance projects and finding opportunities to make my work at my job work for me.</p>
+
+<p>I hope you&rsquo;ll be able to find opportunities to make your circumstance work for you and your goals.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Bit Bash</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//bitbash.html" />
+  <id>http://username.github.io//bitbash</id>
+  <published>2015-08-22T00:00:00Z</published>
+  <updated>2015-08-22T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><a href="http://bitbashchicago.com">Bit Bash</a> is Chicago&rsquo;s first alternative games and arts festival. I am a co-organzier contributing with design, marketing, social media, and project managing.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash7.jpg" class="img-responsive"></p>
+
+<h3>Origin</h3>
+
+<p>In early 2014, a few Chicagoans traveled to the annual Game Developers' Conference in the Bay Area, had a blast, and lamented about how Chicago doesn&rsquo;t have any large events (festivals, conferences) for the games industry. In response, they gathered friends and began to plan Chicago&rsquo;s first games festival. <a href="http://jamiesanchez.com">Jamie Sanchez</a> invited me along to help with design and marketing.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash2.jpg" class="img-responsive"></p>
+
+<h3>The First Bit Bash</h3>
+
+<p>Bit Bash started to take shape in the spring of 2014 as the mission and goals were being fleshed out between the co-organizers. As a team, we decided that we wanted to make diverse games accessible to diverse people. We wanted to make games available that weren&rsquo;t playable at home, games that offered unique experiences, enjoyable by a large to unlimited amount of people, games created by a mix of developers from many different backgrounds, telling many different stories.</p>
+
+<p>To be inclusive, we have been clear and upfront about our Code of Conduct with our organizers, volunteers, volunteer captains, and attendees. It is very important to us to create a safe space for any and every person to enjoy various art forms together, and our CoC helps lay that foundation.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash3.jpg" class="img-responsive"></p>
+
+<h3>Features</h3>
+
+<p>Co-organizers curated a long list of games that fit the criteria and contacted the developers. We also expanded the festival to include Art Bash, a poster showcase that allowed people to submit work that would eventually be printed with Risograph, if selected by a guest panel of judges, previously including <a href="http://chicago.aiga.org">AIGA</a> and <a href="http://videogameartgallery.com">VGA Gallery</a>. We facilitated the printing and selling of the posters. All proceeds went back to the artists.</p>
+
+<p>Each event has had DJ sets in the evening, indoor and outdoor games, and special hardware games. Bit Bash 2015 featured a tabletop sit down area by <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a>.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash5.jpg" class="img-responsive"></p>
+
+<h3>Teams</h3>
+
+<p>Planning our first Bit Bash helped us realize where each of our strengths are and where we most successfully fit in contributing to the project. For 2015, we formed loose teams to organize ourselves and establish some hierarchy. The teams were marketing, logistics, curation, and operations/admin.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash4.jpg" class="img-responsive"></p>
+
+<h3>My Contribution</h3>
+
+<p>My role began as design support, including creating the logo, brainstorming each event&rsquo;s theme, conceptually exploring the visual design for each theme, designing the t-shirt and other branded materials for each event, and assisting Jamie in laying out a cohesive brand style as it evolves along with us. For Bit Bash 2015, I was sorted into the marketing team and casually picked up the role of social media manager. I will likely move into more of a project manager role as we move forward.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash1.jpg" class="img-responsive"></p>
+
+<h3>Events to Date</h3>
+
+<p>Our first Bit Bash happened on Saturday, September 6, 2014. We held a  a smaller event appropriately titled Itty Bitty Bash on Thursday, February 6, 2015. The second classic Bit Bash festival was held Saturday, August 22, 2015. More to come!</p>
+
+<h3>Bash to the Future</h3>
+
+<p>Keep in touch for our future events. You can sign up for our newsletter on our <a href="http://bitbashchicago.com/">website</a>, and find us at the following links: <a href="http://twitter.com/bitbashchicago">twitter</a>, <a href="http://instagram.com/bitbashchicago">instagram</a>, <a href="http://bitbash.tumblr.com/">tumblr</a>.</p>
+
+<p><img src="/sustain//assets/images/bk_bitbash8.jpg" class="img-responsive"></p>
+
+<p><strong>Co-Organizers:</strong> <em>Jamie Sanchez, Ryan Wiemeyer, Rob Lach, Brice Puls, Tom Eastman, David Laskey, John Murphy, Rob Lockhart, Dana Trebella, Andy Saia</em></p>
+
+<p><strong>We also couldn&rsquo;t do it without:</strong> <em>All our many, many volunteers, the game developers making really cool games, our hosts Threadless and Bottom Lounge, Arcade Brewery, VGA Gallery, Dark Matter Coffee, Sony, Alienware, Chicago Loot Drop, Cards Against Humanity, SteelSeries, and many other sponsors &amp; partners.</em></p>
+
+<p>All photos in this post were taken by the great <a href="http://brentknepper.com">Brent Knepper</a>.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Priester Aviation Brand Update</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//priester-aviation-brand-update.html" />
+  <id>http://username.github.io//priester-aviation-brand-update</id>
+  <published>2015-07-20T00:00:00Z</published>
+  <updated>2015-07-20T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><a href="http://priesterav.com">Priester Aviation</a>, a multi-disciplinary aviation service company, needed screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule.</p>
+
+<p><img src="/sustain//assets/images/priester/Priester-Cover-Opened.jpg" class="img-responsive"></p>
+
+<p>To continue with a long term rebranding project, we designed business cards, a 20-page brochure, a cover for a spiral-bound brochure on Priester&rsquo;s Aircraft Management, and two corporate folders. Being the lead designer on multiple projects for the same client across a variety of mediums was a great experience in brand design and consistency.</p>
+
+<p><img src="/sustain//assets/images/priester/Priester-Inside.jpg" class="img-responsive"></p>
+
+<p><img src="/sustain//assets/images/priester/Priester-Inside1.jpg" class="img-responsive"></p>
+
+<p><strong>Collaborators:</strong> <em>Ben Ludwig, Senior Interactive Designer; Jennifer Masi, Executive Creative Director; Mac Haertl, Account Executive</em></p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">The Truth About You and Me</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//truth-about-you-and-me.html" />
+  <id>http://username.github.io//truth-about-you-and-me</id>
+  <published>2015-03-30T00:00:00Z</published>
+  <updated>2015-03-30T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><a href="http://thetruthaboutyouand.me">The Truth About You and Me</a> is a social project that reminds people of the truth about who they are, with messages including, &ldquo;you are loved,&rdquo; &ldquo;your worth is inherent,&rdquo; and &ldquo;you are perfectly adequate.&rdquo; It is as much a reminder for myself as it is a gift from me to others.</p>
+
+<object data="/sustain//assets/images/SVG/portfolio-12.svg" type="image/svg+xml"></object>
+
+
+<p>The idea came to me during a brunch hangout with <a href="http://jamestgreen.com">James T. Green</a>. I went straight home to my desk to build and design the site in about five hours. The content took a lot longer; I wrote more than twenty messages over many months because I wanted the truths to come from my experience, from a deep place within me. I knew it would be difficult to write copy for universal truths since there are so many different human experiences.</p>
+
+<object data="/sustain//assets/images/SVG/portfolio-11.svg" type="image/svg+xml"></object>
+
+
+<p>I have a strong belief that everyone needs unconditional love. That kind of love is uncommon and very difficult, but hugely beneficial. I wanted to use this site as a tool to extend my love to others and to help others love themselves. I wanted to be as inclusive as possible and was very nervous to launch the site publicly for fear of accidentally doing the opposite.</p>
+
+<object data="/sustain//assets/images/SVG/portfolio-10.svg" type="image/svg+xml"></object>
+
+
+<p>The design of <a href="http://thetruthaboutyouand.me">The Truth</a> is characterized by bright, happy colors and thin, lowercase, clean, unassuming type. I wanted the design to echo the (attempt at) inclusivity of the writing and subconsiously bring happiness and calmness. Several people wrote to me with their stories of struggling with one of the truth messages and how the reminder was helpful. I&rsquo;m grateful that the site can connect with more people on a deeper level than I&rsquo;d be able to reach.</p>
+
+<object data="/sustain//assets/images/SVG/portfolio-13.svg" type="image/svg+xml"></object>
+
+
+<p>In 2016, I finally put the project on Github, and you can view it <a href="https://github.com/lenamasek/thetruth">here</a>.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Priester Aviation Mobile App</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//priester-aviation-mobile-app.html" />
+  <id>http://username.github.io//priester-aviation-mobile-app</id>
+  <published>2014-11-05T00:00:00Z</published>
+  <updated>2014-11-05T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p><a href="http://priesterav.com">Priester Aviation</a>, a multi-disciplinary aviation service company, needed screens designed for their new app. Priester manages, flies, and cares for private planes, and this app works to help the owners of those planes manage the services they need to schedule.</p>
+
+<p><img src="/sustain//assets/images/pa-1b-phone.png" class="img-responsive"></p>
+
+<p>Priester contracted a mobile app company to develop the app and us at <a href="http://torque.digital">Torque</a> to design the screens. We started by designing the screens that we were told were needed, resulting from conversations between the client and the developers. We soon realized that the proposed screens were missing a solid flow and organized structure, which meant the users' experience had a lot of holes, so we pitched a better UX structure.</p>
+
+<p><section><div class="col-sm-6 col-md-6 col-lg-6"><img src="/sustain//assets/images/pa-5-screens.jpg" class="img-responsive"></div></p>
+
+<div class="col-sm-6 col-md-6 col-lg-6"><img src="/sustain//assets/images/pa-4.jpg" class="img-responsive"></div>
+
+
+<p></section></p>
+
+<p>After many long phone conferences and a large growth in project scope, we were able to explain the need to fill the missing pieces of the app and design more screens to fit the new structure.</p>
+
+<p><img src="/sustain//assets/images/pa-2.jpg" class="img-responsive"></p>
+
+<blockquote><p>&ldquo;When we build websites or apps, we often wait until the last minute to bring in designers to “apply” design, or look and feel. This is akin to baking a cake and then hiring a baker to make it taste good.&rdquo; - <a href="https://medium.com/@monteiro/why-you-need-design-77dce41e0e0c">Mike Monteiro</a></p></blockquote>
+
+<p>Through this project, everyone involved learned the importance of considering UI/UX design on a base level alongside development. Simultaneous progress in design and developement helps designers work within development limits, helps developers create the most user-friendly and efficient experience, and helps the everyone stay informed of the project&rsquo;s scope every step of the way.</p>
+
+<p>To continue with a long term rebranding project, we designed business cards, a 20-page brochure, a cover for a spiral-bound brochure on Priester&rsquo;s Aircraft Management, and two corporate folders. Being the lead designer on multiple projects for the same client across a variety of mediums was a great experience in brand design and consistency.</p>
+
+<p><a href="/sustain//2014/01/28/priester-aviation-brand-update/">View the print project here</a></p>
+
+<p><strong>Collaborators:</strong> <em>Ben Ludwig, Senior Interactive Designer; Jennifer Masi, Executive Creative Director; Mac Haertl, Account Executive</em></p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">A Full and Comprehensive Style Test (HTML)</title>
+  <link rel="alternate" type="text/html" href="http://username.github.io//post1.html" />
+  <id>http://username.github.io//post1</id>
+  <published>2013-06-05T00:00:00Z</published>
+  <updated>2013-06-05T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <blockquote><p>This is Markdown Cheatsheet Demo for <strong>Sustain</strong>, this Jekyll theme. Please check the raw content of this file for the markdown usage.</p></blockquote>
+
+<p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
+
+
+
+
+<p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
+
+
+
+
+<hr />
+
+
+
+
+<h1 id="heading1">Heading 1</h1>
+
+
+
+
+<h2 id="heading2">Heading 2</h2>
+
+
+
+
+<h3 id="heading3">Heading 3</h3>
+
+
+
+
+<h4 id="heading4">Heading 4</h4>
+
+
+
+
+<h5 id="heading5">Heading 5</h5>
+
+
+
+
+<h6 id="heading6">Heading 6</h6>
+
+
+
+
+<hr />
+
+
+
+
+<p>Lorem ipsum dolor sit amet, <a title="test link" href="#">test link</a> adipiscing elit. <strong>This is strong.</strong> Nullam dignissim convallis est. Quisque aliquam. <em>This is emphasized.</em> Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <cite>The New York Times</cite> (That’s a citation). <span style="text-decoration:underline;">Underline.</span> Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+
+
+
+
+<p><abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type <code>COPY <var>filename</var></code>. <del>Dinner’s at 5:00.</del> <ins>Let’s make that 7.</ins> This <span style="text-decoration:line-through;">text</span> has been struck.</p>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="media">Media</h2>
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+
+
+
+
+<h3 id="bigimage">Big Image</h3>
+
+
+
+
+<p><img src="http://demo.ghost.io/content/images/2014/09/testimg1.jpeg" alt="Test Image" /></p>
+
+
+
+
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+
+
+
+<h3 id="smallimage">Small Image</h3>
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+
+
+
+
+<p><img src="http://demo.ghost.io/content/images/2014/09/testimg2.jpg" alt="Small Test Image" /></p>
+
+
+
+
+<p>Labore et dolore.</p>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="listtypes">List Types</h2>
+
+
+
+
+<h3 id="definitionlist">Definition List</h3>
+
+
+
+
+<dl>  
+<dt>Definition List Title</dt>  
+<dd>This is a definition list division.</dd>  
+<dt>Definition</dt>  
+<dd>An exact statement or description of the nature, scope, or meaning of something: <em>our definition of what constitutes poetry.</em></dd>  
+</dl>
+
+
+
+
+<h3 id="orderedlist">Ordered List</h3>
+
+
+
+
+<ol>
+<li>List Item 1  </li>
+<li>List Item 2 <br />
+<ol><li>Nested list item A</li>
+<li>Nested list item B</li></ol></li>
+<li>List Item 3</li>
+</ol>
+
+
+
+
+<h3 id="unorderedlist">Unordered List</h3>
+
+
+
+
+<ul>
+<li>List Item 1</li>
+<li>List Item 2
+<ul><li>Nested list item A</li>
+<li>Nested list item B</li></ul></li>
+<li>List Item 3</li>
+</ul>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="table">Table</h2>
+
+
+
+
+<table>  
+<tbody>  
+<tr>  
+<th>Table Header 1</th>  
+<th>Table Header 2</th>  
+<th>Table Header 3</th>  
+</tr>  
+<tr>  
+<td>Division 1</td>  
+<td>Division 2</td>  
+<td>Division 3</td>  
+</tr>  
+<tr class="even">  
+<td>Division 1</td>  
+<td>Division 2</td>  
+<td>Division 3</td>  
+</tr>  
+<tr>  
+<td>Division 1</td>  
+<td>Division 2</td>  
+<td>Division 3</td>  
+</tr>  
+</tbody>  
+</table>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="preformattedtext">Preformatted Text</h2>
+
+
+
+
+<p>Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.</p>
+
+
+
+
+<h3 id="code">Code</h3>
+
+
+
+
+<p>Code can be presented inline, like <code>&lt;?php bloginfo('stylesheet_url'); ?&gt;</code>, or within a <code>&lt;pre&gt;</code> block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.</p>
+
+
+<p><figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="nf">#container</span> <span class="p">{</span>
+    <span class="k">float</span><span class="o">:</span> <span class="k">left</span><span class="p">;</span>
+    <span class="k">margin</span><span class="o">:</span> <span class="m">0</span> <span class="m">-240px</span> <span class="m">0</span> <span class="m">0</span><span class="p">;</span>
+    <span class="k">width</span><span class="o">:</span> <span class="m">100%</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure></p>
+
+<hr />
+
+
+
+
+<h2 id="blockquotes">Blockquotes</h2>
+
+
+
+
+<p>Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.</p>
+
+
+
+
+<blockquote>
+  <p>Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. <cite>— <a href="http://en.wikipedia.org/wiki/HAL_9000">HAL 9000</a></cite></p>
+</blockquote>
+
+
+
+
+<p>And here’s a bit of trailing text.</p>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="textlevelsemantics">Text-level semantics</h2>
+
+
+
+
+<p>The <a href="#">a element</a> example <br />
+The <abbr>abbr element</abbr> and <abbr title="Title text">abbr element with title</abbr> examples <br />
+The <b>b element</b> example <br />
+The <cite>cite element</cite> example <br />
+The <code>code element</code> example <br />
+The <del>del element</del> example <br />
+The <dfn>dfn element</dfn> and <dfn title="Title text">dfn element with title</dfn> examples <br />
+The <em>em element</em> example <br />
+The <i>i element</i> example <br />
+The <ins>ins element</ins> example <br />
+The <kbd>kbd element</kbd> example <br />
+The <mark>mark element</mark> example <br />
+The <q>q element <q>inside</q> a q element</q> example <br />
+The <s>s element</s> example <br />
+The <samp>samp element</samp> example <br />
+The <small>small element</small> example <br />
+The <span>span element</span> example <br />
+The <strong>strong element</strong> example <br />
+The <sub>sub element</sub> example <br />
+The <sup>sup element</sup> example <br />
+The <var>var element</var> example <br />
+The <u>u element</u> example</p>
+
+
+
+
+<hr />
+
+
+
+
+<h2 id="forms">Forms</h2>
+
+
+<p><form><br/>
+<fieldset><br/>
+<legend>Inputs as descendents of labels (form legend)</legend><br/>
+<label><br/>
+<b>Text input</b><br/>
+<input type="text" value="default value"><br/>
+</label><br/>
+<label><br/>
+<b>Email input</b><br/>
+<input type="email"><br/>
+</label><br/>
+<label><br/>
+<b>Search input</b><br/>
+<input type="search"><br/>
+</label><br/>
+<label><br/>
+<b>Tel input</b><br/>
+<input type="tel"><br/>
+</label><br/>
+<label><br/>
+<b>URL input</b><br/>
+<input type="url" placeholder="http://"><br/>
+</label><br/>
+<label><br/>
+<b>Password input</b><br/>
+<input type="password" value="password"><br/>
+</label><br/>
+<label><br/>
+<b>File input</b><br/>
+<input type="file"><br/>
+</label><br/>
+<label><br/>
+<b>Radio input</b><br/>
+<input type="radio" name="rad"><br/>
+</label><br/>
+<label><br/>
+<b>Checkbox input</b><br/>
+<input type="checkbox"><br/>
+</label><br/>
+<label><br/>
+<input type="radio" name="rad"> Radio input<br/>
+</label><br/>
+<label><br/>
+<input type="checkbox"> Checkbox input<br/>
+</label><br/>
+<label><br/>
+<b>Select field</b><br/>
+<select><br/>
+<option>Option 01</option><br/>
+<option>Option 02</option><br/>
+</select><br/>
+</label><br/>
+<label><br/>
+<b>Textarea</b><br/>
+<textarea cols="30" rows="5" >Textarea text</textarea><br/>
+</label><br/>
+</fieldset></p>
+
+<p><fieldset><br/>
+<legend>Clickable inputs and buttons</legend><br/>
+<input type="image" src="http://placekitten.com/90/24" alt="Image (input)"><br/>
+<input type="reset" value="Reset (input)"><br/>
+<input type="button" value="Button (input)"><br/>
+<input type="submit" value="Submit (input)"><br/>
+<button type="reset">Reset (button)</button><br/>
+<button type="button">Button (button)</button><br/>
+<button type="submit">Submit (button)</button><br/>
+</fieldset></p>
+
+<p><fieldset id="boxsize"><br/>
+<legend>box-sizing tests</legend></p>
+
+<div><input type="text" value="text"></div>
+
+
+<p></p>
+
+<div><input type="email" value="email"></div>
+
+
+<p></p>
+
+<div><input type="search" value="search"></div>
+
+
+<p></p>
+
+<div><input type="url" value="http://example.com"></div>
+
+
+<p></p>
+
+<div><input type="password" value="password"></div>
+
+
+<p></p>
+
+<div><input type="color" value="#000000"></div>
+
+
+<p></p>
+
+<div><input type="number" value="5"></div>
+
+
+<p></p>
+
+<div><input type="range" value="10"></div>
+
+
+<p></p>
+
+<div><input type="date" value="1970-01-01"></div>
+
+
+<p></p>
+
+<div><input type="month" value="1970-01"></div>
+
+
+<p></p>
+
+<div><input type="week" value="1970-W01"></div>
+
+
+<p></p>
+
+<div><input type="time" value="18:23"></div>
+
+
+<p></p>
+
+<div><input type="datetime" value="1970-01-01T00:00:00Z"></div>
+
+
+<p></p>
+
+<div><input type="datetime-local" value="1970-01-01T00:00"></div>
+
+
+<p></p>
+
+<div><input type="radio"></div>
+
+
+<p></p>
+
+<div><input type="checkbox"></div>
+
+
+<p></p>
+
+<div><select><option>Option 01</option><option>Option 02</option></select></div>
+
+
+<p></p>
+
+<div><textarea cols="30" rows="5" >Textarea text</textarea></div>
+
+
+<p></p>
+
+<div><input type="image" src="http://placekitten.com/90/24" alt="Image (input)"></div>
+
+
+<p></p>
+
+<div><input type="reset" value="Reset (input)"></div>
+
+
+<p></p>
+
+<div><input type="button" value="Button (input)"></div>
+
+
+<p></p>
+
+<div><input type="submit" value="Submit (input)"></div>
+
+
+<p></p>
+
+<div><button type="reset">Reset (button)</button></div>
+
+
+<p></p>
+
+<div><button type="button">Button (button)</button></div>
+
+
+<p></p>
+
+<div><button type="submit">Submit (button)</button></div>
+
+
+<p>
+</fieldset><br/>
+</form></p>
+
+<hr />
+
+
+
+
+<h2 id="embeds">Embeds</h2>
+
+
+
+
+<p>Sometimes all you want to do is embed a little love from another location and set your post alive.</p>
+
+
+
+
+<h3 id="video">Video</h3>
+
+
+
+
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+
+
+<iframe src="//player.vimeo.com/video/103224792?title=0&amp;byline=0&amp;portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+
+<h3 id="slides">Slides</h3>
+
+
+
+
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+
+
+<script async class="speakerdeck-embed" data-id="34d2856027ce01316b5d621ab8e7d421" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+
+<h3 id="audio">Audio</h3>
+
+
+
+
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169381837&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+
+
+
+<p>Culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+
+<h3 id="code">Code</h3>
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+
+
+
+
+<p><div data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="js" data-user="rglazebrook" class='codepen'></p>
+
+
+
+
+<pre><code>var c = new Sketch.create({autoclear: false}),
+    bigCircle = 50,
+    littleCircle = 5,
+    // The velocity value determines how much to move the spinner head (in radians).
+    velocity = 0.105,
+    hue = 0,
+    // The alpha value below determines the length of the spinner&#39;s tail.
+    bg = &#39;rgba(40,40,40,.075)&#39;;
+    Spinner = function() {};
+
+Spinner.prototype.setup = function() {
+  this.x = c.width / 2;
+  this.y = c.height / 2 - bigCircle;
+  this.rotation = 0;
+}
+Spinner.prototype.update = function() {
+  this.rotation += velocity;
+  this.rotation = this.rotation % TWO_PI;
+  this.x = c.width /2 + cos(this.rotation) * bigCircle;
+  this.y = c.height / 2 + sin(this.rotation) * bigCircle;
+}
+Spinner.prototype.draw = function() {
+  c.fillStyle = &#39;hsl(&#39;+hue+&#39;,50%,50%)&#39;;
+  c.beginPath();
+  c.arc(this.x, this.y, littleCircle, 0, TWO_PI);
+  c.fill();
+  c.closePath(); 
+}
+c.setup = function() {
+  spinner = new Spinner();
+  spinner.setup();
+} 
+c.update = function() {
+  spinner.update();
+  hue = ++hue % 360;
+}
+c.draw = function() {
+  spinner.draw();
+  c.fillStyle = bg;
+  c.fillRect(0,0,c.width,c.height);
+}
+</code></pre>
+
+
+<p></p>
+
+<p>See the Pen <a href='http://codepen.io/rglazebrook/pen/bcqhe/'>Simple Rotating Spinner</a> by Rob Glazebrook (<a href='http://codepen.io/rglazebrook'>@rglazebrook</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+
+
+<p></p>
+
+<p></div><script async src="//codepen.io/assets/embed/ei.js"></script></p>
+
+
+
+
+<p>Isn't it beautiful.</p>
+
+ ]]></content>
+</entry>
+
+
+
+</feed>

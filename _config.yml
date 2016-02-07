@@ -1,53 +1,31 @@
-# Build settings
-# permalink   : /blog/:year/:title/
-markdown    : kramdown
-highlighter : rouge
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
 
-paginate: 3
-paginate_path: "/blog/page/:num/"
-comments: true
 
-source: source
-destination: _site
-sass:
-  sass_dir: _scss
-  style: compressed # expanded
+# edit here to achieve your personal greatness
+url: http://username.github.io/
+baseurl: /sustain/
+title: Lena Masek
+author: Lena Masek
+description: Personal blog and resume
+avatar: lena-cactus.png
+email: yourname@email.com
+github: biomadeira/sustain # username
+twitter: username
+linkedin: username
+stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: username
+google_analytics: UA-69391421-1
 
-# SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://lenamasek.website
-baseurl: "lenamasek.github.io"
-# baseurl: ""
 
-# google_analytics: UA-52446115-1
-repo: http://github.com/lenamasek/lenamasek.github.io
-disqus_shortname: 
-disqus_site_shortname:
-
-# Author settings
-author:
-  name      : Lena Masek
-  job       : designer/developer
-  bio       : "transhumanist. insubordinate. passionate about psychology and emotional intelligence. designer & developer."
-  thumb     : /images/author.jpg
-  email     : lena.masek@gmail.com
-  url       : http://lenamasek.website
-  github    : http://github.com/lenamasek
-  twitter   : http://twitter.com/lenamasek
-  facebook  : 
-  linkedin  : http://linkedin.com/in/lenamasek
-
-# navbar pages
-navbar:
-  - slug: about
-    title: About
-  # - slug: resume
-  #   title: Resume
-  # - slug: skills
-  #   title: Skills
-  - slug: blog
-    title: Blog
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+# needed for travis-ci build
+exclude: [vendor]
