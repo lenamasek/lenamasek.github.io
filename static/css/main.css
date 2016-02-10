@@ -87,6 +87,14 @@ border-left: 5px solid mediumslateblue
   color: #6b6b6b;
 }
 
+.navbar-brand {
+    height: auto;
+    padding: 0px 15px;
+  }
+
+.navbar-nav {
+    padding: 17px 0px 0px;
+}
 
 /* Custom page CSS
 -------------------------------------------------- */
