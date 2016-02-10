@@ -240,6 +240,7 @@ div.footer{
   }
   .nav>li {
     font-size:18px;
+    display:inline-block;
   }
 
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
