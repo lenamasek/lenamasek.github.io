@@ -235,6 +235,9 @@ div.footer{
     float:none;
     display:block;
   }
+  .nav>li {
+    font-size:18px;
+  }
 
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #6b6b6b;
