@@ -1,4 +1,13 @@
-/* Main page with stikky-footer
+---
+---
+
+.work-image-bg {
+    background-image:url('{{ post.image }}');
+    height:300px;
+}
+
+
+/* Main page with sticky-footer
 -------------------------------------------------- */
 html,
 body {
