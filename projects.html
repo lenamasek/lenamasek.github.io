@@ -10,17 +10,11 @@ title: Work
 		{% for post in site.posts %}
 		{% if post.category contains 'project' %}
 			<div class="row">
-
-			<a href="{{ site.baseurl }}{{ post.url }}">
-			 <div class="col-sm-8 col-md-8 col-lg-8 style="background-image:url("{{ site.baseurl }}{{ post.image }}");">
-				 	<!-- <img src="{{ post.image }}" class="img-responsive"> -->
-
-				 </div></a>
 				 
-				<!--  <div class="col-sm-8 col-md-8 col-lg-8">
+				 <div class="col-sm-8 col-md-8 col-lg-8">
 				 	<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="img-responsive"></a>
 
-				 </div> -->
+				 </div>
 
 				 <div class="col-sm-4 col-md-4 col-lg-4">
 				  <h5 class="project-title">
