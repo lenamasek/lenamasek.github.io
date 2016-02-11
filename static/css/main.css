@@ -2,7 +2,7 @@
 ---
 
 .work-image-bg {
-    background-image:url('{{ post.image }}');
+    background-image:url(" {{ post.image }} ");
     height:300px;
 }
 
