@@ -14,21 +14,6 @@ hosted in [Github pages](https://pages.github.com/).
 [Sustain Live Demo](https://biomadeira.github.io/sustain)
 
 
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen3.png)
-
-**Projects page**
-![project page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen4.png)
-
-
 ## How to use it
 
 Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
@@ -44,11 +29,6 @@ Feel free pull-request your patches and fixes.
 #### Contributors
 
 [Sumit Murari](https://github.com/murarisumit), November 2015
-
-
-## Thanks 
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 
 ## Copyright & License
