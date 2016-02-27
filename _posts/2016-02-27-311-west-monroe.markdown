@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "311 West Monroe"
+date:   2016-02-27
+category: project
+image: assets/images/311Monroe-Portfolio-01.png
+---
+
+[311 West Monroe](http://311wmonroe.com) is building near the corner of Franklin and Monroe on the west side of Chicago's loop. The leasing agents at [Glenstar Properties](http://glenstar.com/) hired us at [Torque](http://torque.digital) to create a full marketing campaign to lease the building, including direct mail, email, and this website. Torque was also able to design and creative direct a sales center space in the building. 
+
+<img src="{{ site.baseurl }}/assets/images/311Monroe-Portfolio-01.png" class="img-responsive">
+
+William contacted me in the spring of 2015 to design a website for the rebranding of Manifold Garden, known at the time as Relativity. He shared some of his sketches and a few sites as inspiration, including [FireWatch](http://firewatchgame.com) by Campo Santo and [Alto's Adventure](http://altosadventure.com) by Snowman. We worked well together to come up with a design for the site.
+
+<div class="row">
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="{{ site.baseurl }}/assets/images/311Monroe-Portfolio-02.png" class="img-responsive">
+</div>
+
+<div class="col-sm-6 col-md-6 col-lg-6">
+<img src="{{ site.baseurl }}/assets/images/311Monroe-Portfolio-03.png" class="img-responsive">
+</div>
+</div>
+
+**Collaborators:** *[Torque Digital](http://torque.digital): Ben Ludwig, Drue McCurdy, Eric Masi, Jennifer Masi*
