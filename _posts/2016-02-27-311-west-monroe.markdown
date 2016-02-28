@@ -6,11 +6,13 @@ category: project
 image: assets/images/311Monroe-Portfolio-01.png
 ---
 
-[311 West Monroe](http://311wmonroe.com) is building near the corner of Franklin and Monroe on the west side of Chicago's loop. The leasing agents at [Glenstar Properties](http://glenstar.com/) hired us at [Torque](http://torque.digital) to create a full marketing campaign to lease the building, including direct mail, email, and this website. Torque was also able to design and creative direct a sales center space in the building. 
+[311 West Monroe](http://311wmonroe.com) is a building near the corner of Franklin and Monroe on the west side of Chicago's loop. The leasing agents at [GlenStar Properties](http://glenstar.com/) hired us at [Torque](http://torque.digital) to create a full marketing campaign to lease the building – including a logo, direct mail pieces, emails, and this website. Torque was also able to design and creative direct a sales center space in the building – portfolio piece to come. 
 
+<div class="row">
 <img src="{{ site.baseurl }}/assets/images/311Monroe-Portfolio-01.png" class="img-responsive">
+</div>
 
-William contacted me in the spring of 2015 to design a website for the rebranding of Manifold Garden, known at the time as Relativity. He shared some of his sketches and a few sites as inspiration, including [FireWatch](http://firewatchgame.com) by Campo Santo and [Alto's Adventure](http://altosadventure.com) by Snowman. We worked well together to come up with a design for the site.
+This site began on an already-established marketing campaign, called *Blank Canvas: Create What's Next.* *Blank Canvas* was created to emphasize that 311 W Monroe is being renovated and is open for customization and interpretation by any company that would be looking to lease space in the building. The bold, colorful splashes are used to emotionally connect with the viewer – in this case, a broker or prospective tenant – showing the excitement and positivity of leasing space at 311. 
 
 <div class="row">
 <div class="col-sm-6 col-md-6 col-lg-6">
@@ -21,5 +23,8 @@ William contacted me in the spring of 2015 to design a website for the rebrandin
 <img src="{{ site.baseurl }}/assets/images/311Monroe-Portfolio-03.png" class="img-responsive">
 </div>
 </div>
+
+We went with a dynamically reorganizing masonry grid for the front page to illustrate different canvases on a conceptual level, but also to break up the new monotony of header images and text on modern websites. This site is bright and unexpected, incorporating the campaign paint splashes on the header images on each page. 
+
 
 **Collaborators:** *[Torque Digital](http://torque.digital): Ben Ludwig, Drue McCurdy, Eric Masi, Jennifer Masi*
