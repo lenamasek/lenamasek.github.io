@@ -21,10 +21,10 @@ email: lena.masek@email.com
 github: lenamasek # username
 twitter: lenamasek
 linkedin: lenamasek
-stackoverflow: users/4338939/lena   #e.g: users/2735833/proton1h1
+stackoverflow: users/4338939/lena 
 #Comment out if you don't want disqus 
 #disqus: 
-google_analytics: UA-69391421-1
+google_analytics: UA-43033620-3
 
 
 # needed for travis-ci build
