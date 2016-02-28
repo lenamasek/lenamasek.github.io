@@ -24,7 +24,7 @@ This site began on an already-established marketing campaign, called *Blank Canv
 </div>
 </div>
 
-We went with a dynamically reorganizing masonry grid for the front page to illustrate different canvases on a conceptual level, but also to break up the new monotony of header images and text on modern websites. This site is bright and unexpected, incorporating the campaign paint splashes on the header images on each page. 
+We went with a dynamically reorganizing masonry grid for the front page to illustrate different canvases on a conceptual level, but also to break up the new monotony of header images and text on modern websites. This site is bright and unexpected, incorporating the campaign paint splashes on the header images on each page. It's always a good experience bringing excitment and vibrancy to a building campaign, marketing it in a fun and tangible way.
 
 
 **Collaborators:** *[Torque Digital](http://torque.digital): Ben Ludwig, Drue McCurdy, Eric Masi, Jennifer Masi*
