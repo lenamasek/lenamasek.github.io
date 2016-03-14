@@ -4,6 +4,7 @@ title:  "The Truth About You and Me"
 date:   2015-03-30
 category: project
 image: assets/images/SVG/portfolio-12.svg
+note: Front-End Development, PHP, Personal Project
 ---
 
 
