@@ -12,15 +12,15 @@ body {
   border-top: 4px solid mediumslateblue;
 }
 /* Wrapper for page content to push down footer */
-#wrap {
+/*#wrap {
   padding-bottom: 50px;	
   min-height: 100%;
   height: auto;
-  /* Negative indent footer by its height */
+   Negative indent footer by its height 
   margin: 0 auto -65px;
   /* Pad bottom by footer height */
-  /*padding: 0 0 60px;*/
-}
+  /*padding: 0 0 60px;
+}*/
 
 ::selection {
 	background:mediumslateblue;
@@ -107,8 +107,8 @@ border-left: 5px solid mediumslateblue
   margin: 20px auto 40px;
   overflow: auto;
   position: relative;
-  width: 500px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+/*  width: 500px;
+*/  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 }
 
 /*.article-image {
