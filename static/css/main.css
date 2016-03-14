@@ -101,23 +101,23 @@ border-left: 5px solid mediumslateblue
 
 /* Project Article Cards
 -------------------------------------------------- */
-article {
+.article {
   background: #fff;
   border-radius: 2px;
-  margin: 0 auto;
+  margin: 20px 40px 0;
   overflow: auto;
   position: relative;
   width: 400px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.075);
 }
 
-.article-image {
-/*  background: url(http://lenamasek.website/assets/images/bk_bitbash7.jpg);
-*/  background-position: center;
+/*.article-image {
+  background: url(http://lenamasek.website/assets/images/bk_bitbash7.jpg);
+  background-position: center;
   border-radius: 2px 2px 0 0;
   height: 220px;
   max-width: 100%;
-}
+}*/
 
 .article-body {
   padding: 24px 30px 0;
