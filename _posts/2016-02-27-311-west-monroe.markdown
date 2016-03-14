@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "311 West Monroe"
+title:  "311 West Monroe Website"
 date:   2016-02-27
 category: project
 image: assets/images/311Monroe-Portfolio-preview.png

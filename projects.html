@@ -5,7 +5,7 @@ title: Work
 
 <div class="container">
 <h2>Work</h2>
-  <div class="panel panel-default">
+<!--   <div class="panel panel-default">
     <div class="panel-body">
 		{% for post in site.posts %}
 		{% if post.category contains 'project' %}
@@ -28,4 +28,27 @@ title: Work
 	    {% endfor %}
 	</div>
   </div>
+</div> -->
+
+ <div class="panel panel-default">
+    <div class="panel-body">
+{% for post in site.posts %}
+		{% if post.category contains 'project' %}
+
+<article class="article tile">
+  <div class="article-image" style="background:url({{ post.image }});"></div>
+  <section class="article-body">
+    <p class="article-tags">{{ post.tags }}</p>
+    <h2 class="article-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+  </section>
+ 
+  <footer class="article-footer">
+    <ul class="article-links">
+      <li><a href="{{ site.baseurl }}{{ post.url }}">View Project</a></li>
+    </ul>
+  </footer>
+</article>
+{% endif %}
+	    {% endfor %}
+</div>
 </div>

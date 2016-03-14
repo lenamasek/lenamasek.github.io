@@ -170,6 +170,10 @@ border-left: 5px solid mediumslateblue
   .panel-body .row div:last-child {
     padding: 2% 4%;
   }
+  .panel-body .row div {
+ padding-left:0px ;
+ padding-right:0px;
+}
 }
 .panel-body img {
 	margin:0;

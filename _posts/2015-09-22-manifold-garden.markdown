@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manifold Garden"
+title:  "Manifold Garden Website"
 date:   2015-09-22
 category: project
 image: assets/images/MG-screenshot-1.png
