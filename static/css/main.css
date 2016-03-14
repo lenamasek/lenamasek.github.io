@@ -99,6 +99,74 @@ border-left: 5px solid mediumslateblue
     padding: 15px 0px 0px;
 }
 
+/* Project Article Cards
+-------------------------------------------------- */
+article {
+  background: #fff;
+  border-radius: 2px;
+  margin: 0 auto;
+  overflow: auto;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.075);
+}
+
+.article-image {
+/*  background: url(http://lenamasek.website/assets/images/bk_bitbash7.jpg);
+*/  background-position: center;
+  border-radius: 2px 2px 0 0;
+  height: 220px;
+  max-width: 100%;
+}
+
+.article-body {
+  padding: 24px 30px 0;
+}
+
+.article-heading {
+  color: #2f3032;
+  font-size: 1.5em;
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+
+.article-tags {
+  color: #a7aab0;
+  font-size: .8125em;
+  margin-bottom: .8125em;
+}
+
+.article-footer {
+  border-top: 1px solid #f1f2f3;
+  margin-top: 25px;
+  padding: 1em 30px;
+}
+
+.article-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.article-links li {
+  display: inline-block;
+  margin: 0 0 2px 0;
+}
+.article-links a {
+  color: #fff;
+  background: #66a5e9;
+  border-radius: 2px;
+  font-size: 0.6875rem;
+  padding: 3px 10px;
+  transition: background 0.3s ease;
+}
+.article-links a:hover {
+  background: #4785C7;
+  text-decoration: none;
+}
+
+
+
+
 /* Custom page CSS
 -------------------------------------------------- */
 
