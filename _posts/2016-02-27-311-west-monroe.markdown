@@ -4,10 +4,7 @@ title:  "311 West Monroe Website"
 date:   2016-02-27
 category: project
 image: assets/images/311Monroe-Portfolio-preview.png
-tags: 
-- Front-End Development
-- UI/UX
-- Wordpress
+note: Front-End Development, UI/UX, Wordpress
 ---
 
 [311 West Monroe](http://311wmonroe.com) is a building near the corner of Franklin and Monroe on the west side of Chicago's loop. The leasing agents at [GlenStar Properties](http://glenstar.com/) hired us at [Torque](http://torque.digital) to create a full marketing campaign to lease the building – including a logo, direct mail pieces, emails, and this website. Torque was also able to design and creative direct a sales center space in the building – portfolio piece to come. 
