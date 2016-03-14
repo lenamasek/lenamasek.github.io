@@ -124,22 +124,21 @@ border-left: 5px solid mediumslateblue
 }
 
 .article-heading {
-  color: #2f3032;
+  color: mediumslateblue;
   font-size: 1.5em;
-  font-weight: 300;
   margin-bottom: 16px;
 }
 
 .article-tags {
   color: #a7aab0;
-  font-size: .8125em;
-  margin-bottom: .8125em;
+/*  font-size: .8125em;
+*/  margin-bottom: .8125em;
 }
 
 .article-footer {
   border-top: 1px solid #f1f2f3;
   margin-top: 25px;
-  padding: 1em 30px;
+  padding: 1.5em 30px;
 }
 
 .article-links {
@@ -152,12 +151,13 @@ border-left: 5px solid mediumslateblue
   margin: 0 0 2px 0;
 }
 .article-links a {
-  color: #fff;
-  background: #66a5e9;
-  border-radius: 2px;
-  font-size: 0.6875rem;
-  padding: 3px 10px;
+    color: #fff !important;
+    background: mediumslateblue;
+    border-radius: 2px;
+    font-size: 1em;
+    padding: 7px 15px;
   transition: background 0.3s ease;
+
 }
 .article-links a:hover {
   background: #4785C7;
