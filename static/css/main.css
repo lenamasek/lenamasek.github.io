@@ -12,13 +12,13 @@ body {
   border-top: 4px solid mediumslateblue;
 }
 /* Wrapper for page content to push down footer */
-/*#wrap {
+#wrap {
   padding-bottom: 50px;	
   min-height: 100%;
   height: auto;
    Negative indent footer by its height 
   margin: 0 auto -65px;
-  /* Pad bottom by footer height */
+  /* Pad bottom by footer height 
   /*padding: 0 0 60px;
 }*/
 
