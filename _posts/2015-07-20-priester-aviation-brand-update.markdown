@@ -3,7 +3,7 @@ layout: post
 title:  "Priester Aviation Brand Update"
 date:   2015-07-20
 category: project
-image: assets/images/priester-previewimage.png
+image: assets/images/priesterbrand-previewimage.png
 note: Branding, Print, Production
 ---
 
