@@ -3,7 +3,7 @@ layout: post
 title:  "The Truth About You and Me"
 date:   2015-03-30
 category: project
-image: assets/images/SVG/portfolio-12.svg
+image: assets/images/truth-previewimage.png
 note: Front-End Development, PHP, Personal Project
 ---
 
