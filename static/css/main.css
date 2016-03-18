@@ -161,7 +161,7 @@ border-left: 5px solid mediumslateblue
 
 }
 .article-links a:hover {
-  background: #4785C7;
+  background:  rgba(123, 104, 238, .7);
   text-decoration: none;
 }
 

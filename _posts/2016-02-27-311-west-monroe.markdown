@@ -3,7 +3,7 @@ layout: post
 title:  "311 West Monroe Website"
 date:   2016-02-27
 category: project
-image: assets/images/311Monroe-Portfolio-preview.png
+image: assets/images/311-monroetitleimage.png
 note: Front-End Development, UI/UX, Wordpress
 ---
 
