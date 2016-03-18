@@ -3,7 +3,7 @@ layout: post
 title:  "Priester Aviation Mobile App"
 date:   2014-11-05
 category: project
-image: aassets/images/priester-previewimage.png
+image: assets/images/priester-previewimage.png
 note: UI/UX, Mobile App
 ---
 
