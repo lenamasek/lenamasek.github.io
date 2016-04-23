@@ -3,7 +3,7 @@ layout: post
 title:  "NewStory Church Branding"
 date:   2016-04-23
 category: project
-image: assets/images/NewStory-20151029_MainLogo-NoChurch.jpg
+image: assets/images/newstory-logo.jpg
 ---
 
 
