@@ -17,7 +17,9 @@ NewStory Church is a non-denominational, multi-ethnic church that meets at Swift
 
 For a backstory, I was raised in a large, multi-campus, non-denominational megachurch in Naperville, a western suburb of Chicago. In 2011, I came to Chicago to attend Columbia College and experienced life without church for the first time. Concurrently, the church in which I grew up expanded to Chicago, planting three church campuses on the north side of the city. I started attending the Edgewater campus and became part of the community there. After a few years, the campus pastors at Edgewater felt that their connection to the larger megachurch wasn't serving them or their community any longer, and they split apart to form the aptly named NewStory. _This is where I come in._
 
-In total, we created a new church brand. This encompassed logos, business cards, signage, and digital graphics.
+In total, we created a new church brand. This encompassed logos, business cards, signage, and digital graphics. 
+
+More to come! 
 
 
 <div class="row">
